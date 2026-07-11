@@ -1,0 +1,41 @@
+# Xcode
+*.xcodeproj/project.xcworkspace/
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+DerivedData/
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Gradle
+backend/.gradle/
+backend/build/
+backend/out/
+
+# Secrets / env files
+.env
+.env.*
+*.local
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python ML
+ml/__pycache__/
+ml/.venv/
+pulse-ml/
+*.pyc
+ml/models/*.mlmodel
