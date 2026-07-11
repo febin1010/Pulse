@@ -1,0 +1,5001 @@
+amount,hour_of_day,day_of_week,merchant_bucket,merchant_name,category
+217.41,23,0,1,Dominos,bills
+246.01,6,1,8,Amazon,entertainment
+1074.3,20,5,8,PhonePe,other
+2987.4,0,6,9,Paytm,other
+153.38,6,6,3,Namma Metro,transport
+663.34,11,4,4,ICICI EMI,bills
+2404.7,3,3,5,Amazon Prime,bills
+521.48,11,4,1,Pizza Hut,food
+337.41,9,0,2,Ola,transport
+153.43,20,6,2,Indian Railways,transport
+1204.84,8,5,5,HDFC EMI,bills
+450.6,7,1,0,McDonald's,food
+517.27,10,6,6,Decathlon,entertainment
+653.78,12,2,0,Swiggy,food
+707.28,10,1,1,BigBasket,food
+371.46,4,1,7,Nykaa,entertainment
+2964.47,18,3,9,D-Mart,other
+2645.24,2,6,4,BSNL,bills
+520.58,21,3,0,McDonald's,food
+4980.99,16,2,9,Google Pay,entertainment
+3433.39,3,5,8,Amazon,other
+3240.71,3,2,8,Big Bazaar,other
+1912.25,23,2,6,BookMyShow,entertainment
+4571.88,20,2,8,PhonePe,other
+1932.18,5,4,8,Apollo Pharmacy,other
+1688.36,0,0,9,Google Pay,other
+4072.33,7,0,5,Spotify,bills
+61.11,15,6,3,Uber,transport
+624.38,4,5,0,Swiggy Instamart,food
+603.61,19,3,6,INOX,entertainment
+362.22,12,5,3,Auto Rickshaw,transport
+2366.58,7,1,4,Gas Bill,bills
+465.44,18,1,1,BigBasket,food
+100.55,1,6,1,Dominos,food
+3410.76,6,4,4,Water Bill,transport
+296.58,7,6,3,Air India,transport
+279.22,21,3,7,Steam,entertainment
+4346.28,1,5,5,LIC Premium,bills
+696.25,7,1,0,Subway,bills
+222.5,8,3,2,Rapido,transport
+232.7,17,0,3,Uber,transport
+677.02,2,6,0,Swiggy Instamart,food
+251.05,12,0,3,RedBus,transport
+147.3,14,2,2,Indian Railways,transport
+1357.56,15,1,6,Decathlon,entertainment
+298.01,17,0,2,Ola,transport
+2613.18,16,1,5,LIC Premium,other
+688.51,2,4,1,Zomato,food
+352.83,18,1,1,Dominos,food
+501.72,21,4,9,Google Pay,other
+1377.75,21,5,8,More Supermarket,other
+827.35,20,2,4,ICICI EMI,bills
+117.7,19,4,7,PVR Cinemas,entertainment
+248.9,11,0,0,Swiggy Instamart,transport
+230.33,17,5,2,Rapido,transport
+3338.74,0,5,4,Hotstar,bills
+607.57,4,2,8,Zepto,other
+464.92,8,2,1,Chai Point,food
+1097.63,20,6,9,HDFC Bank ATM,other
+4545.52,1,0,4,Water Bill,bills
+106.74,4,5,6,BookMyShow,entertainment
+2847.62,13,4,5,LIC Premium,bills
+568.26,4,4,0,Haldirams,food
+464.39,13,1,1,BigBasket,food
+749.82,1,2,0,Haldirams,food
+69.34,17,6,2,Ola Electric,transport
+1858.95,7,6,6,INOX,entertainment
+443.08,0,1,2,Rapido,transport
+4050.53,23,6,4,ICICI EMI,bills
+203.62,1,6,3,Uber,transport
+764.35,7,1,7,Nykaa,entertainment
+296.2,2,6,0,Blinkit,food
+2117.86,17,2,4,Gas Bill,bills
+183.93,8,0,0,KFC,food
+596.41,10,3,1,Burger King,food
+1987.46,18,1,9,Flipkart,other
+2695.14,17,5,4,Jio,entertainment
+475.46,10,4,3,Uber,transport
+3654.54,9,4,5,Airtel,bills
+2130.92,9,4,5,HDFC EMI,bills
+471.37,21,5,2,Ola Electric,transport
+214.92,0,2,2,BMTC,transport
+2983.51,20,2,4,Hotstar,bills
+1071.23,23,1,7,Steam,entertainment
+524.71,10,0,0,Tea Stall,food
+407.15,4,0,3,Auto Rickshaw,transport
+508.46,2,3,1,Dunzo,food
+469.43,22,3,7,Crossword,entertainment
+1346.51,0,6,6,INOX,entertainment
+181.92,22,4,1,Dominos,food
+967.28,14,5,7,PVR Cinemas,transport
+1654.76,14,4,9,Google Pay,other
+2784.57,5,5,8,More Supermarket,other
+1695.74,8,6,7,Steam,entertainment
+1445.53,2,5,9,1mg,other
+1733.93,17,0,5,HDFC EMI,bills
+353.1,22,1,2,Indian Railways,transport
+456.96,13,0,1,Burger King,food
+454.32,18,5,2,Indian Railways,transport
+481.77,15,0,0,Subway,food
+4296.4,13,4,4,ICICI EMI,bills
+1180.64,7,2,8,More Supermarket,other
+738.65,21,6,6,Ajio,entertainment
+1847.13,19,4,7,Nykaa,entertainment
+473.29,0,0,1,BigBasket,food
+445.29,8,3,7,Nykaa,entertainment
+1819.34,12,2,5,HDFC EMI,bills
+993.58,23,4,7,PVR Cinemas,entertainment
+218.17,2,6,1,Burger King,food
+199.52,0,4,1,Dominos,food
+341.34,18,1,3,RedBus,transport
+418.8,19,5,7,Myntra,entertainment
+773.54,3,4,0,McDonald's,food
+558.01,12,3,1,BigBasket,food
+354.65,9,6,3,Uber,transport
+4920.84,1,2,8,Big Bazaar,other
+437.89,20,2,9,HDFC Bank ATM,other
+417.65,13,2,1,Pizza Hut,food
+434.66,16,5,6,Ajio,entertainment
+2782.77,15,3,4,YouTube Premium,bills
+609.95,7,6,7,Crossword,entertainment
+232.9,14,4,1,Dunzo,food
+240.63,10,1,9,HDFC Bank ATM,other
+746.64,19,5,6,PlayStation Store,entertainment
+4750.65,2,1,4,Gas Bill,bills
+1412.16,20,5,7,Steam,entertainment
+276.8,7,3,6,BookMyShow,entertainment
+197.13,17,4,3,Air India,transport
+2841.42,11,5,5,Amazon Prime,bills
+538.02,23,1,6,PlayStation Store,entertainment
+4764.16,22,1,4,Gas Bill,bills
+152.72,18,6,3,RedBus,transport
+4179.88,9,1,9,Flipkart,other
+3598.2,4,2,4,Jio,bills
+269.1,4,5,0,Swiggy Instamart,food
+1190.72,15,3,6,BookMyShow,entertainment
+579.71,15,0,6,BookMyShow,entertainment
+482.77,21,0,1,Zomato,food
+475.58,2,1,3,Air India,transport
+504.74,19,1,0,Blinkit,food
+2269.33,18,3,8,More Supermarket,other
+3125.84,23,0,4,Jio,bills
+337.01,5,1,2,BMTC,transport
+21.28,14,5,2,Rapido,transport
+1234.23,22,2,8,Amazon,other
+1596.87,20,4,6,PlayStation Store,transport
+127.91,4,2,2,IndiGo,transport
+305.62,18,2,2,BMTC,transport
+1429.49,8,4,6,PlayStation Store,entertainment
+3030.38,13,5,9,Flipkart,other
+637.46,21,6,4,Jio,bills
+4997.9,21,6,8,Amazon,other
+3829.85,15,4,4,Hotstar,bills
+1994.2,13,5,6,INOX,entertainment
+761.13,10,2,7,Nykaa,entertainment
+358.73,15,2,1,Burger King,food
+169.72,2,2,6,Decathlon,entertainment
+2139.44,16,6,4,Hotstar,bills
+396.48,1,1,0,Swiggy Instamart,food
+2542.62,14,6,8,Big Bazaar,other
+148.26,9,3,0,Swiggy Instamart,food
+1618.7,22,1,7,Crossword,entertainment
+2157.76,7,6,4,Gas Bill,bills
+535.78,4,3,1,Zomato,food
+2193.77,15,3,4,Water Bill,bills
+204.12,19,4,2,Rapido,transport
+390.88,13,2,2,BMTC,transport
+1485.91,9,6,8,Amazon,other
+2499.24,4,3,8,Zepto,other
+2804.4,17,3,9,HDFC Bank ATM,other
+1963.47,7,4,7,Steam,entertainment
+182.93,23,3,6,Ajio,entertainment
+1041.12,1,1,6,INOX,entertainment
+4361.53,14,0,9,HDFC Bank ATM,other
+3639.97,13,6,8,Amazon,other
+319.16,12,5,3,Namma Metro,bills
+555.77,17,3,1,Pizza Hut,food
+3844.89,17,0,4,YouTube Premium,bills
+3759.16,13,0,9,1mg,bills
+274.6,0,0,1,Chai Point,food
+1919.98,13,1,4,Water Bill,bills
+347.26,5,1,3,Air India,transport
+347.9,15,4,3,Air India,entertainment
+141.91,8,5,2,Ola Electric,transport
+725.91,21,4,1,Dunzo,food
+163.59,13,5,3,Air India,bills
+1155.44,12,6,4,Water Bill,bills
+1186.65,18,2,6,Ajio,entertainment
+237.88,21,6,4,Water Bill,entertainment
+422.55,9,6,1,Chai Point,food
+125.12,6,4,3,Namma Metro,transport
+3883.63,21,6,5,Amazon Prime,bills
+330.24,9,6,2,Ola Electric,transport
+271.25,9,2,6,INOX,bills
+1594.37,11,4,6,INOX,entertainment
+906.27,15,6,9,Reliance Fresh,other
+4060.12,14,0,5,HDFC EMI,bills
+432.87,23,5,3,Auto Rickshaw,transport
+794.97,12,0,6,Decathlon,entertainment
+1968.58,23,5,5,LIC Premium,bills
+3264.68,11,0,5,Spotify,bills
+444.43,17,2,3,Air India,transport
+3213.48,14,5,9,Flipkart,other
+870.07,1,2,5,Airtel,bills
+1785.79,4,3,7,Steam,entertainment
+896.34,23,5,6,Decathlon,entertainment
+67.53,15,4,2,Ola Electric,transport
+162.16,11,1,6,PlayStation Store,entertainment
+1725.36,3,5,7,Steam,entertainment
+1920.99,12,2,4,Netflix,bills
+64.0,6,5,3,RedBus,transport
+3955.29,7,1,8,Amazon,other
+3849.27,6,4,9,Reliance Fresh,other
+177.71,4,6,3,Auto Rickshaw,transport
+2747.06,5,0,8,Apollo Pharmacy,transport
+642.49,7,4,1,Burger King,food
+807.57,13,4,4,Jio,bills
+386.21,11,4,1,Dunzo,food
+1185.59,19,0,8,PhonePe,other
+4823.73,1,3,8,Zepto,other
+1031.51,14,0,7,PVR Cinemas,entertainment
+99.26,8,4,0,McDonald's,food
+1966.43,19,4,9,HDFC Bank ATM,other
+2264.39,22,0,5,Society Maintenance,bills
+2207.34,7,3,9,1mg,other
+2196.17,3,2,4,ICICI EMI,bills
+811.17,4,5,6,PlayStation Store,entertainment
+920.57,23,5,7,PVR Cinemas,food
+486.97,17,4,4,Gas Bill,bills
+1896.62,21,6,4,ICICI EMI,bills
+1939.96,19,2,6,BookMyShow,entertainment
+1220.36,21,3,4,Gas Bill,bills
+425.78,11,0,3,Namma Metro,transport
+2259.17,17,6,4,Hotstar,bills
+2828.02,19,5,8,Zepto,other
+3859.33,10,2,5,Amazon Prime,bills
+474.74,12,0,0,McDonald's,food
+64.04,16,1,2,Ola,transport
+399.08,9,5,7,Myntra,entertainment
+3061.47,1,1,5,Society Maintenance,bills
+343.5,8,3,2,Ola,transport
+886.95,6,6,7,Nykaa,entertainment
+643.36,21,5,8,SBI ATM,other
+1611.26,7,3,8,Zepto,other
+4732.09,4,6,8,Practo,transport
+236.11,23,3,5,Airtel,bills
+357.76,16,4,2,IndiGo,transport
+288.98,2,6,4,ICICI EMI,food
+2140.63,20,3,5,Society Maintenance,bills
+4837.72,5,6,4,Jio,bills
+4606.87,2,3,9,D-Mart,other
+350.34,2,3,1,BigBasket,food
+1798.06,5,0,5,Electricity Bill,bills
+2598.77,11,2,8,PhonePe,other
+142.86,5,4,2,Rapido,transport
+56.17,20,3,2,Ola Electric,transport
+952.92,18,5,7,Crossword,entertainment
+1649.08,14,0,8,Zepto,other
+1613.03,18,0,6,PlayStation Store,entertainment
+2415.83,1,0,4,Water Bill,bills
+3294.04,2,4,5,Airtel,bills
+2943.61,23,0,9,Paytm,other
+1338.49,10,4,7,Crossword,entertainment
+955.99,10,5,6,BookMyShow,entertainment
+79.36,22,3,0,McDonald's,food
+401.62,11,2,7,Crossword,entertainment
+1389.91,1,6,7,Myntra,entertainment
+3455.9,9,2,4,Gas Bill,food
+499.36,21,1,9,HDFC Bank ATM,other
+3552.4,12,1,4,Netflix,bills
+1616.95,12,5,9,Flipkart,other
+3573.29,23,5,4,Netflix,bills
+1872.96,11,2,8,PhonePe,entertainment
+474.88,15,1,3,Namma Metro,transport
+57.04,3,4,2,Rapido,transport
+2680.0,21,2,8,More Supermarket,other
+855.84,5,6,8,SBI ATM,other
+3633.8,1,3,8,Apollo Pharmacy,other
+4853.99,19,2,5,Electricity Bill,bills
+687.99,15,6,7,Steam,entertainment
+492.53,14,6,3,Air India,transport
+2731.33,5,6,4,Gas Bill,bills
+439.04,1,5,2,Rapido,transport
+1875.16,22,6,6,Decathlon,entertainment
+510.99,5,2,8,Practo,other
+1678.99,2,1,6,INOX,entertainment
+888.3,12,4,6,BookMyShow,entertainment
+1998.96,0,2,5,Airtel,bills
+301.47,4,1,0,Tea Stall,food
+404.34,4,6,1,Pizza Hut,food
+1821.13,0,2,6,BookMyShow,entertainment
+471.31,19,4,2,IndiGo,transport
+551.52,3,0,6,PlayStation Store,entertainment
+239.41,3,6,3,Air India,transport
+1300.71,18,1,6,BookMyShow,entertainment
+315.11,7,4,2,Ola,transport
+1094.62,11,0,7,PVR Cinemas,entertainment
+4942.82,17,0,8,Big Bazaar,other
+1307.77,11,2,6,BookMyShow,entertainment
+308.6,23,5,1,Zomato,food
+617.51,4,0,1,Chai Point,food
+3285.06,21,3,5,Spotify,bills
+219.89,14,0,6,INOX,entertainment
+1156.65,1,2,4,Hotstar,bills
+2806.09,8,0,5,Spotify,bills
+435.58,10,2,2,Ola,transport
+717.11,23,3,0,Blinkit,food
+1042.79,15,2,6,INOX,entertainment
+3662.7,2,3,9,Flipkart,other
+2772.82,10,0,8,Apollo Pharmacy,other
+279.87,19,5,0,KFC,food
+767.94,1,5,7,Nykaa,entertainment
+1517.14,1,0,4,ICICI EMI,bills
+1910.3,4,6,6,INOX,entertainment
+270.51,2,1,9,Paytm,other
+354.48,4,5,5,Society Maintenance,bills
+943.48,2,4,7,Myntra,entertainment
+170.91,8,1,2,Indian Railways,transport
+438.31,17,0,1,Dunzo,transport
+2341.56,19,2,5,Amazon Prime,bills
+1720.37,14,1,6,INOX,entertainment
+1368.9,22,0,7,Myntra,entertainment
+1569.79,5,5,8,More Supermarket,other
+127.64,6,6,2,IndiGo,transport
+32.62,17,4,3,RedBus,transport
+822.03,2,0,4,Gas Bill,bills
+3650.29,16,3,5,Amazon Prime,bills
+338.12,10,5,7,PVR Cinemas,entertainment
+438.02,4,6,0,Tea Stall,food
+3862.13,4,3,8,Apollo Pharmacy,other
+4173.81,16,1,8,Amazon,other
+4686.68,7,2,5,HDFC EMI,bills
+486.41,6,5,9,Reliance Fresh,other
+1583.84,17,0,8,Zepto,other
+4713.87,4,1,9,Google Pay,other
+1754.34,18,0,9,Google Pay,other
+538.35,18,3,0,KFC,other
+4456.08,17,2,9,Paytm,other
+4075.08,12,2,4,Hotstar,bills
+935.25,15,3,6,INOX,food
+170.04,22,2,2,Rapido,transport
+3850.95,16,4,4,BSNL,bills
+141.89,14,1,1,Dunzo,food
+434.8,13,1,2,Indian Railways,bills
+366.14,6,6,3,Air India,transport
+244.07,9,3,2,IndiGo,transport
+392.92,7,1,0,Swiggy Instamart,entertainment
+1478.65,19,6,8,Amazon,other
+1709.63,13,1,6,BookMyShow,entertainment
+2135.02,1,3,4,Hotstar,bills
+321.89,9,0,1,Dominos,food
+631.47,19,5,6,Decathlon,entertainment
+2030.13,10,4,9,Flipkart,other
+3091.42,12,4,5,Electricity Bill,bills
+299.78,15,4,1,Chai Point,transport
+365.58,19,2,6,Decathlon,entertainment
+374.87,9,4,3,Air India,transport
+2754.76,22,4,4,Gas Bill,bills
+1967.49,21,0,4,Jio,bills
+1234.13,8,5,6,BookMyShow,entertainment
+351.64,15,1,9,D-Mart,other
+3895.57,12,1,9,Google Pay,other
+29.09,10,3,3,Auto Rickshaw,food
+216.98,19,3,3,Auto Rickshaw,transport
+205.51,10,5,0,Swiggy Instamart,food
+1917.7,14,4,7,Myntra,entertainment
+3905.32,23,5,4,Netflix,bills
+4795.18,8,4,5,Electricity Bill,bills
+3901.41,22,1,4,Water Bill,bills
+1164.93,23,2,7,Myntra,entertainment
+2806.86,12,6,4,Netflix,bills
+902.23,1,2,4,Hotstar,bills
+541.98,23,3,1,Dunzo,food
+150.14,17,5,2,IndiGo,transport
+3756.02,7,1,5,Society Maintenance,bills
+219.25,7,0,0,Swiggy Instamart,food
+404.3,21,6,1,Chai Point,food
+215.32,15,3,2,Rapido,other
+174.16,20,0,2,BMTC,transport
+451.36,23,6,1,Dominos,food
+363.41,5,0,0,McDonald's,food
+1879.56,9,0,6,INOX,entertainment
+130.48,10,2,1,BigBasket,food
+1096.21,4,6,6,Decathlon,entertainment
+4063.19,10,1,9,1mg,other
+126.76,10,6,6,INOX,entertainment
+1126.37,19,6,4,Hotstar,bills
+723.06,12,5,6,Decathlon,entertainment
+408.09,7,0,0,McDonald's,food
+3817.79,10,2,5,LIC Premium,bills
+1381.61,11,5,8,Amazon,other
+167.27,12,5,3,RedBus,food
+3547.43,9,5,8,More Supermarket,other
+325.66,7,1,0,KFC,food
+378.91,19,2,3,RedBus,transport
+1538.97,21,6,7,Nykaa,entertainment
+382.27,2,4,2,Ola Electric,transport
+248.4,18,0,7,Myntra,entertainment
+429.12,18,4,0,Haldirams,food
+232.08,21,1,2,IndiGo,transport
+2600.84,1,3,8,More Supermarket,other
+290.68,17,3,3,RedBus,transport
+1420.65,0,5,4,ICICI EMI,bills
+223.37,22,0,2,Ola,transport
+4481.67,15,0,8,More Supermarket,other
+849.19,20,5,4,Hotstar,bills
+952.22,12,3,6,Ajio,entertainment
+705.92,4,5,0,Tea Stall,food
+2086.07,4,5,4,Gas Bill,bills
+489.68,14,5,2,Ola,transport
+4134.47,7,3,8,SBI ATM,other
+4699.51,23,6,5,Electricity Bill,bills
+624.54,0,1,1,BigBasket,entertainment
+234.29,21,5,2,Ola,other
+351.7,7,4,0,Swiggy,food
+87.27,9,1,2,Ola,transport
+3885.44,10,1,9,Google Pay,other
+2701.53,13,2,4,Netflix,bills
+3728.75,5,5,4,YouTube Premium,other
+1947.35,20,5,6,BookMyShow,entertainment
+1422.99,13,1,7,Myntra,entertainment
+2781.59,7,6,4,Hotstar,bills
+406.77,1,4,2,Rapido,transport
+1106.98,12,1,6,Decathlon,entertainment
+578.62,14,6,4,Netflix,bills
+1487.88,21,4,4,Jio,transport
+4042.79,18,5,9,1mg,food
+4360.42,10,2,9,1mg,other
+771.56,3,5,1,Dominos,food
+1437.16,12,1,7,Crossword,entertainment
+1965.24,17,5,8,Practo,other
+2661.03,15,3,5,HDFC EMI,bills
+402.12,10,1,1,Chai Point,food
+2899.68,7,5,4,Jio,bills
+297.99,13,2,3,Air India,other
+202.32,7,3,3,Auto Rickshaw,transport
+1754.06,15,5,8,Zepto,other
+421.6,23,4,7,Myntra,entertainment
+1981.61,1,4,6,Decathlon,entertainment
+758.89,21,0,1,Zomato,food
+523.03,2,5,1,Pizza Hut,food
+199.14,19,5,3,RedBus,other
+2490.49,0,4,8,Zepto,other
+2694.15,8,4,8,Amazon,other
+4710.56,5,0,4,Hotstar,entertainment
+193.95,16,2,1,Dominos,food
+578.37,12,3,4,ICICI EMI,bills
+1206.7,21,6,9,D-Mart,other
+537.42,1,0,1,Pizza Hut,food
+1004.41,20,0,6,Decathlon,entertainment
+396.5,18,6,2,Ola Electric,entertainment
+81.91,6,6,0,Haldirams,food
+4628.38,21,2,8,Amazon,other
+978.84,10,0,8,Amazon,other
+465.86,9,1,2,Indian Railways,transport
+4262.27,21,4,9,Reliance Fresh,other
+870.9,22,5,5,Amazon Prime,bills
+90.27,13,1,1,Burger King,food
+510.4,19,3,0,Subway,food
+4964.4,15,1,4,Hotstar,bills
+2272.3,21,4,4,ICICI EMI,bills
+1616.3,22,0,6,PlayStation Store,other
+583.76,20,1,0,Blinkit,food
+273.89,9,3,7,PVR Cinemas,entertainment
+835.17,5,3,5,Airtel,bills
+875.28,0,0,6,Decathlon,entertainment
+3070.21,10,6,5,Society Maintenance,bills
+1580.42,23,4,6,Ajio,entertainment
+348.95,5,1,2,Rapido,transport
+899.63,5,3,5,LIC Premium,bills
+3956.58,11,2,5,LIC Premium,bills
+305.03,6,3,3,RedBus,transport
+761.62,10,6,0,Swiggy,food
+1714.75,10,3,9,Reliance Fresh,other
+3055.74,22,1,9,HDFC Bank ATM,other
+1940.58,9,5,6,Ajio,entertainment
+719.18,8,6,7,Steam,entertainment
+479.62,17,1,7,Crossword,entertainment
+1127.28,9,6,9,D-Mart,entertainment
+646.28,21,3,0,Subway,food
+141.29,4,5,3,Auto Rickshaw,transport
+953.23,19,3,7,PVR Cinemas,entertainment
+4625.13,22,3,8,PhonePe,other
+4487.96,17,4,9,D-Mart,bills
+543.2,11,1,1,Dominos,food
+1724.82,13,0,8,Big Bazaar,entertainment
+610.14,17,4,0,Swiggy Instamart,transport
+2016.56,21,4,9,HDFC Bank ATM,other
+2465.58,9,3,8,Amazon,other
+156.26,9,2,1,Chai Point,food
+1017.56,15,0,6,Decathlon,entertainment
+705.93,9,0,7,Nykaa,entertainment
+132.02,5,5,0,Tea Stall,bills
+96.87,17,3,2,IndiGo,transport
+1296.54,5,5,6,Ajio,entertainment
+1777.89,14,4,7,Crossword,entertainment
+490.99,22,6,7,Steam,entertainment
+703.98,5,2,0,Subway,food
+1458.56,15,4,5,Airtel,bills
+2083.6,3,2,5,Society Maintenance,bills
+1027.3,21,5,5,Society Maintenance,bills
+605.89,4,2,5,Society Maintenance,bills
+187.28,22,1,1,Zomato,food
+775.55,12,3,9,Google Pay,other
+352.85,20,1,2,IndiGo,transport
+787.45,10,6,8,Practo,other
+1908.5,15,1,7,Myntra,entertainment
+262.61,15,3,2,IndiGo,transport
+1028.53,2,4,7,Nykaa,entertainment
+269.07,8,1,1,Dominos,food
+2340.87,23,6,8,Big Bazaar,other
+1188.16,8,6,7,PVR Cinemas,entertainment
+2756.01,1,6,9,HDFC Bank ATM,other
+294.59,20,6,6,Ajio,entertainment
+235.87,11,6,2,Ola,transport
+631.72,7,1,1,Zomato,food
+3582.69,20,3,9,Reliance Fresh,other
+410.49,1,4,3,Auto Rickshaw,transport
+2785.63,10,5,5,Society Maintenance,bills
+4771.46,16,5,4,Water Bill,bills
+639.27,1,2,0,Subway,food
+139.85,22,2,2,Rapido,transport
+208.5,4,4,2,Ola Electric,transport
+2369.01,20,6,4,ICICI EMI,bills
+258.67,11,3,1,Chai Point,food
+1750.92,23,0,6,BookMyShow,entertainment
+1715.2,17,3,7,Myntra,entertainment
+257.46,10,6,3,Auto Rickshaw,transport
+825.98,15,6,5,Society Maintenance,bills
+431.41,3,5,4,Hotstar,bills
+967.38,13,1,7,Nykaa,transport
+96.31,8,0,2,BMTC,transport
+3389.31,20,1,5,HDFC EMI,bills
+594.49,7,3,0,KFC,food
+210.07,2,1,0,Swiggy,food
+2280.83,0,5,8,Zepto,other
+2226.53,4,3,5,Spotify,bills
+598.07,3,0,1,Zomato,food
+857.36,4,5,4,Water Bill,bills
+312.95,5,3,2,Ola,other
+3791.44,13,4,4,Netflix,bills
+1803.53,4,6,7,PVR Cinemas,entertainment
+313.65,13,2,0,Blinkit,food
+60.44,17,4,2,Ola Electric,transport
+3916.95,22,0,8,Practo,other
+2645.22,23,3,5,Society Maintenance,bills
+4509.88,7,3,4,Hotstar,bills
+1312.36,2,4,7,Nykaa,entertainment
+287.35,12,6,0,Haldirams,food
+3446.42,15,6,8,PhonePe,other
+246.64,1,0,0,Swiggy,food
+1557.51,13,5,6,Decathlon,entertainment
+1270.49,8,0,6,Decathlon,other
+944.97,10,3,4,Hotstar,transport
+3284.21,20,0,9,Reliance Fresh,other
+4776.41,7,0,5,Amazon Prime,bills
+237.62,19,0,3,Uber,entertainment
+3754.9,3,0,4,Netflix,bills
+258.28,11,4,2,Rapido,transport
+1370.31,11,1,9,D-Mart,other
+3902.64,0,2,5,Airtel,bills
+599.6,18,5,7,PVR Cinemas,entertainment
+320.09,15,6,0,Swiggy Instamart,food
+1350.07,3,4,8,Apollo Pharmacy,other
+51.93,0,1,0,Swiggy Instamart,food
+740.17,5,6,0,Blinkit,food
+585.52,20,3,0,Haldirams,food
+459.61,10,2,2,Indian Railways,transport
+426.53,1,1,1,Zomato,food
+477.96,2,3,2,Ola,transport
+1770.37,17,3,4,Water Bill,bills
+472.86,9,5,0,KFC,food
+2999.29,15,6,9,HDFC Bank ATM,other
+385.03,7,1,2,IndiGo,transport
+224.75,11,5,0,Swiggy,food
+619.2,12,6,0,Swiggy,food
+4918.94,13,3,4,Gas Bill,bills
+583.74,2,0,0,McDonald's,food
+218.27,11,3,2,IndiGo,transport
+150.14,12,0,0,Swiggy Instamart,food
+3345.98,4,1,8,SBI ATM,other
+4644.93,12,5,5,HDFC EMI,bills
+1320.57,6,1,4,Water Bill,bills
+905.44,14,2,9,Flipkart,other
+1932.81,6,3,7,Myntra,entertainment
+774.7,5,6,5,Spotify,bills
+3095.46,6,6,5,Amazon Prime,bills
+1390.7,11,3,5,Amazon Prime,bills
+4118.44,5,0,8,Practo,bills
+1521.35,7,0,6,Decathlon,entertainment
+330.76,1,6,6,INOX,entertainment
+198.68,20,5,2,Indian Railways,transport
+738.07,2,0,0,KFC,food
+382.57,4,0,0,Tea Stall,food
+442.11,18,3,5,LIC Premium,bills
+1398.1,5,2,6,Ajio,entertainment
+154.33,4,0,2,BMTC,transport
+3271.66,15,3,9,1mg,other
+1470.9,4,3,9,Flipkart,other
+139.59,17,6,2,IndiGo,transport
+585.03,15,4,0,Subway,food
+1054.55,12,2,7,Crossword,entertainment
+34.07,8,0,3,Auto Rickshaw,other
+1999.25,5,0,7,Crossword,entertainment
+276.17,23,0,2,BMTC,transport
+190.31,5,1,2,Indian Railways,transport
+458.71,0,5,3,Namma Metro,transport
+881.23,6,6,5,Society Maintenance,bills
+1031.83,2,0,6,INOX,entertainment
+272.7,0,2,2,Ola,transport
+1769.72,5,6,8,Apollo Pharmacy,other
+3582.25,4,6,5,Society Maintenance,transport
+323.67,2,2,1,Pizza Hut,food
+673.35,4,1,7,Myntra,entertainment
+1333.44,5,5,7,Nykaa,entertainment
+3107.17,11,1,8,More Supermarket,other
+1603.43,22,2,8,SBI ATM,other
+475.42,18,3,2,Ola,transport
+4613.09,19,1,9,HDFC Bank ATM,other
+789.15,23,0,9,Paytm,other
+100.59,2,6,3,Namma Metro,transport
+1205.69,22,0,4,Water Bill,bills
+3657.71,1,3,5,Airtel,bills
+1780.65,15,3,6,INOX,entertainment
+4178.1,18,5,5,Airtel,bills
+403.61,1,2,3,Uber,transport
+105.65,5,3,1,Zomato,food
+472.08,2,2,2,IndiGo,transport
+2465.41,0,3,8,More Supermarket,other
+95.41,3,2,2,Indian Railways,transport
+354.65,23,5,2,Indian Railways,transport
+1557.26,3,0,8,Practo,other
+391.82,11,0,7,Nykaa,entertainment
+479.38,0,1,7,Nykaa,other
+247.31,3,2,3,Uber,transport
+273.16,17,3,6,PlayStation Store,entertainment
+197.31,14,0,2,Indian Railways,transport
+1285.19,8,4,4,Water Bill,bills
+550.6,2,5,1,Chai Point,food
+4859.36,18,1,4,ICICI EMI,bills
+2660.65,17,5,9,Reliance Fresh,entertainment
+1004.9,2,3,7,Steam,entertainment
+437.61,18,5,0,Haldirams,food
+2300.29,5,1,8,Big Bazaar,other
+57.62,21,3,2,Indian Railways,transport
+90.98,19,2,2,Ola Electric,transport
+4075.06,2,3,4,YouTube Premium,bills
+4297.46,16,3,9,HDFC Bank ATM,other
+490.68,13,0,1,BigBasket,food
+1217.07,3,0,7,Crossword,entertainment
+1501.85,17,2,8,Big Bazaar,other
+1186.84,15,0,7,Nykaa,entertainment
+316.76,21,5,2,Rapido,transport
+193.65,15,2,7,Steam,bills
+1544.94,15,6,4,Water Bill,bills
+150.79,23,3,1,Dominos,food
+3103.5,2,1,4,ICICI EMI,bills
+1507.8,16,6,6,Ajio,entertainment
+3998.95,2,2,4,Gas Bill,bills
+4271.35,18,0,8,Big Bazaar,other
+421.75,7,0,3,Auto Rickshaw,transport
+620.56,14,4,7,Steam,bills
+1394.23,7,2,7,PVR Cinemas,entertainment
+1924.99,15,4,6,INOX,entertainment
+4204.5,8,5,8,Apollo Pharmacy,other
+87.24,18,6,0,Blinkit,food
+128.05,6,2,2,Ola Electric,transport
+1000.78,4,5,6,BookMyShow,entertainment
+127.41,19,6,2,Ola,transport
+3284.8,13,3,5,Amazon Prime,bills
+2439.62,21,4,5,Electricity Bill,bills
+136.0,21,6,9,Flipkart,other
+3123.05,9,5,5,Society Maintenance,bills
+791.27,20,2,1,Burger King,food
+4770.45,20,2,5,Amazon Prime,bills
+451.85,19,3,3,Auto Rickshaw,transport
+321.21,15,2,5,Amazon Prime,bills
+2063.11,1,4,4,ICICI EMI,bills
+3660.09,7,5,9,HDFC Bank ATM,other
+4541.98,21,2,9,Paytm,other
+4219.13,17,1,8,Apollo Pharmacy,other
+1440.79,17,6,5,Amazon Prime,transport
+334.13,7,2,3,Namma Metro,transport
+221.83,10,2,2,BMTC,transport
+4285.68,15,0,5,LIC Premium,bills
+448.96,6,4,9,Google Pay,other
+447.38,13,0,0,Blinkit,food
+184.48,18,3,3,Auto Rickshaw,transport
+393.89,15,2,2,Rapido,transport
+22.26,8,1,2,Ola,transport
+255.0,2,1,2,Rapido,transport
+2076.63,15,3,8,SBI ATM,other
+329.83,0,2,1,Chai Point,transport
+120.21,23,1,8,Zepto,other
+169.8,3,3,3,Namma Metro,transport
+419.91,1,2,8,Apollo Pharmacy,other
+3062.17,10,3,4,Gas Bill,bills
+192.44,6,1,3,RedBus,transport
+501.26,0,4,6,INOX,transport
+3584.44,1,3,9,HDFC Bank ATM,other
+432.27,1,5,5,Society Maintenance,bills
+86.18,3,3,0,Swiggy,food
+580.2,22,1,6,Decathlon,entertainment
+24.47,13,5,2,Ola Electric,transport
+517.1,22,1,0,KFC,food
+1072.01,19,0,7,PVR Cinemas,entertainment
+2588.65,19,1,5,Airtel,bills
+1917.38,13,2,5,Electricity Bill,bills
+350.34,15,2,3,Auto Rickshaw,entertainment
+420.91,21,3,3,Uber,food
+56.02,23,0,2,IndiGo,transport
+4945.59,9,2,5,LIC Premium,bills
+1719.27,11,6,6,BookMyShow,transport
+655.09,1,0,5,Airtel,bills
+177.76,14,4,2,Rapido,transport
+1987.96,10,1,5,Airtel,bills
+253.87,12,5,1,Dunzo,food
+314.81,22,5,6,INOX,entertainment
+169.55,13,4,1,Pizza Hut,food
+444.4,12,6,7,Nykaa,entertainment
+3485.11,23,1,5,Spotify,bills
+1786.43,14,0,7,PVR Cinemas,entertainment
+59.27,21,4,1,Burger King,food
+4891.69,21,6,9,1mg,other
+3562.49,3,3,5,Amazon Prime,bills
+344.62,12,1,2,Ola Electric,transport
+367.37,20,1,9,Google Pay,other
+2529.59,5,0,9,Reliance Fresh,other
+1943.28,1,4,7,Myntra,entertainment
+213.57,7,0,2,Indian Railways,transport
+951.39,15,3,7,Crossword,entertainment
+3776.89,0,0,5,LIC Premium,bills
+1143.29,2,6,6,Decathlon,entertainment
+1592.53,16,4,8,Zepto,other
+476.17,11,6,3,RedBus,transport
+390.84,17,6,1,Pizza Hut,food
+3320.12,22,3,9,D-Mart,other
+306.02,20,6,0,Swiggy,transport
+3569.76,1,1,5,HDFC EMI,bills
+303.23,19,1,6,Ajio,entertainment
+123.48,6,5,2,Indian Railways,transport
+422.25,20,6,4,ICICI EMI,bills
+2307.47,21,4,8,More Supermarket,other
+121.25,23,0,9,Paytm,other
+2967.09,16,6,9,Reliance Fresh,other
+370.64,4,0,2,Rapido,transport
+1777.12,16,3,7,Crossword,entertainment
+619.83,10,2,7,Steam,entertainment
+884.22,22,5,6,INOX,entertainment
+2784.25,10,5,9,D-Mart,other
+1127.59,22,2,9,1mg,other
+4910.39,20,1,4,BSNL,bills
+1679.67,3,6,8,Zepto,other
+2938.63,21,5,5,Society Maintenance,bills
+643.26,13,6,6,Decathlon,entertainment
+335.65,1,5,0,Swiggy,food
+639.15,9,5,0,Subway,food
+3514.55,9,1,4,Jio,bills
+3118.93,21,5,9,Flipkart,entertainment
+3270.89,12,1,9,D-Mart,other
+3511.03,22,5,8,Big Bazaar,other
+362.42,21,2,0,Blinkit,food
+3140.75,14,6,9,1mg,bills
+196.52,18,4,2,Ola Electric,transport
+4825.02,9,3,9,D-Mart,other
+109.75,5,5,3,Uber,transport
+2199.69,17,2,8,Amazon,other
+22.71,14,5,2,BMTC,transport
+44.41,20,4,3,Air India,bills
+2840.32,2,6,5,Society Maintenance,bills
+2698.43,16,1,4,BSNL,bills
+274.7,7,1,6,Ajio,entertainment
+1247.76,19,4,4,Water Bill,bills
+317.97,11,3,6,BookMyShow,entertainment
+460.93,7,0,3,Air India,transport
+4735.89,12,2,4,Hotstar,bills
+4565.55,11,4,8,Amazon,other
+1552.53,20,1,8,Amazon,other
+1002.66,17,4,5,Airtel,bills
+552.75,6,6,1,Dominos,food
+1121.73,22,5,7,Steam,entertainment
+1519.09,4,0,7,PVR Cinemas,entertainment
+266.29,1,1,6,BookMyShow,entertainment
+4143.59,8,3,5,Society Maintenance,bills
+922.75,0,3,6,Ajio,entertainment
+590.21,2,6,0,Tea Stall,food
+4647.43,3,2,9,HDFC Bank ATM,food
+3873.08,14,3,4,Water Bill,bills
+1000.58,17,1,6,BookMyShow,entertainment
+161.59,20,1,2,IndiGo,transport
+4833.72,23,5,4,YouTube Premium,bills
+2856.47,17,1,4,Jio,bills
+345.56,17,0,1,BigBasket,other
+4536.93,11,1,5,Amazon Prime,bills
+370.66,5,1,6,Decathlon,entertainment
+661.65,21,6,9,1mg,other
+3780.1,17,3,9,Reliance Fresh,other
+581.19,23,4,8,Practo,food
+343.61,20,1,7,Myntra,entertainment
+725.09,10,3,1,Zomato,food
+1417.57,4,4,6,PlayStation Store,entertainment
+4797.43,5,0,9,HDFC Bank ATM,other
+3618.27,20,3,5,Electricity Bill,bills
+3461.66,10,3,4,BSNL,bills
+1025.25,3,1,6,PlayStation Store,entertainment
+4149.57,17,1,9,Reliance Fresh,bills
+566.1,2,0,4,Netflix,bills
+2951.26,12,6,9,Reliance Fresh,other
+2802.81,17,4,8,Amazon,other
+795.06,7,6,6,INOX,entertainment
+756.02,16,4,8,Practo,other
+57.94,7,6,0,Swiggy Instamart,food
+2619.27,14,1,8,Big Bazaar,other
+336.52,4,5,3,Air India,transport
+515.76,15,1,6,BookMyShow,entertainment
+82.11,6,4,1,Dominos,food
+2381.74,1,0,4,YouTube Premium,bills
+3240.76,8,6,4,Gas Bill,bills
+1033.65,20,3,5,Society Maintenance,bills
+4210.09,16,2,4,YouTube Premium,bills
+1081.11,11,6,7,Steam,entertainment
+4458.31,0,4,5,LIC Premium,bills
+57.0,20,2,3,Auto Rickshaw,transport
+193.87,22,6,2,Rapido,transport
+658.38,23,0,0,Blinkit,food
+500.34,5,5,7,Nykaa,entertainment
+1189.62,5,1,6,INOX,food
+373.97,8,1,8,Apollo Pharmacy,other
+4849.29,20,0,9,Google Pay,other
+2355.63,15,6,5,Electricity Bill,bills
+1241.59,18,6,6,Ajio,entertainment
+146.97,23,5,2,IndiGo,transport
+3034.45,7,3,5,Society Maintenance,bills
+484.46,16,5,6,BookMyShow,entertainment
+282.97,15,4,7,Crossword,entertainment
+3786.68,2,3,8,PhonePe,other
+417.21,21,5,2,IndiGo,transport
+1762.17,22,4,7,Myntra,entertainment
+1600.16,12,2,7,Nykaa,entertainment
+3831.54,22,4,8,More Supermarket,other
+407.86,7,6,0,KFC,food
+457.8,8,1,0,Haldirams,food
+55.34,16,0,0,Subway,food
+4041.01,13,2,9,D-Mart,transport
+489.03,8,6,0,Tea Stall,food
+3098.22,21,3,9,HDFC Bank ATM,other
+251.58,11,4,2,IndiGo,transport
+2930.49,22,3,8,Practo,other
+77.16,7,3,2,Ola Electric,transport
+212.27,10,6,2,IndiGo,transport
+3563.27,5,3,8,Zepto,other
+159.0,19,3,1,Pizza Hut,food
+110.03,1,5,1,Burger King,transport
+1266.53,16,2,6,Ajio,entertainment
+2522.41,0,1,8,Zepto,transport
+3941.4,16,4,8,Amazon,other
+37.31,7,5,2,Ola Electric,transport
+797.61,12,2,1,Zomato,food
+1083.71,23,5,7,Steam,entertainment
+263.37,17,4,0,Swiggy Instamart,food
+1526.51,19,1,5,Spotify,bills
+108.84,5,3,7,Crossword,entertainment
+2565.53,10,0,9,Flipkart,other
+2735.73,18,2,8,More Supermarket,other
+1018.9,7,6,7,Crossword,entertainment
+3471.34,18,6,5,LIC Premium,bills
+100.67,20,6,0,KFC,food
+404.08,13,2,3,Auto Rickshaw,transport
+4177.67,7,2,9,D-Mart,other
+665.81,2,4,1,Chai Point,food
+124.91,18,2,3,Namma Metro,transport
+466.52,6,3,2,Ola Electric,transport
+438.92,6,1,3,Auto Rickshaw,transport
+190.89,3,0,3,Air India,transport
+419.5,0,6,0,Tea Stall,food
+2463.23,19,2,9,Reliance Fresh,other
+1750.66,15,1,7,Crossword,entertainment
+3775.83,4,0,9,1mg,other
+4704.31,1,4,9,Paytm,other
+3924.11,14,0,4,Netflix,bills
+141.25,21,1,9,D-Mart,other
+787.04,8,1,7,Myntra,entertainment
+2409.59,19,2,8,Practo,other
+1209.77,22,6,4,ICICI EMI,bills
+1541.5,5,4,4,ICICI EMI,bills
+129.71,3,5,2,Ola Electric,transport
+2274.08,12,1,4,Gas Bill,bills
+247.03,0,1,2,Rapido,transport
+1114.57,10,6,6,Decathlon,entertainment
+1731.15,1,3,6,Decathlon,entertainment
+211.6,8,3,0,Swiggy,food
+244.83,11,4,1,Burger King,food
+1786.29,13,0,8,Practo,other
+1154.2,18,5,5,Society Maintenance,bills
+1494.58,10,5,8,Big Bazaar,other
+2289.96,2,3,9,D-Mart,other
+4787.31,5,5,8,Zepto,other
+2943.43,2,0,5,Society Maintenance,bills
+172.1,9,5,3,Namma Metro,transport
+1501.26,14,6,4,ICICI EMI,bills
+4834.49,13,1,4,Gas Bill,bills
+369.33,21,2,2,Rapido,transport
+127.26,2,3,0,Blinkit,food
+3848.48,2,0,8,PhonePe,entertainment
+3342.85,12,2,5,Airtel,bills
+232.72,4,1,2,BMTC,transport
+272.26,11,6,8,Amazon,other
+4879.89,17,2,5,LIC Premium,bills
+2742.51,18,4,9,D-Mart,other
+926.46,20,5,7,Crossword,entertainment
+2460.09,7,6,9,HDFC Bank ATM,other
+359.15,4,2,1,Burger King,food
+265.07,17,0,1,Burger King,transport
+669.26,13,6,7,Nykaa,entertainment
+233.65,11,1,4,Hotstar,bills
+850.03,5,5,6,Ajio,entertainment
+599.66,13,5,7,Steam,entertainment
+407.64,21,2,3,Air India,transport
+4082.09,13,1,4,Gas Bill,bills
+132.77,14,4,0,KFC,food
+1034.79,10,0,7,Crossword,entertainment
+109.25,3,2,2,Ola,other
+3689.84,7,0,5,LIC Premium,bills
+221.72,15,2,3,Namma Metro,transport
+727.47,4,0,6,BookMyShow,entertainment
+2806.86,5,1,5,Airtel,bills
+259.57,22,1,5,Spotify,bills
+569.61,1,1,7,Nykaa,entertainment
+1090.16,6,3,7,PVR Cinemas,entertainment
+1878.81,5,5,6,PlayStation Store,entertainment
+440.69,8,3,0,Swiggy Instamart,food
+449.07,21,1,4,YouTube Premium,bills
+293.39,5,6,0,Blinkit,food
+3987.68,0,0,4,ICICI EMI,bills
+3473.19,4,2,9,Paytm,other
+118.55,19,2,1,Dunzo,food
+452.26,3,1,1,Chai Point,transport
+1598.27,11,6,6,Decathlon,entertainment
+1409.57,11,5,6,BookMyShow,entertainment
+252.95,14,4,2,Ola,transport
+1110.11,5,4,5,LIC Premium,bills
+1520.83,19,6,5,LIC Premium,bills
+859.62,9,6,8,PhonePe,other
+202.46,20,4,5,LIC Premium,bills
+1277.5,11,6,6,BookMyShow,entertainment
+410.37,17,6,9,D-Mart,other
+1554.89,4,4,7,Nykaa,entertainment
+1745.04,3,4,4,Netflix,bills
+705.12,6,0,0,McDonald's,transport
+1184.92,12,5,6,BookMyShow,entertainment
+586.28,11,1,7,Crossword,entertainment
+4658.03,6,5,8,Amazon,other
+989.31,20,0,7,PVR Cinemas,entertainment
+2195.99,11,6,4,YouTube Premium,bills
+446.77,23,0,0,KFC,food
+665.27,23,1,4,Gas Bill,transport
+2678.34,7,4,9,1mg,other
+219.29,3,6,2,IndiGo,transport
+3542.5,13,0,9,Paytm,other
+212.75,10,5,2,IndiGo,transport
+232.65,11,2,3,Air India,transport
+4239.78,13,6,9,HDFC Bank ATM,other
+1255.99,18,4,7,Myntra,entertainment
+464.55,8,2,2,IndiGo,transport
+100.37,1,2,6,Ajio,entertainment
+1579.02,9,1,8,More Supermarket,transport
+390.33,22,6,2,Ola,transport
+2869.91,18,1,4,Gas Bill,bills
+153.81,11,4,0,McDonald's,bills
+64.11,12,4,2,BMTC,transport
+400.59,5,3,3,Namma Metro,transport
+3016.63,9,0,9,Flipkart,other
+374.02,10,2,8,Big Bazaar,other
+1752.59,7,5,7,PVR Cinemas,entertainment
+3909.35,12,0,8,Zepto,other
+2791.2,4,2,5,HDFC EMI,bills
+347.55,23,3,8,Apollo Pharmacy,other
+1058.99,7,3,7,Crossword,entertainment
+833.64,2,3,4,BSNL,bills
+2056.04,2,3,8,PhonePe,other
+738.84,4,3,9,D-Mart,other
+3296.02,6,4,8,SBI ATM,other
+1306.6,2,2,8,PhonePe,other
+270.23,21,3,7,Crossword,entertainment
+709.4,19,5,7,Steam,entertainment
+790.74,19,6,0,McDonald's,food
+185.27,7,1,7,Nykaa,entertainment
+4293.12,3,5,5,Amazon Prime,bills
+745.05,9,0,1,BigBasket,food
+1663.87,15,0,5,Airtel,bills
+1216.21,17,4,4,Gas Bill,bills
+3703.36,4,5,5,Society Maintenance,bills
+547.65,1,2,0,Haldirams,food
+150.22,14,5,3,Air India,transport
+689.06,21,2,0,Tea Stall,bills
+784.84,16,5,1,Dominos,entertainment
+700.08,17,0,1,Dunzo,food
+289.13,22,0,3,RedBus,transport
+278.7,15,3,0,Swiggy Instamart,food
+320.11,7,4,3,Namma Metro,bills
+1436.12,12,6,4,Netflix,bills
+219.19,10,3,0,KFC,food
+481.09,19,6,2,IndiGo,entertainment
+93.32,9,4,3,Air India,transport
+1191.64,4,4,4,BSNL,bills
+4326.68,9,5,9,1mg,other
+4978.86,4,5,8,SBI ATM,other
+432.29,17,5,9,HDFC Bank ATM,other
+709.73,23,0,1,Pizza Hut,food
+4813.7,9,3,4,ICICI EMI,bills
+711.61,5,0,5,Electricity Bill,bills
+2878.51,7,4,9,Google Pay,other
+192.45,22,6,2,Ola,transport
+990.65,20,2,7,Crossword,entertainment
+247.45,5,1,3,RedBus,transport
+476.1,7,5,2,BMTC,food
+105.0,14,6,3,Uber,transport
+4347.2,7,3,9,HDFC Bank ATM,other
+1497.13,12,5,7,Crossword,entertainment
+2944.86,17,4,5,Amazon Prime,bills
+392.68,1,1,1,Dunzo,food
+292.33,12,4,9,D-Mart,other
+348.53,9,6,1,Dunzo,food
+1612.51,1,5,4,ICICI EMI,bills
+4166.48,14,0,9,Paytm,other
+2968.69,22,4,8,Big Bazaar,other
+236.43,5,3,3,Namma Metro,transport
+1089.47,14,0,8,More Supermarket,other
+4554.29,5,5,4,Netflix,bills
+322.21,16,5,0,Tea Stall,entertainment
+1262.94,5,3,6,Decathlon,entertainment
+937.34,10,4,8,Big Bazaar,other
+105.86,22,0,2,Rapido,transport
+648.68,5,0,7,Nykaa,entertainment
+318.83,8,0,2,Ola,transport
+1132.65,0,4,7,Nykaa,entertainment
+1352.99,14,3,7,Crossword,entertainment
+564.96,17,2,6,BookMyShow,other
+4143.74,1,1,9,Reliance Fresh,other
+89.78,1,5,2,Ola,bills
+1722.44,2,0,8,Practo,other
+171.0,9,4,0,McDonald's,food
+969.35,14,5,8,PhonePe,other
+556.32,9,2,8,Amazon,other
+523.87,13,6,5,Spotify,bills
+697.91,8,2,8,Apollo Pharmacy,entertainment
+3509.56,19,0,9,1mg,other
+446.71,2,3,0,Tea Stall,food
+1507.22,19,6,9,D-Mart,other
+4976.11,11,1,5,Society Maintenance,bills
+3673.01,15,3,8,PhonePe,other
+360.12,6,0,3,Auto Rickshaw,transport
+686.05,19,3,1,Chai Point,food
+1631.48,6,0,6,Decathlon,bills
+399.29,9,2,2,BMTC,transport
+130.04,21,2,8,Big Bazaar,other
+3156.38,0,6,5,Society Maintenance,bills
+462.69,15,3,3,Namma Metro,transport
+166.54,14,6,1,Dunzo,food
+3941.55,13,5,9,Paytm,other
+473.71,21,2,0,KFC,food
+2929.25,10,6,9,1mg,other
+4235.39,10,3,4,Water Bill,transport
+3067.88,5,4,9,Google Pay,other
+281.21,10,5,0,Subway,food
+422.79,7,2,1,Zomato,food
+510.67,9,1,6,PlayStation Store,entertainment
+633.34,2,3,0,Swiggy,food
+2550.27,6,2,8,More Supermarket,entertainment
+689.68,10,1,6,Decathlon,entertainment
+557.54,4,1,0,Swiggy Instamart,food
+698.61,3,0,1,Chai Point,food
+4270.84,2,2,4,Netflix,bills
+1089.1,21,5,7,PVR Cinemas,entertainment
+4482.14,10,1,4,Netflix,bills
+173.19,14,5,2,IndiGo,transport
+255.23,0,4,0,McDonald's,food
+2758.39,17,2,9,1mg,other
+4059.02,18,1,5,Amazon Prime,bills
+279.48,1,1,3,Namma Metro,other
+87.84,12,0,0,Tea Stall,food
+578.51,18,5,0,McDonald's,food
+731.43,6,5,6,PlayStation Store,entertainment
+745.8,22,3,9,Google Pay,entertainment
+533.31,14,3,0,Tea Stall,food
+433.33,19,2,2,Rapido,transport
+4602.79,10,6,5,Amazon Prime,bills
+512.82,3,2,4,Jio,bills
+636.29,11,4,6,INOX,entertainment
+2087.86,22,6,9,Flipkart,other
+103.19,9,4,0,Tea Stall,food
+553.29,7,4,6,Ajio,entertainment
+51.71,6,6,2,Indian Railways,transport
+2879.33,10,4,8,SBI ATM,other
+57.39,22,4,2,Ola Electric,transport
+979.53,17,0,7,Crossword,entertainment
+232.25,3,5,6,Ajio,entertainment
+1704.3,20,5,8,SBI ATM,other
+485.58,20,6,0,Haldirams,transport
+161.91,17,2,0,Tea Stall,food
+471.77,21,2,7,Nykaa,entertainment
+3461.56,13,5,4,YouTube Premium,bills
+237.98,16,3,5,Society Maintenance,bills
+197.23,17,0,2,Ola,transport
+784.02,3,6,1,Pizza Hut,food
+2271.67,18,3,5,Electricity Bill,bills
+2030.89,17,1,4,ICICI EMI,bills
+286.6,11,6,3,Auto Rickshaw,transport
+355.13,2,5,6,INOX,entertainment
+415.03,13,1,0,Haldirams,food
+361.89,14,6,0,Subway,food
+981.01,16,3,9,Google Pay,other
+1841.01,5,3,8,SBI ATM,other
+3681.48,22,4,9,Reliance Fresh,entertainment
+2966.07,1,0,4,Gas Bill,bills
+654.51,15,5,9,HDFC Bank ATM,other
+444.81,8,3,1,Chai Point,food
+1301.63,20,5,9,Flipkart,other
+648.57,9,4,0,Swiggy Instamart,food
+633.9,15,3,0,Swiggy Instamart,food
+3695.69,13,2,9,Google Pay,other
+3535.94,19,5,4,Jio,bills
+1449.39,20,3,5,Society Maintenance,bills
+3315.97,9,6,8,Amazon,other
+721.42,2,6,9,Flipkart,entertainment
+1547.95,8,0,5,Society Maintenance,bills
+493.83,4,5,0,Haldirams,food
+596.38,22,1,6,INOX,entertainment
+1737.83,10,0,6,Decathlon,entertainment
+422.05,13,6,2,Rapido,transport
+1479.4,5,1,7,Nykaa,entertainment
+366.2,8,6,9,HDFC Bank ATM,other
+407.17,15,5,0,Blinkit,entertainment
+3557.48,15,2,8,Zepto,other
+25.69,14,3,2,Indian Railways,transport
+4788.14,3,4,4,Netflix,bills
+3129.94,20,6,4,ICICI EMI,bills
+4050.92,8,5,4,Water Bill,bills
+3408.93,7,5,8,Big Bazaar,other
+1753.29,22,1,8,PhonePe,other
+239.69,2,0,4,Netflix,bills
+767.88,23,2,7,Nykaa,food
+3172.73,1,4,4,Jio,bills
+78.46,3,0,2,Ola Electric,transport
+3842.9,20,4,8,Zepto,other
+141.6,14,5,2,Rapido,transport
+796.44,13,5,0,Haldirams,food
+554.26,1,3,4,Hotstar,bills
+590.65,8,1,6,BookMyShow,entertainment
+846.01,20,3,7,Crossword,transport
+373.44,19,5,0,Subway,food
+244.25,1,0,1,Chai Point,food
+632.93,0,3,0,KFC,food
+467.79,21,3,2,Ola,transport
+4542.07,18,0,5,HDFC EMI,bills
+2504.33,13,3,8,Big Bazaar,other
+338.32,22,6,0,Swiggy,food
+1876.58,11,2,6,Decathlon,entertainment
+4985.67,20,0,4,Netflix,bills
+585.27,14,6,5,HDFC EMI,bills
+2861.04,12,5,4,BSNL,bills
+450.3,20,5,2,Indian Railways,transport
+3237.03,23,1,4,YouTube Premium,bills
+134.47,12,0,3,Air India,food
+2716.31,14,0,9,Paytm,other
+640.83,1,3,1,Burger King,food
+550.49,14,5,0,Tea Stall,food
+1241.63,2,0,9,Google Pay,other
+246.19,19,0,2,Ola,transport
+26.9,20,0,2,Rapido,transport
+2389.14,5,6,5,Airtel,bills
+2536.0,19,1,9,Flipkart,food
+303.01,23,5,0,Blinkit,food
+1137.18,10,6,7,Crossword,entertainment
+103.25,2,0,3,Air India,transport
+1005.81,11,4,4,ICICI EMI,bills
+39.54,3,6,3,Air India,transport
+176.59,15,0,8,Apollo Pharmacy,other
+538.82,9,3,1,Chai Point,food
+371.87,8,4,7,Steam,entertainment
+1260.02,1,4,6,INOX,entertainment
+476.14,20,6,3,Air India,transport
+2876.57,6,0,4,Jio,bills
+1873.32,17,4,9,Google Pay,other
+336.48,8,0,2,Ola Electric,transport
+348.92,15,3,2,Rapido,transport
+45.93,11,2,2,Ola,transport
+316.07,14,0,3,Namma Metro,transport
+453.02,5,6,0,Haldirams,food
+103.14,7,5,1,Zomato,food
+896.23,23,5,7,Myntra,entertainment
+1764.76,3,1,5,Airtel,bills
+1793.59,2,3,6,Ajio,entertainment
+2235.74,6,4,8,More Supermarket,other
+359.17,23,1,7,Myntra,entertainment
+1811.61,1,5,5,Electricity Bill,bills
+4273.09,14,3,9,Flipkart,transport
+445.48,19,1,3,Auto Rickshaw,transport
+4853.67,7,0,9,Google Pay,other
+1738.18,6,4,7,Nykaa,entertainment
+127.56,13,5,6,PlayStation Store,entertainment
+298.14,18,1,2,Indian Railways,transport
+4902.9,1,3,8,SBI ATM,other
+2448.42,22,6,8,SBI ATM,other
+112.32,0,5,1,Dominos,food
+780.97,7,5,6,INOX,entertainment
+577.48,18,5,0,McDonald's,bills
+3881.99,22,3,9,Paytm,entertainment
+320.87,22,5,3,Namma Metro,transport
+338.66,22,2,1,Zomato,food
+1421.97,19,4,8,Big Bazaar,entertainment
+3454.86,19,2,8,Big Bazaar,other
+555.99,1,0,0,Haldirams,food
+177.66,11,1,7,Crossword,entertainment
+3575.75,6,1,8,PhonePe,other
+3315.03,23,6,5,Airtel,bills
+1127.99,23,6,9,D-Mart,other
+261.71,13,2,2,BMTC,transport
+414.67,16,6,1,Dunzo,bills
+558.73,17,2,0,Swiggy Instamart,food
+457.87,14,0,7,PVR Cinemas,entertainment
+266.28,2,0,0,McDonald's,food
+258.24,6,4,2,Rapido,transport
+456.08,4,3,0,Tea Stall,food
+3294.13,9,1,5,Amazon Prime,bills
+760.59,20,2,1,Pizza Hut,transport
+1023.68,21,5,7,Myntra,entertainment
+2344.23,18,1,9,Paytm,other
+1287.78,11,2,4,Water Bill,bills
+391.94,5,4,0,KFC,food
+107.49,5,6,2,BMTC,transport
+39.75,10,4,3,Uber,transport
+108.56,17,5,3,Namma Metro,transport
+160.96,14,4,1,Burger King,food
+461.81,12,3,3,Uber,transport
+94.91,23,4,3,Namma Metro,transport
+1548.23,9,6,9,D-Mart,other
+2869.63,14,2,8,Big Bazaar,other
+80.06,21,4,0,Haldirams,food
+513.14,7,3,0,Blinkit,food
+3277.94,18,4,5,Society Maintenance,food
+113.94,2,4,2,BMTC,transport
+1954.1,12,1,7,PVR Cinemas,entertainment
+1071.96,1,5,7,Crossword,entertainment
+4298.11,11,3,5,Amazon Prime,bills
+1678.12,14,6,5,HDFC EMI,bills
+4963.73,14,2,9,D-Mart,entertainment
+369.73,13,1,2,Indian Railways,transport
+1118.14,15,6,8,Apollo Pharmacy,other
+4672.45,18,6,9,Flipkart,other
+887.58,17,3,6,PlayStation Store,entertainment
+1076.36,12,2,8,Apollo Pharmacy,other
+4148.62,18,2,9,Reliance Fresh,other
+526.59,0,1,7,Nykaa,entertainment
+4204.2,15,0,4,Netflix,bills
+4552.51,20,1,5,LIC Premium,bills
+419.79,2,4,0,KFC,food
+2292.56,8,5,5,Society Maintenance,bills
+809.08,23,4,7,PVR Cinemas,entertainment
+486.24,4,2,0,McDonald's,food
+779.03,1,2,6,INOX,entertainment
+4784.71,1,2,4,YouTube Premium,bills
+567.84,6,6,4,YouTube Premium,bills
+381.26,17,2,3,Air India,transport
+4039.21,8,5,4,Netflix,bills
+4151.73,0,1,5,HDFC EMI,other
+2476.01,10,1,8,Big Bazaar,other
+215.84,6,6,0,Swiggy Instamart,food
+4767.23,17,5,9,Reliance Fresh,other
+658.44,14,0,8,Big Bazaar,other
+63.03,11,2,0,Haldirams,food
+4470.58,19,4,5,LIC Premium,bills
+337.07,3,1,4,Water Bill,bills
+350.26,9,1,2,Rapido,transport
+223.91,3,0,3,Uber,transport
+373.44,6,0,0,Subway,food
+494.88,15,0,0,Swiggy Instamart,food
+248.32,3,6,4,Netflix,bills
+490.7,6,1,1,Dominos,food
+3781.5,8,4,5,Spotify,transport
+2602.55,23,4,5,Spotify,bills
+67.57,18,6,3,Uber,transport
+193.66,9,1,1,Chai Point,food
+1148.68,16,6,8,More Supermarket,food
+451.74,21,0,7,Crossword,entertainment
+223.56,16,1,2,Indian Railways,transport
+334.87,3,4,7,Myntra,entertainment
+358.27,17,5,3,Namma Metro,transport
+338.59,14,4,1,Zomato,entertainment
+2330.43,17,3,5,Spotify,bills
+1105.36,2,6,4,ICICI EMI,bills
+440.66,21,3,7,Myntra,entertainment
+543.91,2,0,0,Swiggy Instamart,food
+489.23,23,1,3,Air India,transport
+303.97,19,6,1,Dominos,food
+1477.88,8,6,6,Ajio,entertainment
+3968.51,20,3,8,Big Bazaar,other
+4760.62,15,4,5,Society Maintenance,bills
+717.68,8,3,5,LIC Premium,bills
+156.47,23,0,6,INOX,entertainment
+779.05,12,4,0,Swiggy,food
+3191.14,2,5,5,Society Maintenance,bills
+2383.51,9,5,8,Big Bazaar,other
+1130.63,17,4,6,PlayStation Store,entertainment
+793.03,3,3,0,Swiggy,food
+940.86,1,0,6,Ajio,entertainment
+444.66,5,3,2,BMTC,transport
+1026.16,3,4,6,Ajio,entertainment
+1187.2,15,4,6,Decathlon,entertainment
+146.43,18,3,2,Indian Railways,transport
+4891.14,10,0,8,Big Bazaar,other
+677.7,11,6,0,McDonald's,food
+577.02,11,2,8,SBI ATM,bills
+570.47,20,2,7,Steam,entertainment
+1594.07,10,1,9,Reliance Fresh,food
+395.68,13,4,0,Swiggy,food
+199.97,15,4,8,Practo,other
+477.77,10,4,0,Blinkit,food
+568.15,6,2,1,Zomato,food
+416.59,9,2,7,Myntra,entertainment
+1696.72,17,1,7,PVR Cinemas,entertainment
+4981.89,12,6,4,Water Bill,bills
+364.5,18,0,3,Uber,transport
+2875.5,16,3,9,Flipkart,other
+1337.92,9,4,7,PVR Cinemas,entertainment
+1703.41,13,3,4,Gas Bill,bills
+3423.16,17,1,5,LIC Premium,bills
+697.03,18,3,0,Swiggy Instamart,food
+148.61,20,4,3,RedBus,transport
+2225.25,18,5,8,More Supermarket,other
+396.87,7,1,1,Burger King,food
+1728.85,2,5,4,ICICI EMI,bills
+415.38,20,1,2,BMTC,transport
+2147.56,3,1,5,Electricity Bill,bills
+252.98,13,3,3,RedBus,bills
+152.32,8,6,0,KFC,food
+3292.25,1,5,4,BSNL,bills
+1733.21,2,2,6,BookMyShow,entertainment
+4512.82,13,2,9,Flipkart,other
+593.18,4,1,1,Pizza Hut,food
+749.7,16,5,0,Swiggy Instamart,food
+2673.77,15,0,8,More Supermarket,other
+178.06,18,5,3,Namma Metro,transport
+1877.45,6,1,7,Steam,entertainment
+379.61,8,6,0,KFC,food
+3528.13,3,2,9,HDFC Bank ATM,other
+1307.1,8,6,8,Zepto,other
+414.26,0,5,3,Namma Metro,transport
+4595.54,21,1,9,D-Mart,food
+3266.59,22,2,4,Water Bill,bills
+693.24,12,0,1,Dominos,food
+671.69,7,2,6,PlayStation Store,entertainment
+459.63,20,2,2,Rapido,transport
+1746.24,15,3,6,PlayStation Store,entertainment
+1463.03,3,6,7,Myntra,entertainment
+51.86,13,4,2,IndiGo,transport
+3506.53,1,5,9,Paytm,other
+85.32,12,1,2,Ola Electric,transport
+731.09,7,4,5,Airtel,bills
+216.95,10,3,2,Ola Electric,transport
+595.29,21,4,6,INOX,entertainment
+604.2,11,1,5,Electricity Bill,bills
+526.53,0,4,7,Crossword,entertainment
+535.99,14,1,8,More Supermarket,other
+438.01,19,3,4,BSNL,bills
+4794.36,5,4,9,Flipkart,other
+630.02,14,6,0,Blinkit,other
+462.03,8,2,7,Steam,entertainment
+1727.04,19,1,6,Ajio,entertainment
+2207.41,13,6,5,Electricity Bill,bills
+316.49,7,2,3,Auto Rickshaw,bills
+520.12,15,1,9,Paytm,other
+3496.58,22,3,4,ICICI EMI,bills
+238.81,17,0,6,PlayStation Store,entertainment
+403.2,11,4,1,Dominos,food
+323.01,8,4,8,Big Bazaar,other
+3389.18,4,4,8,SBI ATM,other
+177.4,15,2,0,KFC,food
+1449.49,13,1,7,Myntra,entertainment
+4896.86,15,6,4,Jio,bills
+2263.84,8,4,4,YouTube Premium,bills
+4484.72,10,5,4,ICICI EMI,bills
+1155.78,21,5,6,INOX,entertainment
+536.74,1,3,6,BookMyShow,transport
+2294.3,15,0,5,LIC Premium,bills
+1021.88,15,0,6,Decathlon,entertainment
+117.79,9,1,3,Uber,transport
+290.36,21,4,2,BMTC,transport
+272.49,18,1,2,Ola,transport
+1559.68,21,0,7,Steam,entertainment
+1992.45,3,6,4,ICICI EMI,food
+2408.58,22,5,5,Airtel,bills
+1228.99,0,2,6,PlayStation Store,entertainment
+293.69,23,5,1,Dunzo,food
+338.54,20,2,9,Reliance Fresh,other
+538.55,19,3,5,Amazon Prime,bills
+230.06,12,0,0,McDonald's,food
+341.38,12,2,0,McDonald's,food
+404.53,23,6,3,RedBus,transport
+829.31,21,0,5,Society Maintenance,bills
+2337.57,12,3,5,LIC Premium,bills
+632.16,13,6,4,ICICI EMI,bills
+3226.92,2,0,4,ICICI EMI,bills
+3414.56,20,5,9,Paytm,other
+322.19,16,0,2,IndiGo,transport
+4554.5,15,2,5,Airtel,bills
+453.39,7,4,2,Ola Electric,transport
+1146.89,1,4,6,BookMyShow,entertainment
+120.86,21,5,0,Blinkit,food
+1348.82,2,6,9,HDFC Bank ATM,other
+3952.27,12,0,8,Apollo Pharmacy,entertainment
+273.24,18,5,1,Chai Point,food
+1285.24,8,2,7,Nykaa,entertainment
+378.57,19,2,3,Uber,transport
+54.39,3,0,0,Swiggy,food
+352.07,21,5,3,RedBus,transport
+3130.65,19,2,8,Practo,other
+337.67,0,1,7,PVR Cinemas,entertainment
+777.89,0,1,1,Chai Point,food
+928.0,20,6,7,Steam,entertainment
+3871.63,4,3,8,Practo,other
+1503.68,14,3,6,INOX,transport
+561.0,9,4,7,Crossword,entertainment
+1297.78,22,3,7,PVR Cinemas,food
+1232.1,17,2,7,Crossword,entertainment
+435.02,23,4,1,Dunzo,food
+1103.79,13,4,6,BookMyShow,entertainment
+4485.7,13,3,4,Water Bill,bills
+310.07,22,3,0,Tea Stall,food
+194.15,11,3,1,Chai Point,food
+456.35,10,4,3,Air India,transport
+1473.69,12,3,6,PlayStation Store,entertainment
+4860.49,5,4,4,Hotstar,bills
+340.19,4,1,3,Uber,transport
+68.43,13,3,3,RedBus,transport
+424.88,0,2,4,Gas Bill,bills
+1037.81,16,0,4,BSNL,bills
+513.17,3,4,1,Zomato,food
+396.75,1,6,3,Namma Metro,transport
+4281.7,16,4,8,Apollo Pharmacy,other
+759.7,14,6,0,Haldirams,food
+507.93,3,6,0,Subway,food
+3186.64,6,2,8,Apollo Pharmacy,food
+385.74,15,5,3,RedBus,transport
+300.96,4,0,1,Burger King,food
+389.23,0,1,2,Indian Railways,transport
+425.4,8,2,6,Decathlon,entertainment
+388.06,16,3,7,Steam,entertainment
+218.44,13,3,2,Indian Railways,transport
+4724.33,14,1,9,HDFC Bank ATM,other
+757.73,2,2,0,Swiggy Instamart,food
+987.92,1,3,4,Hotstar,bills
+163.21,18,0,0,Tea Stall,food
+2069.81,21,5,8,SBI ATM,other
+3739.22,11,0,9,D-Mart,other
+4618.08,22,3,5,Society Maintenance,bills
+1286.28,19,5,6,Decathlon,entertainment
+1573.26,9,0,6,Ajio,entertainment
+593.82,23,1,0,Blinkit,food
+1147.3,16,4,8,Practo,other
+3250.93,0,0,4,Hotstar,bills
+4177.92,9,5,9,1mg,other
+1490.77,11,2,7,PVR Cinemas,entertainment
+3807.14,3,3,8,Amazon,other
+2374.56,7,6,4,Jio,bills
+4693.94,21,4,8,More Supermarket,other
+1494.22,22,4,8,Practo,other
+374.01,3,2,2,IndiGo,transport
+3914.89,14,0,9,Reliance Fresh,other
+59.33,1,3,2,Indian Railways,transport
+57.47,21,4,3,RedBus,transport
+1579.77,8,4,6,Decathlon,entertainment
+1409.13,15,5,7,Nykaa,entertainment
+1060.99,15,5,6,INOX,entertainment
+1740.22,3,5,6,Decathlon,entertainment
+378.32,17,2,2,Ola,transport
+132.75,11,4,0,Blinkit,food
+1982.41,11,2,5,Airtel,transport
+884.92,18,3,4,Hotstar,bills
+716.79,6,1,0,KFC,food
+228.37,1,3,7,Myntra,other
+959.51,10,6,7,Crossword,entertainment
+352.34,4,4,7,Crossword,entertainment
+383.07,23,2,7,Nykaa,entertainment
+517.69,12,1,0,Tea Stall,food
+1920.35,14,5,6,BookMyShow,entertainment
+994.12,0,4,5,Spotify,bills
+3290.43,2,1,5,Airtel,bills
+359.08,18,4,8,Big Bazaar,other
+450.49,3,5,2,IndiGo,transport
+1447.32,6,1,8,Amazon,other
+2714.36,10,3,8,Big Bazaar,other
+2241.39,13,0,9,HDFC Bank ATM,food
+546.02,3,4,8,Practo,other
+142.67,2,1,2,Rapido,transport
+1011.29,19,2,4,Netflix,bills
+207.17,10,1,2,BMTC,food
+813.48,3,0,6,PlayStation Store,entertainment
+301.29,15,4,3,Air India,transport
+1419.51,10,3,9,Flipkart,other
+241.64,20,1,9,Paytm,other
+556.32,7,6,1,BigBasket,food
+1592.6,13,3,8,Apollo Pharmacy,other
+202.59,4,2,0,Swiggy Instamart,food
+1301.29,13,4,8,Big Bazaar,other
+649.57,5,0,7,Crossword,entertainment
+254.98,8,6,1,Dunzo,food
+1211.8,16,2,7,Steam,entertainment
+472.31,9,0,0,Swiggy Instamart,food
+1477.64,8,3,6,INOX,entertainment
+444.29,10,5,3,Namma Metro,transport
+2372.5,7,5,5,Amazon Prime,bills
+4803.12,10,0,5,LIC Premium,bills
+312.22,0,0,2,Ola,transport
+385.98,17,0,3,RedBus,transport
+674.06,21,3,0,Haldirams,food
+332.28,19,2,1,Pizza Hut,food
+337.05,11,1,6,BookMyShow,entertainment
+1393.05,22,2,6,PlayStation Store,food
+165.53,22,1,2,Ola Electric,other
+37.66,15,5,3,Namma Metro,transport
+4922.89,20,3,9,1mg,other
+425.24,5,4,1,BigBasket,food
+342.64,19,4,3,Air India,transport
+81.17,18,6,3,Uber,transport
+112.09,21,0,2,BMTC,transport
+2844.57,14,0,8,Zepto,other
+1722.33,10,3,6,BookMyShow,entertainment
+986.51,11,4,6,Decathlon,entertainment
+85.22,13,4,1,Dominos,food
+469.76,2,4,6,Ajio,entertainment
+783.57,13,0,1,Dominos,food
+169.19,20,5,3,Namma Metro,transport
+68.02,20,2,0,Subway,entertainment
+1343.36,10,6,5,LIC Premium,bills
+645.58,2,6,0,Swiggy Instamart,food
+568.79,14,4,8,Big Bazaar,other
+75.01,10,6,0,Haldirams,food
+739.34,14,0,0,Swiggy,food
+514.86,21,0,4,ICICI EMI,bills
+569.57,13,1,8,SBI ATM,entertainment
+151.97,12,3,9,Google Pay,other
+292.43,20,5,7,Crossword,entertainment
+490.86,3,0,1,Burger King,food
+494.66,6,4,1,Zomato,food
+190.59,15,5,2,BMTC,transport
+774.6,1,0,9,1mg,other
+266.3,20,6,2,Indian Railways,transport
+2797.03,4,1,4,YouTube Premium,bills
+653.02,0,4,7,Myntra,entertainment
+380.86,16,6,8,Apollo Pharmacy,other
+1784.7,6,5,8,SBI ATM,other
+110.89,15,5,3,Namma Metro,transport
+1718.82,18,2,7,Myntra,entertainment
+895.17,14,6,9,HDFC Bank ATM,other
+52.77,7,5,0,Haldirams,food
+134.73,23,6,3,Auto Rickshaw,transport
+1184.72,5,6,4,ICICI EMI,bills
+318.41,17,0,1,Zomato,food
+323.04,11,0,3,Auto Rickshaw,transport
+180.61,8,5,0,KFC,food
+138.06,6,0,2,IndiGo,transport
+30.08,21,1,3,Uber,transport
+742.93,6,2,7,PVR Cinemas,entertainment
+1355.73,16,6,7,Myntra,entertainment
+3583.62,3,1,8,More Supermarket,other
+275.63,22,2,3,Auto Rickshaw,transport
+1373.08,1,6,4,Netflix,bills
+2723.79,4,2,9,Reliance Fresh,other
+428.72,18,3,2,Rapido,bills
+399.68,19,0,3,RedBus,transport
+380.55,11,3,2,Ola Electric,transport
+3591.19,16,5,9,HDFC Bank ATM,other
+1000.14,18,3,7,Nykaa,entertainment
+1175.68,6,3,9,1mg,other
+224.01,12,4,2,BMTC,transport
+142.17,2,1,3,Namma Metro,transport
+313.68,18,0,0,Swiggy Instamart,food
+909.59,14,3,7,Myntra,entertainment
+702.34,12,0,7,Nykaa,entertainment
+329.77,11,0,2,BMTC,transport
+2823.48,2,6,4,Gas Bill,bills
+768.34,11,0,5,Airtel,bills
+3408.03,8,2,9,1mg,other
+4990.38,22,5,5,Society Maintenance,bills
+3873.37,9,6,8,Amazon,other
+4739.86,18,6,4,ICICI EMI,bills
+791.96,4,6,0,Swiggy Instamart,food
+1001.43,16,4,7,Steam,entertainment
+4090.55,10,6,9,D-Mart,other
+371.59,22,3,1,Dominos,food
+34.45,4,4,2,IndiGo,transport
+259.9,21,6,2,Ola,transport
+2242.88,12,6,4,ICICI EMI,bills
+213.88,1,1,9,Google Pay,other
+292.73,19,4,3,Namma Metro,transport
+1100.6,12,0,8,SBI ATM,other
+632.33,18,3,9,Paytm,other
+2853.51,1,6,4,Netflix,food
+1075.09,12,2,8,Apollo Pharmacy,other
+271.71,14,0,2,Ola Electric,transport
+1767.83,13,3,4,BSNL,bills
+277.5,15,5,2,Rapido,transport
+699.27,4,6,0,Haldirams,food
+247.89,19,4,2,Ola Electric,transport
+3640.22,14,2,4,Gas Bill,bills
+50.71,12,4,3,RedBus,transport
+442.03,14,3,3,Air India,transport
+3266.87,14,2,8,Practo,food
+4087.74,5,3,5,Spotify,bills
+371.96,14,3,3,Air India,transport
+208.9,1,1,3,Uber,transport
+278.11,21,0,2,Ola Electric,transport
+496.35,17,0,2,Indian Railways,transport
+3879.15,10,3,4,Gas Bill,food
+1061.52,14,0,7,Steam,entertainment
+612.3,12,2,0,Tea Stall,food
+171.77,8,0,6,Ajio,entertainment
+252.68,2,0,3,RedBus,transport
+4755.09,4,3,9,D-Mart,other
+4224.62,19,0,4,BSNL,bills
+375.89,5,0,2,IndiGo,transport
+380.49,5,1,0,McDonald's,food
+212.12,22,0,0,Swiggy Instamart,food
+3334.2,3,3,9,D-Mart,other
+221.4,12,6,5,Society Maintenance,bills
+456.2,6,0,3,Namma Metro,transport
+302.84,6,5,0,Swiggy,food
+122.45,21,1,0,Haldirams,food
+411.5,10,4,3,Uber,other
+209.63,13,0,2,IndiGo,transport
+175.22,0,3,3,Namma Metro,transport
+1255.68,21,6,5,LIC Premium,transport
+409.95,6,3,5,HDFC EMI,bills
+4918.88,3,5,5,LIC Premium,bills
+4267.28,5,2,8,More Supermarket,other
+572.24,21,6,0,Tea Stall,food
+385.62,22,2,2,Ola Electric,transport
+1833.0,14,3,7,Crossword,food
+2566.76,22,0,9,1mg,other
+133.47,13,6,2,BMTC,food
+86.03,15,2,2,Ola,transport
+328.18,7,5,3,Auto Rickshaw,transport
+3722.35,10,1,9,Paytm,other
+3850.13,16,6,4,Hotstar,bills
+1526.05,7,6,6,PlayStation Store,entertainment
+2788.24,21,1,5,Electricity Bill,bills
+270.31,5,3,2,Indian Railways,transport
+765.25,1,5,1,Zomato,entertainment
+64.04,18,4,2,Rapido,transport
+224.6,14,2,3,Uber,transport
+223.53,19,1,3,Auto Rickshaw,transport
+4845.05,6,2,5,LIC Premium,bills
+817.66,15,3,6,Ajio,bills
+1544.62,15,0,6,Ajio,entertainment
+1541.83,9,4,7,PVR Cinemas,entertainment
+960.93,12,3,9,D-Mart,other
+2897.84,15,0,4,ICICI EMI,bills
+1138.63,6,0,5,LIC Premium,bills
+594.01,15,3,1,Chai Point,food
+829.67,9,5,7,Myntra,entertainment
+709.94,18,1,8,More Supermarket,food
+390.21,23,2,2,BMTC,transport
+3473.6,22,0,8,Zepto,other
+560.47,1,6,7,Steam,entertainment
+334.66,21,5,4,Netflix,bills
+473.25,4,2,3,RedBus,transport
+423.93,0,0,2,Ola Electric,transport
+338.26,22,4,0,Haldirams,food
+707.0,5,6,1,Dominos,food
+1051.23,17,5,6,PlayStation Store,entertainment
+1529.68,23,6,6,Ajio,entertainment
+632.52,11,6,1,BigBasket,food
+466.41,12,5,3,Auto Rickshaw,transport
+2559.76,3,0,5,Spotify,transport
+1492.78,5,1,6,PlayStation Store,entertainment
+1149.7,5,4,4,BSNL,bills
+209.43,6,0,1,Pizza Hut,food
+144.49,13,3,3,Auto Rickshaw,transport
+914.02,9,0,8,Zepto,other
+750.09,18,1,7,PVR Cinemas,entertainment
+118.06,8,6,7,PVR Cinemas,entertainment
+790.71,3,1,0,Subway,food
+3054.63,8,3,8,SBI ATM,other
+915.96,11,5,7,Crossword,entertainment
+1349.31,11,5,5,Spotify,bills
+1953.08,10,6,6,BookMyShow,entertainment
+676.57,4,0,1,Chai Point,entertainment
+1469.39,22,6,8,PhonePe,other
+349.37,15,4,3,Air India,transport
+1973.74,10,0,6,BookMyShow,entertainment
+3731.64,21,3,4,Hotstar,bills
+374.82,2,2,2,Indian Railways,transport
+1975.06,22,0,7,Nykaa,entertainment
+1452.69,16,4,7,Steam,entertainment
+526.74,21,4,8,Big Bazaar,entertainment
+1914.6,15,5,7,Nykaa,entertainment
+935.12,21,5,9,1mg,other
+71.92,10,3,1,Chai Point,food
+3396.14,21,0,4,Water Bill,bills
+368.2,2,6,2,Ola Electric,transport
+2964.24,19,0,4,YouTube Premium,bills
+3765.99,23,3,5,Amazon Prime,bills
+4061.39,7,2,8,SBI ATM,other
+116.85,23,4,1,Zomato,food
+294.96,4,6,3,Uber,transport
+3736.94,9,0,5,Society Maintenance,bills
+2001.91,13,2,9,Reliance Fresh,other
+4023.31,16,5,4,YouTube Premium,bills
+2037.03,17,6,9,Flipkart,other
+1690.71,15,5,6,PlayStation Store,entertainment
+377.15,21,6,6,PlayStation Store,entertainment
+426.78,22,0,0,KFC,food
+2954.64,20,6,5,Amazon Prime,bills
+48.23,10,1,2,Indian Railways,transport
+356.2,1,6,3,Auto Rickshaw,transport
+163.57,21,6,2,Indian Railways,transport
+208.3,13,5,2,IndiGo,transport
+843.02,16,5,6,Ajio,entertainment
+1135.64,17,3,4,YouTube Premium,bills
+643.46,1,6,0,Subway,food
+2969.93,14,5,4,BSNL,bills
+498.56,23,1,6,INOX,entertainment
+481.76,21,6,1,Pizza Hut,food
+346.13,5,0,2,Indian Railways,transport
+184.72,1,0,1,Dunzo,food
+2225.73,4,5,9,Google Pay,other
+557.63,15,2,7,PVR Cinemas,entertainment
+3751.48,22,6,8,Zepto,other
+663.65,12,2,1,Pizza Hut,food
+321.59,3,3,7,PVR Cinemas,entertainment
+2907.61,18,3,9,Google Pay,other
+4012.64,5,3,5,Airtel,bills
+666.89,4,0,6,Ajio,entertainment
+2144.99,22,0,4,BSNL,other
+1588.6,16,3,6,Decathlon,entertainment
+454.24,20,0,1,BigBasket,food
+106.72,19,5,3,Uber,transport
+79.06,4,4,3,Namma Metro,entertainment
+290.0,1,0,3,Uber,transport
+774.71,5,3,1,Burger King,food
+759.66,16,6,0,Swiggy,food
+870.44,15,5,5,LIC Premium,bills
+3109.23,16,1,5,HDFC EMI,bills
+227.83,6,1,0,Swiggy,food
+4795.59,19,4,5,Electricity Bill,bills
+81.68,19,3,2,BMTC,transport
+336.34,5,3,0,KFC,food
+1886.38,4,4,6,Ajio,bills
+354.47,6,5,2,Ola Electric,bills
+4138.26,19,1,4,Netflix,bills
+1985.65,13,3,7,Myntra,entertainment
+108.14,3,4,1,Dominos,food
+99.47,20,0,0,Blinkit,food
+1510.89,7,2,4,Hotstar,bills
+763.84,3,1,0,Blinkit,transport
+2985.25,15,0,8,Practo,other
+4340.45,17,2,9,Google Pay,other
+1658.18,12,1,8,Apollo Pharmacy,food
+4846.37,17,4,4,Netflix,bills
+2436.62,4,2,8,SBI ATM,other
+166.62,4,1,1,Chai Point,food
+200.44,23,5,6,PlayStation Store,entertainment
+3455.11,13,5,5,Electricity Bill,bills
+1617.09,16,2,7,Myntra,entertainment
+4719.99,7,2,4,Gas Bill,bills
+627.93,2,5,0,Blinkit,food
+173.83,1,0,1,Zomato,transport
+4079.87,0,3,5,LIC Premium,bills
+2450.31,16,5,8,Apollo Pharmacy,other
+168.11,6,6,8,SBI ATM,other
+450.74,11,1,1,Chai Point,food
+3076.13,5,5,8,Amazon,other
+468.1,4,4,8,Apollo Pharmacy,other
+2577.93,5,2,4,ICICI EMI,bills
+237.32,17,6,0,Tea Stall,food
+270.16,6,0,1,Dunzo,food
+1593.62,20,4,8,More Supermarket,other
+513.31,15,0,0,Haldirams,food
+1631.38,3,0,5,HDFC EMI,entertainment
+2129.33,0,0,4,BSNL,bills
+1105.28,4,3,7,PVR Cinemas,entertainment
+166.72,21,2,0,Swiggy,food
+163.66,13,1,3,Namma Metro,transport
+4947.91,21,6,9,Flipkart,other
+1519.47,0,2,7,Myntra,entertainment
+39.32,12,3,2,BMTC,transport
+3397.45,15,5,4,BSNL,bills
+2840.14,21,5,5,LIC Premium,bills
+260.89,23,6,2,Indian Railways,transport
+1606.15,4,1,7,PVR Cinemas,entertainment
+3484.99,1,5,4,Hotstar,bills
+3739.41,13,3,5,Society Maintenance,bills
+3852.08,7,4,5,Airtel,bills
+139.74,3,6,2,Rapido,transport
+3398.05,13,1,5,Electricity Bill,bills
+1432.18,16,4,7,PVR Cinemas,entertainment
+321.88,4,1,3,Air India,transport
+255.4,6,1,0,Swiggy,food
+1742.27,12,3,7,PVR Cinemas,transport
+4902.61,7,2,8,Zepto,other
+911.44,1,2,6,Decathlon,entertainment
+757.25,22,3,0,KFC,food
+107.24,0,0,2,Ola,transport
+1544.05,19,0,5,LIC Premium,bills
+790.8,9,0,7,Nykaa,entertainment
+463.83,4,2,0,Tea Stall,food
+3765.82,18,4,5,HDFC EMI,bills
+1452.14,18,3,8,Zepto,other
+522.17,19,0,0,McDonald's,food
+713.03,6,1,0,Haldirams,food
+1889.45,19,2,7,PVR Cinemas,entertainment
+1168.8,23,1,4,Hotstar,bills
+462.87,8,6,0,Blinkit,food
+1893.46,20,5,8,More Supermarket,other
+412.12,16,4,1,Zomato,food
+572.53,4,2,0,KFC,food
+645.79,22,1,0,Swiggy,food
+1753.49,2,1,6,Decathlon,entertainment
+1168.75,12,3,6,Ajio,entertainment
+117.64,18,1,8,Apollo Pharmacy,other
+4650.27,16,3,8,More Supermarket,other
+1368.29,7,2,8,PhonePe,other
+1274.09,17,1,4,BSNL,bills
+1532.51,4,2,4,YouTube Premium,transport
+792.15,6,4,1,Dominos,food
+503.87,11,2,0,Tea Stall,bills
+461.96,23,1,0,Haldirams,food
+716.81,1,5,6,PlayStation Store,entertainment
+597.86,8,1,1,Dominos,food
+3354.78,18,0,4,Gas Bill,bills
+1753.05,20,4,6,PlayStation Store,entertainment
+1181.13,8,1,9,Paytm,other
+3789.2,4,3,9,Reliance Fresh,other
+196.95,15,0,2,Indian Railways,transport
+1649.64,5,1,6,INOX,entertainment
+983.99,9,0,9,D-Mart,other
+4123.81,21,4,4,BSNL,bills
+137.72,20,3,2,Indian Railways,food
+595.07,0,4,0,McDonald's,food
+132.53,0,6,0,Swiggy,food
+112.7,4,5,0,Subway,food
+621.06,23,6,8,Big Bazaar,food
+1170.35,15,6,5,Airtel,bills
+899.41,10,3,9,Reliance Fresh,other
+352.18,20,4,2,IndiGo,transport
+458.48,3,4,1,Zomato,food
+145.6,13,3,7,Steam,entertainment
+128.42,21,3,2,BMTC,transport
+218.39,9,2,1,Zomato,food
+320.37,2,0,1,Zomato,food
+2699.36,19,1,8,SBI ATM,other
+1287.04,9,2,6,PlayStation Store,entertainment
+546.3,8,6,1,Dunzo,food
+749.82,4,6,1,Pizza Hut,food
+234.41,15,6,2,Indian Railways,transport
+769.69,8,1,0,Blinkit,food
+186.4,12,2,0,McDonald's,food
+3528.11,13,4,5,LIC Premium,bills
+4623.63,12,3,4,Netflix,bills
+2513.75,17,6,8,PhonePe,other
+363.16,16,4,3,Air India,transport
+193.62,6,6,3,Auto Rickshaw,transport
+768.21,3,0,1,Dunzo,food
+4360.37,4,2,5,Spotify,bills
+1946.46,13,1,6,Decathlon,entertainment
+378.56,3,5,2,Ola,transport
+354.14,13,2,2,Ola,transport
+486.21,15,6,0,Tea Stall,food
+819.74,4,0,8,Amazon,other
+91.86,5,3,2,Indian Railways,other
+245.69,23,2,2,BMTC,transport
+644.86,4,0,6,BookMyShow,entertainment
+427.47,0,3,0,McDonald's,food
+1152.9,8,4,7,Nykaa,entertainment
+2175.98,5,2,9,1mg,other
+607.35,12,4,0,McDonald's,food
+666.88,17,4,0,McDonald's,food
+408.06,20,5,1,Dunzo,food
+203.88,11,5,6,INOX,entertainment
+298.36,11,4,7,PVR Cinemas,entertainment
+2799.07,2,1,4,BSNL,bills
+2803.29,20,0,9,1mg,bills
+291.1,18,6,3,Air India,transport
+1892.67,0,2,7,PVR Cinemas,bills
+1134.64,12,5,4,Gas Bill,bills
+3438.17,10,3,5,Amazon Prime,bills
+3897.79,0,4,8,Big Bazaar,other
+651.23,4,5,6,BookMyShow,entertainment
+1780.36,21,5,7,Steam,food
+496.84,16,4,2,Rapido,transport
+3866.32,14,6,8,More Supermarket,other
+319.27,13,0,3,Namma Metro,transport
+1253.07,4,4,7,Crossword,entertainment
+1556.0,9,4,6,INOX,food
+285.29,9,1,1,Dunzo,food
+315.03,2,1,1,Burger King,food
+1959.12,14,5,7,Nykaa,entertainment
+254.36,11,6,3,Air India,transport
+3174.1,21,1,5,Spotify,bills
+1908.89,11,0,7,Crossword,entertainment
+1767.08,21,0,6,PlayStation Store,entertainment
+3731.11,7,5,8,Amazon,other
+1941.53,18,3,8,Practo,food
+396.71,2,2,1,Pizza Hut,food
+1810.24,14,0,6,Decathlon,entertainment
+738.1,12,6,1,Zomato,food
+222.5,10,4,7,Myntra,entertainment
+317.22,14,0,7,Nykaa,entertainment
+813.02,6,2,9,Paytm,other
+1963.4,11,6,8,Big Bazaar,other
+202.75,0,6,7,Steam,entertainment
+258.82,2,2,6,INOX,entertainment
+1097.08,21,2,6,Ajio,entertainment
+449.58,13,2,3,Uber,transport
+4721.26,15,3,5,HDFC EMI,bills
+4831.39,13,2,8,Apollo Pharmacy,other
+2848.45,19,1,8,Amazon,other
+512.38,10,5,1,BigBasket,food
+907.08,10,0,4,YouTube Premium,entertainment
+1977.65,4,5,6,BookMyShow,entertainment
+285.15,6,5,7,Crossword,entertainment
+391.7,19,3,2,IndiGo,transport
+486.44,18,0,3,Auto Rickshaw,transport
+1648.64,9,4,4,Jio,bills
+799.29,13,3,0,Tea Stall,food
+2243.5,10,0,4,Gas Bill,bills
+104.91,19,1,3,Namma Metro,transport
+4240.95,22,5,8,Practo,other
+1882.01,3,0,7,Crossword,entertainment
+749.37,3,3,1,BigBasket,food
+3204.27,16,4,9,Flipkart,other
+365.48,7,6,1,Pizza Hut,food
+471.56,15,0,7,PVR Cinemas,entertainment
+2426.41,20,5,4,YouTube Premium,bills
+1064.37,8,5,7,Steam,bills
+4016.46,13,5,4,YouTube Premium,bills
+27.45,4,6,2,Ola,entertainment
+4135.99,19,2,4,Gas Bill,bills
+4965.57,7,4,5,Society Maintenance,bills
+1674.24,18,3,6,Ajio,entertainment
+489.13,5,3,2,Indian Railways,transport
+1307.88,22,6,4,ICICI EMI,bills
+296.93,12,6,2,Ola Electric,transport
+4753.71,6,0,4,BSNL,bills
+627.52,4,0,0,Tea Stall,food
+4864.76,18,3,8,More Supermarket,other
+787.56,20,5,0,McDonald's,food
+4509.86,9,1,4,Netflix,bills
+3922.14,12,6,9,D-Mart,other
+597.31,4,5,4,Water Bill,bills
+700.2,3,3,1,BigBasket,food
+1484.07,5,0,8,Apollo Pharmacy,other
+734.54,6,3,1,Burger King,food
+360.31,15,5,0,Swiggy,food
+331.44,10,5,0,Blinkit,food
+667.63,5,5,6,INOX,entertainment
+254.11,10,2,9,Reliance Fresh,other
+1138.32,5,4,7,Crossword,entertainment
+3108.94,17,0,5,Electricity Bill,bills
+1159.9,11,0,8,Apollo Pharmacy,other
+60.05,22,1,3,Auto Rickshaw,transport
+4775.45,11,5,5,Electricity Bill,bills
+3751.45,15,3,9,Paytm,other
+1045.97,5,1,8,More Supermarket,other
+3001.1,18,2,5,Airtel,bills
+228.07,14,3,3,RedBus,transport
+1661.87,3,4,9,Reliance Fresh,other
+770.54,20,6,7,Crossword,entertainment
+75.32,16,2,0,Haldirams,food
+4150.76,20,4,9,Google Pay,other
+1062.72,10,3,5,Airtel,bills
+123.29,11,2,3,Uber,transport
+24.62,22,0,3,Uber,transport
+4016.94,7,4,5,Society Maintenance,bills
+209.13,6,0,1,BigBasket,food
+4736.73,21,0,9,Google Pay,other
+3442.45,13,2,8,SBI ATM,other
+4052.88,15,0,4,Jio,bills
+2372.82,19,2,5,Airtel,bills
+204.22,0,5,9,Google Pay,other
+2362.68,4,6,8,More Supermarket,other
+174.33,20,0,6,Decathlon,other
+651.88,23,2,1,Pizza Hut,food
+2121.05,17,6,5,HDFC EMI,bills
+2087.37,22,3,4,Jio,bills
+1701.84,19,0,7,PVR Cinemas,entertainment
+57.8,3,2,1,Pizza Hut,food
+463.2,11,6,7,PVR Cinemas,entertainment
+3472.38,1,2,8,More Supermarket,other
+106.28,10,5,0,KFC,food
+1422.57,5,1,8,SBI ATM,other
+1664.73,4,6,8,Apollo Pharmacy,other
+2125.14,14,5,8,More Supermarket,other
+483.41,21,3,1,Dominos,food
+2516.47,2,2,5,Amazon Prime,bills
+2880.43,7,5,5,HDFC EMI,bills
+486.45,1,1,3,Uber,transport
+663.88,6,3,1,Dunzo,food
+492.89,16,4,1,Pizza Hut,food
+3600.57,20,1,4,Water Bill,bills
+1172.05,11,3,8,Apollo Pharmacy,other
+485.74,12,1,6,Decathlon,entertainment
+564.7,18,5,0,McDonald's,food
+130.38,3,1,0,Haldirams,food
+250.07,15,5,0,McDonald's,food
+679.8,17,0,8,Practo,other
+2104.65,13,4,4,BSNL,bills
+668.6,20,3,5,HDFC EMI,bills
+865.11,19,2,7,Steam,entertainment
+2224.47,21,0,8,PhonePe,other
+75.29,1,4,3,Auto Rickshaw,transport
+684.05,7,4,4,Gas Bill,bills
+517.79,22,2,7,PVR Cinemas,entertainment
+760.5,9,5,7,Steam,entertainment
+561.79,16,5,8,Amazon,other
+4277.56,22,1,8,Practo,other
+99.99,10,3,3,Uber,transport
+247.81,10,0,2,Ola Electric,transport
+101.95,0,4,3,Uber,transport
+203.83,7,3,5,Society Maintenance,bills
+560.03,9,6,1,BigBasket,food
+382.4,3,0,2,Rapido,transport
+2372.01,23,2,5,HDFC EMI,bills
+1342.33,14,0,9,Paytm,other
+4478.48,21,6,5,HDFC EMI,bills
+3460.34,23,5,8,Practo,other
+692.2,21,1,0,Blinkit,food
+2971.98,22,3,5,Electricity Bill,bills
+1129.64,12,5,5,Airtel,bills
+520.17,17,3,0,Haldirams,food
+3427.43,10,3,8,More Supermarket,other
+1615.68,1,4,8,Practo,other
+3100.6,13,6,9,Reliance Fresh,other
+647.98,0,3,7,Myntra,entertainment
+271.13,9,4,2,Rapido,transport
+2485.44,2,6,8,Practo,other
+1557.77,18,0,5,Electricity Bill,food
+372.74,21,6,0,Swiggy,food
+709.04,16,5,1,Burger King,transport
+3594.67,4,5,9,Flipkart,other
+159.58,1,3,3,Uber,transport
+3257.45,13,3,4,Netflix,bills
+276.52,9,1,0,Haldirams,food
+1680.15,18,1,8,More Supermarket,other
+286.06,9,2,2,Indian Railways,transport
+521.24,17,1,0,Haldirams,food
+282.48,16,3,6,Ajio,entertainment
+3620.19,14,2,4,Netflix,bills
+976.44,17,0,6,Ajio,entertainment
+1823.01,7,4,7,Crossword,transport
+2762.02,18,2,9,Google Pay,other
+144.45,21,0,0,Blinkit,food
+974.42,1,0,6,Decathlon,entertainment
+130.29,19,0,0,Tea Stall,food
+1789.61,1,0,5,Amazon Prime,bills
+3613.06,22,1,9,D-Mart,other
+4839.66,4,1,9,D-Mart,other
+365.19,0,6,2,BMTC,transport
+317.95,0,1,7,Steam,entertainment
+574.63,6,0,8,PhonePe,other
+842.36,3,2,7,Nykaa,other
+1658.51,17,2,6,INOX,entertainment
+3324.98,3,3,9,Reliance Fresh,other
+88.01,23,5,2,Rapido,transport
+116.17,15,2,2,IndiGo,transport
+2565.72,21,2,5,Society Maintenance,bills
+981.53,13,1,7,PVR Cinemas,entertainment
+473.16,0,4,1,Zomato,food
+403.68,11,1,5,LIC Premium,other
+626.12,5,2,7,Nykaa,entertainment
+1132.82,22,4,8,PhonePe,other
+1346.25,11,5,6,INOX,entertainment
+4307.45,4,2,9,D-Mart,other
+4597.48,20,3,5,Airtel,bills
+1352.05,18,5,7,Crossword,entertainment
+1370.21,22,2,8,PhonePe,other
+2964.02,12,0,9,HDFC Bank ATM,other
+122.41,3,3,1,Dominos,transport
+1964.52,23,6,7,Steam,entertainment
+369.52,12,6,2,Rapido,transport
+1262.62,3,0,6,BookMyShow,entertainment
+504.9,0,1,1,Burger King,food
+2012.0,20,4,5,LIC Premium,bills
+2506.4,21,2,8,Practo,other
+228.35,16,6,2,Rapido,transport
+480.72,3,1,2,Ola Electric,food
+53.93,13,4,0,Haldirams,food
+1007.99,23,5,9,HDFC Bank ATM,other
+1116.63,15,4,9,Reliance Fresh,other
+2881.31,4,6,4,YouTube Premium,bills
+332.09,2,4,0,Tea Stall,food
+273.67,3,3,0,Swiggy Instamart,food
+30.82,9,6,3,Namma Metro,other
+525.24,5,2,5,HDFC EMI,bills
+689.9,19,4,1,Dominos,food
+2820.07,3,4,4,Jio,bills
+1341.14,1,2,6,PlayStation Store,entertainment
+1787.25,1,1,7,Myntra,entertainment
+463.6,21,0,3,Namma Metro,transport
+454.08,22,6,3,Air India,transport
+762.43,19,5,1,Zomato,food
+2801.98,4,2,8,More Supermarket,other
+430.7,20,2,1,Dunzo,food
+140.74,1,0,7,Steam,entertainment
+347.33,23,0,2,Indian Railways,transport
+3851.84,22,1,8,SBI ATM,other
+361.76,14,0,6,Decathlon,entertainment
+1823.77,10,3,9,HDFC Bank ATM,other
+491.46,7,3,1,Zomato,food
+173.0,23,1,8,Big Bazaar,other
+185.45,1,2,1,Dunzo,transport
+1371.62,9,1,4,YouTube Premium,bills
+699.64,2,0,8,Zepto,other
+2575.16,23,6,5,Electricity Bill,bills
+1256.6,22,2,5,Spotify,bills
+4370.93,7,4,4,Water Bill,bills
+2616.04,1,2,4,Gas Bill,bills
+1023.79,2,1,7,Crossword,entertainment
+130.66,23,4,2,IndiGo,transport
+37.22,7,5,2,Rapido,transport
+1910.79,0,3,7,Nykaa,entertainment
+338.13,2,0,1,BigBasket,food
+2577.21,12,3,4,ICICI EMI,bills
+450.41,13,4,6,Ajio,transport
+456.16,11,0,0,Swiggy,food
+4621.22,8,6,9,HDFC Bank ATM,other
+1770.63,19,3,8,Amazon,other
+1634.05,17,3,6,BookMyShow,entertainment
+2424.28,18,5,4,Gas Bill,bills
+896.49,12,3,8,Practo,other
+154.74,21,2,2,Ola,transport
+457.1,10,4,0,Subway,food
+610.62,8,6,7,Myntra,bills
+3337.8,8,6,9,Google Pay,bills
+231.16,14,0,2,Ola,transport
+2871.28,13,0,5,Spotify,bills
+4495.52,17,2,8,Practo,other
+624.48,8,2,0,KFC,food
+379.11,19,5,6,INOX,entertainment
+78.88,21,4,0,Tea Stall,food
+1151.47,7,0,6,BookMyShow,entertainment
+3455.94,11,4,4,Jio,bills
+131.87,16,3,1,Burger King,food
+203.03,18,2,1,Dominos,food
+371.85,10,4,6,PlayStation Store,entertainment
+4507.38,11,3,4,ICICI EMI,bills
+1967.22,9,1,4,BSNL,bills
+4059.37,16,5,9,1mg,other
+1785.86,6,3,9,D-Mart,other
+3836.8,20,0,8,SBI ATM,transport
+474.05,18,5,1,Dominos,food
+3691.92,16,6,8,PhonePe,other
+443.34,14,2,0,Tea Stall,food
+1606.01,7,2,5,Society Maintenance,bills
+130.83,10,5,3,Namma Metro,transport
+599.6,13,2,1,Dunzo,food
+107.33,11,5,0,Swiggy Instamart,food
+1593.98,7,4,7,Nykaa,entertainment
+392.7,13,5,3,Auto Rickshaw,transport
+1375.37,9,2,9,Google Pay,other
+2220.33,4,4,4,ICICI EMI,bills
+1809.76,14,0,7,Steam,entertainment
+387.44,22,3,2,BMTC,transport
+675.39,0,5,0,Swiggy,food
+267.15,16,3,2,Rapido,transport
+1424.16,7,5,6,Ajio,entertainment
+4158.46,10,4,4,YouTube Premium,bills
+321.66,23,2,9,D-Mart,other
+1507.33,13,2,7,Nykaa,entertainment
+1475.04,18,6,6,INOX,entertainment
+3005.94,21,5,9,Google Pay,food
+435.77,23,4,7,Nykaa,entertainment
+1314.1,15,2,5,Airtel,bills
+443.9,16,6,0,Haldirams,food
+705.3,5,1,6,Ajio,entertainment
+711.79,23,1,1,Chai Point,food
+1771.21,10,0,7,Crossword,entertainment
+1580.94,15,3,5,Airtel,bills
+470.82,8,4,2,BMTC,transport
+258.97,3,1,0,Tea Stall,food
+927.38,19,0,8,Big Bazaar,other
+132.66,0,2,9,1mg,other
+224.72,14,4,3,Air India,transport
+460.64,22,5,2,BMTC,transport
+419.94,2,6,0,Blinkit,food
+75.9,11,6,2,Ola Electric,transport
+595.52,10,1,1,Dominos,food
+3190.06,16,5,9,Paytm,other
+719.2,1,3,1,Burger King,food
+440.97,6,6,0,Subway,food
+3167.8,20,5,8,More Supermarket,other
+332.16,7,5,1,BigBasket,food
+252.56,5,5,2,Rapido,transport
+1306.07,2,4,7,Steam,entertainment
+287.71,6,5,3,RedBus,food
+202.54,18,1,3,Air India,bills
+4780.76,9,6,4,Netflix,bills
+252.83,20,3,2,Ola Electric,transport
+1547.54,7,0,9,Paytm,other
+1761.23,21,3,5,LIC Premium,bills
+545.46,11,5,1,Burger King,food
+1696.23,15,4,7,Nykaa,entertainment
+652.77,16,1,6,BookMyShow,entertainment
+1382.48,13,3,6,PlayStation Store,bills
+1833.5,8,3,6,PlayStation Store,entertainment
+168.09,13,1,2,Ola,transport
+1110.38,20,0,8,PhonePe,other
+3064.31,0,5,8,Apollo Pharmacy,other
+635.33,10,2,1,Zomato,food
+1131.27,17,1,8,PhonePe,food
+432.67,7,2,2,Indian Railways,transport
+218.43,17,5,3,Namma Metro,transport
+425.83,16,0,2,Ola,transport
+307.2,9,2,9,Paytm,other
+566.05,1,2,0,Subway,food
+541.46,4,6,0,Blinkit,food
+553.75,23,5,5,Airtel,bills
+1846.05,3,5,7,Crossword,other
+4174.21,9,6,9,1mg,other
+311.5,8,3,5,Amazon Prime,bills
+200.76,13,0,3,RedBus,other
+153.71,9,5,2,IndiGo,transport
+184.34,15,5,8,SBI ATM,other
+1457.7,14,1,6,Decathlon,entertainment
+3878.91,14,2,8,SBI ATM,other
+731.63,20,0,6,PlayStation Store,entertainment
+698.62,15,4,1,Dominos,food
+422.27,16,5,3,Air India,entertainment
+3860.3,8,3,8,Amazon,other
+922.09,10,5,5,Spotify,bills
+127.3,22,1,9,Reliance Fresh,other
+2549.1,20,1,8,PhonePe,other
+2668.78,23,5,5,LIC Premium,bills
+574.44,12,1,0,Blinkit,food
+141.11,6,3,1,Chai Point,food
+178.04,16,3,1,Dunzo,entertainment
+220.71,0,2,2,IndiGo,transport
+589.96,21,2,0,KFC,food
+1921.0,20,1,8,More Supermarket,other
+118.14,19,5,2,Ola Electric,transport
+2465.6,6,2,4,Water Bill,bills
+24.71,13,1,3,RedBus,transport
+169.68,6,1,2,Ola,transport
+121.04,19,3,1,Burger King,food
+3218.08,7,2,9,HDFC Bank ATM,other
+263.14,13,4,0,KFC,food
+2135.09,8,4,4,Hotstar,bills
+479.63,4,0,9,1mg,other
+290.56,4,6,2,BMTC,transport
+1976.44,18,6,8,Big Bazaar,other
+3712.6,19,5,8,Big Bazaar,other
+1588.39,6,0,6,BookMyShow,entertainment
+2429.77,0,2,8,Apollo Pharmacy,other
+152.73,14,3,0,Swiggy,food
+1544.01,7,4,6,Decathlon,entertainment
+1441.86,11,2,6,Ajio,entertainment
+4428.1,6,1,9,Flipkart,other
+2298.2,14,3,5,Spotify,bills
+4518.76,20,2,4,Gas Bill,bills
+389.96,11,5,3,RedBus,bills
+1764.96,6,3,6,Decathlon,entertainment
+4978.1,6,3,5,Amazon Prime,bills
+3013.29,10,0,4,Jio,bills
+4623.43,19,2,4,Gas Bill,bills
+409.05,1,5,0,Tea Stall,food
+4861.45,0,6,4,Jio,bills
+1031.57,15,5,7,Nykaa,entertainment
+1910.72,19,5,8,Amazon,other
+438.04,4,0,2,Rapido,transport
+206.49,20,5,7,PVR Cinemas,entertainment
+458.06,6,5,1,Pizza Hut,food
+4202.64,10,5,9,HDFC Bank ATM,other
+366.63,11,4,3,Air India,transport
+362.28,21,5,0,Blinkit,food
+596.72,2,1,0,McDonald's,other
+1408.56,13,1,7,Steam,other
+313.01,10,3,0,Swiggy Instamart,food
+2874.33,14,0,9,Flipkart,other
+597.16,5,2,0,McDonald's,food
+3856.94,0,1,8,Amazon,other
+3676.25,7,2,4,YouTube Premium,bills
+169.03,12,5,2,Rapido,transport
+2911.76,13,1,4,BSNL,bills
+105.01,9,2,3,Auto Rickshaw,transport
+774.79,11,2,7,Nykaa,entertainment
+3466.5,5,0,8,Zepto,other
+2886.69,22,3,8,PhonePe,other
+4021.9,6,2,4,Netflix,bills
+3992.05,2,4,9,D-Mart,other
+145.21,3,4,3,RedBus,transport
+301.67,11,4,3,RedBus,transport
+712.51,3,5,6,BookMyShow,entertainment
+961.16,15,2,4,Jio,bills
+1097.32,11,2,5,Airtel,bills
+380.98,14,6,2,Rapido,transport
+3503.04,23,3,9,Google Pay,other
+1474.41,19,2,6,PlayStation Store,entertainment
+176.25,7,6,6,PlayStation Store,entertainment
+3892.95,18,3,8,SBI ATM,other
+4619.53,19,5,8,Apollo Pharmacy,other
+3784.07,4,5,9,Google Pay,other
+4857.53,9,6,4,Jio,bills
+210.08,14,0,3,RedBus,transport
+164.62,2,1,2,Rapido,transport
+63.28,7,1,2,Indian Railways,transport
+124.23,5,2,9,HDFC Bank ATM,other
+345.54,6,3,0,Tea Stall,food
+1549.81,3,3,7,Steam,entertainment
+211.94,10,2,2,Rapido,transport
+236.15,15,5,6,Decathlon,entertainment
+3862.44,11,2,8,Apollo Pharmacy,other
+3130.33,12,0,4,Jio,bills
+41.24,9,3,3,Auto Rickshaw,transport
+184.91,4,2,0,Tea Stall,food
+2506.61,8,3,5,Spotify,bills
+268.33,3,3,2,Ola Electric,transport
+126.05,12,6,1,Chai Point,food
+481.01,12,5,0,McDonald's,food
+1565.58,9,3,6,Ajio,entertainment
+3097.06,14,4,5,Airtel,bills
+1807.64,17,2,5,Amazon Prime,bills
+448.78,12,6,0,Blinkit,food
+761.15,22,4,1,Burger King,food
+3149.31,14,3,5,Spotify,bills
+141.16,15,3,0,Swiggy,food
+1971.99,13,2,4,Netflix,other
+2804.74,5,2,4,Jio,bills
+1757.56,20,0,5,LIC Premium,bills
+279.4,23,3,9,D-Mart,other
+65.39,23,1,2,IndiGo,transport
+756.23,14,5,6,PlayStation Store,entertainment
+4527.54,23,6,9,Reliance Fresh,other
+475.03,11,0,8,Amazon,other
+409.99,3,3,2,Ola Electric,transport
+1755.09,20,5,9,Flipkart,other
+1082.05,23,2,4,Jio,bills
+773.87,6,4,0,Blinkit,food
+2666.9,7,5,5,Society Maintenance,bills
+211.41,13,2,1,Dunzo,food
+41.96,12,1,2,Ola Electric,transport
+1193.46,13,5,4,ICICI EMI,bills
+307.56,20,2,3,RedBus,transport
+581.76,7,0,0,Swiggy,food
+3085.65,14,4,9,D-Mart,other
+1128.77,15,4,7,Myntra,entertainment
+309.77,14,1,1,Burger King,food
+500.21,22,1,7,Nykaa,entertainment
+1355.33,18,0,6,BookMyShow,entertainment
+257.87,23,4,7,Myntra,entertainment
+1712.94,21,3,4,Hotstar,bills
+175.05,11,4,1,BigBasket,food
+1527.64,9,4,6,BookMyShow,entertainment
+1850.23,4,3,6,Ajio,entertainment
+575.2,6,1,9,Flipkart,other
+698.67,23,3,0,McDonald's,food
+1166.99,19,2,8,Big Bazaar,other
+706.17,21,5,4,Netflix,bills
+2081.82,12,3,4,Gas Bill,bills
+398.24,5,3,7,Nykaa,entertainment
+2426.77,5,5,4,Hotstar,bills
+363.57,13,3,0,Tea Stall,food
+127.61,19,4,3,Air India,transport
+2895.87,13,0,9,Google Pay,other
+2932.24,15,5,4,BSNL,bills
+607.22,20,3,0,Swiggy,food
+4266.51,5,3,9,1mg,other
+1040.19,22,1,5,Electricity Bill,bills
+4493.23,6,4,5,Airtel,bills
+942.94,7,6,7,Crossword,entertainment
+327.86,19,6,2,IndiGo,transport
+963.64,14,5,4,YouTube Premium,bills
+557.65,16,3,0,Tea Stall,food
+1778.38,17,0,6,PlayStation Store,entertainment
+3602.34,14,3,8,PhonePe,other
+671.23,23,6,0,Blinkit,food
+745.54,20,5,1,Chai Point,food
+296.88,8,6,7,PVR Cinemas,entertainment
+3637.77,11,3,9,Flipkart,other
+4018.45,6,2,5,Electricity Bill,bills
+105.55,22,3,1,Chai Point,food
+161.74,14,2,3,Namma Metro,transport
+623.07,1,6,7,Crossword,entertainment
+32.45,11,4,2,BMTC,transport
+4734.95,5,4,4,Water Bill,bills
+3431.41,4,5,5,LIC Premium,bills
+432.39,8,5,2,BMTC,transport
+165.42,18,0,3,Air India,transport
+3777.94,16,3,4,Gas Bill,bills
+1947.57,20,1,6,INOX,entertainment
+2664.35,12,6,9,HDFC Bank ATM,other
+1015.9,15,3,6,Decathlon,entertainment
+306.78,9,1,1,Zomato,food
+393.45,3,5,3,Air India,transport
+293.32,20,0,3,RedBus,transport
+1092.4,21,0,9,D-Mart,other
+1064.09,8,4,7,Myntra,entertainment
+4375.82,1,3,8,PhonePe,other
+1354.75,23,1,9,1mg,other
+105.17,19,2,3,RedBus,transport
+1031.07,2,1,9,D-Mart,other
+1215.17,18,6,9,1mg,other
+2730.97,1,2,9,Flipkart,other
+381.42,15,1,1,Zomato,food
+498.72,9,4,1,Dominos,food
+728.74,23,3,1,Pizza Hut,food
+314.92,14,0,2,Ola Electric,transport
+1498.84,20,1,5,Society Maintenance,bills
+1561.31,20,2,4,Gas Bill,bills
+1836.82,21,4,5,Electricity Bill,bills
+646.2,5,3,9,Paytm,other
+402.88,5,1,0,Swiggy Instamart,food
+278.48,14,2,0,Tea Stall,food
+3916.08,7,1,9,1mg,other
+3878.58,15,0,5,HDFC EMI,bills
+2940.41,4,2,5,Electricity Bill,bills
+397.19,5,4,2,Indian Railways,transport
+490.95,20,4,2,IndiGo,transport
+534.57,8,3,6,PlayStation Store,entertainment
+1801.2,11,6,4,Water Bill,bills
+2903.34,13,0,4,ICICI EMI,bills
+1327.01,4,3,7,Myntra,entertainment
+3377.52,8,2,5,Electricity Bill,transport
+2034.93,17,4,4,Hotstar,entertainment
+261.41,8,0,3,Air India,transport
+592.14,23,4,1,Burger King,food
+1584.33,12,5,6,BookMyShow,entertainment
+1213.62,1,0,7,Crossword,entertainment
+453.42,14,2,0,KFC,food
+612.37,10,6,0,Haldirams,food
+1220.64,18,1,6,INOX,entertainment
+2906.39,21,2,9,HDFC Bank ATM,transport
+3478.89,4,6,8,Practo,other
+583.55,10,6,1,Chai Point,food
+3786.66,6,1,5,LIC Premium,bills
+1937.94,6,5,5,LIC Premium,bills
+4676.8,4,0,5,Amazon Prime,bills
+1616.38,16,0,7,Nykaa,entertainment
+2242.31,1,4,9,Google Pay,other
+1555.99,10,5,5,LIC Premium,bills
+119.11,17,6,1,BigBasket,food
+435.13,2,4,0,Subway,food
+1528.62,21,3,7,Steam,entertainment
+4426.48,23,1,4,YouTube Premium,bills
+2378.88,22,5,5,HDFC EMI,other
+1192.0,0,4,6,Ajio,entertainment
+911.58,8,6,7,Myntra,transport
+275.53,20,5,3,Namma Metro,transport
+464.17,22,6,3,Air India,transport
+826.59,9,1,8,Big Bazaar,other
+79.59,4,4,1,Pizza Hut,other
+4378.54,7,5,5,HDFC EMI,bills
+223.66,8,1,2,Rapido,transport
+85.91,14,0,2,Ola,transport
+193.51,14,3,6,Ajio,transport
+303.3,3,0,2,Indian Railways,transport
+367.77,3,1,3,Air India,transport
+375.51,11,5,3,RedBus,transport
+4928.72,16,2,5,Electricity Bill,bills
+1895.3,0,0,7,PVR Cinemas,entertainment
+1926.98,3,2,6,Ajio,entertainment
+512.53,20,2,5,Spotify,bills
+332.21,12,3,3,Uber,transport
+597.22,10,0,0,KFC,food
+291.0,4,4,2,Rapido,transport
+385.9,1,4,3,RedBus,transport
+160.68,19,3,2,Ola Electric,transport
+469.42,4,5,2,Rapido,transport
+397.55,0,3,3,Uber,transport
+199.13,8,4,2,Ola Electric,transport
+335.81,15,0,5,HDFC EMI,food
+278.95,19,5,2,Ola,transport
+173.2,7,0,9,Flipkart,other
+1940.59,14,3,7,PVR Cinemas,entertainment
+3056.03,20,0,9,Reliance Fresh,other
+4533.74,4,2,4,YouTube Premium,bills
+3375.32,3,3,9,Google Pay,other
+472.95,7,4,7,Crossword,entertainment
+128.26,2,5,2,Rapido,transport
+715.19,3,1,0,KFC,food
+164.53,22,3,2,Ola Electric,transport
+4939.45,8,6,9,Google Pay,other
+337.38,18,5,3,Namma Metro,transport
+338.77,1,6,0,Subway,food
+88.62,1,6,2,Ola,transport
+25.62,15,3,3,Namma Metro,transport
+4121.37,18,3,5,Spotify,bills
+1280.49,17,3,7,Nykaa,entertainment
+626.38,10,2,0,Tea Stall,food
+390.56,14,5,3,RedBus,transport
+622.45,8,0,1,Burger King,food
+4830.78,4,0,4,Jio,bills
+77.73,22,2,3,Uber,transport
+237.23,17,0,2,BMTC,transport
+4712.12,16,1,9,Reliance Fresh,other
+392.44,6,5,3,Auto Rickshaw,transport
+927.65,16,4,4,Hotstar,bills
+454.59,22,4,1,Burger King,food
+346.59,20,5,3,Uber,transport
+3780.41,4,4,8,More Supermarket,other
+1464.26,12,2,9,1mg,other
+1798.11,14,2,6,Ajio,entertainment
+20.17,8,5,2,BMTC,transport
+4622.96,19,4,9,1mg,other
+157.84,5,6,0,McDonald's,entertainment
+330.12,12,4,2,Rapido,transport
+53.86,8,1,3,Namma Metro,transport
+1894.25,4,1,7,Crossword,entertainment
+1545.11,0,5,6,PlayStation Store,entertainment
+126.96,20,4,0,Swiggy Instamart,food
+667.76,3,4,7,Nykaa,entertainment
+4413.11,23,2,9,Flipkart,other
+2030.59,8,0,4,Jio,bills
+1764.86,22,6,6,INOX,entertainment
+1093.39,2,5,7,Steam,entertainment
+1876.49,21,3,9,Reliance Fresh,other
+1743.82,8,6,7,PVR Cinemas,entertainment
+2637.06,13,5,4,Netflix,bills
+261.06,22,6,5,Airtel,bills
+520.64,13,5,7,Nykaa,entertainment
+4165.88,15,4,4,Hotstar,bills
+3072.48,21,3,8,SBI ATM,other
+678.65,20,0,1,BigBasket,food
+2942.6,22,4,9,HDFC Bank ATM,transport
+759.88,14,6,6,BookMyShow,entertainment
+170.82,12,6,6,Decathlon,entertainment
+510.48,5,0,6,BookMyShow,entertainment
+335.23,14,6,4,Hotstar,entertainment
+1850.78,7,2,4,Netflix,bills
+970.59,20,2,7,Myntra,entertainment
+331.18,23,3,2,IndiGo,transport
+4254.5,2,2,4,BSNL,bills
+4064.55,7,2,5,Amazon Prime,bills
+633.17,12,2,5,Amazon Prime,bills
+3807.17,6,2,8,Apollo Pharmacy,other
+1801.98,5,1,7,Nykaa,entertainment
+1689.84,16,5,5,Society Maintenance,transport
+2737.45,12,4,8,PhonePe,other
+583.75,21,3,1,Zomato,food
+2757.11,12,1,5,HDFC EMI,bills
+1265.5,2,2,6,PlayStation Store,entertainment
+138.03,4,5,2,Ola,transport
+3536.07,7,1,5,Spotify,transport
+89.78,9,1,3,Auto Rickshaw,transport
+678.45,13,4,1,Dunzo,food
+2120.39,16,4,9,1mg,other
+1518.91,22,6,6,Ajio,entertainment
+2269.74,11,1,4,Water Bill,bills
+4798.8,4,2,5,Airtel,bills
+81.81,16,5,3,Air India,transport
+1633.78,19,1,7,PVR Cinemas,entertainment
+4887.14,7,3,4,Netflix,bills
+2408.61,14,3,4,Jio,bills
+208.36,14,4,8,Apollo Pharmacy,other
+700.68,4,0,1,Dunzo,food
+1408.91,23,0,5,Society Maintenance,bills
+3845.39,4,3,9,D-Mart,other
+278.43,21,2,2,BMTC,transport
+4404.53,13,1,4,Hotstar,bills
+1640.85,0,4,9,Google Pay,other
+490.59,2,4,1,Burger King,food
+170.91,6,1,1,Chai Point,food
+4195.12,0,5,8,Apollo Pharmacy,other
+269.3,12,4,7,Myntra,entertainment
+1423.19,4,6,6,Ajio,entertainment
+1904.11,22,3,4,Water Bill,bills
+1449.69,6,1,4,BSNL,bills
+590.61,14,6,4,Netflix,bills
+709.48,1,4,0,Swiggy,food
+176.38,16,0,1,Zomato,food
+70.74,18,4,0,KFC,food
+1103.9,19,3,4,BSNL,bills
+66.54,21,1,3,Namma Metro,transport
+4468.04,22,6,8,Apollo Pharmacy,other
+34.56,1,4,3,RedBus,transport
+751.27,3,2,0,KFC,food
+452.11,15,1,2,Rapido,transport
+4608.0,14,5,9,Google Pay,other
+2294.88,3,5,8,Big Bazaar,other
+792.77,15,1,9,HDFC Bank ATM,transport
+1640.72,21,5,7,Nykaa,food
+3351.21,10,4,9,Flipkart,other
+2656.2,17,5,8,PhonePe,other
+234.99,6,2,2,Rapido,transport
+256.54,0,3,6,Ajio,entertainment
+507.25,9,3,1,Dunzo,food
+463.61,1,1,5,Amazon Prime,bills
+610.89,18,4,1,BigBasket,food
+276.46,1,2,2,Ola,transport
+199.63,21,6,6,Decathlon,entertainment
+1713.52,16,2,6,Decathlon,entertainment
+392.93,5,1,1,Zomato,food
+1191.54,20,4,5,LIC Premium,transport
+725.24,3,2,1,Dominos,entertainment
+660.23,10,1,0,Tea Stall,food
+1843.41,12,0,7,Myntra,entertainment
+318.45,8,3,3,Auto Rickshaw,transport
+3168.33,6,5,8,More Supermarket,other
+2195.68,13,3,4,Jio,bills
+4120.1,15,2,5,Electricity Bill,bills
+3510.41,14,1,8,Amazon,entertainment
+96.28,15,0,3,Uber,food
+472.88,8,5,2,Rapido,transport
+640.94,18,2,6,PlayStation Store,entertainment
+667.16,6,0,0,Blinkit,food
+722.86,1,3,9,1mg,other
+172.26,12,1,7,Steam,entertainment
+100.55,13,4,0,Subway,food
+2321.16,1,5,4,BSNL,bills
+3865.89,23,2,9,1mg,other
+306.01,8,1,0,McDonald's,food
+3291.49,12,3,4,YouTube Premium,bills
+50.55,5,5,2,IndiGo,transport
+32.15,14,0,3,RedBus,transport
+287.29,4,4,2,BMTC,transport
+2686.15,0,4,4,ICICI EMI,food
+197.78,4,0,3,Namma Metro,transport
+48.04,12,6,3,Air India,food
+3834.66,1,4,9,1mg,other
+2900.31,12,2,8,More Supermarket,entertainment
+3765.54,21,3,8,More Supermarket,other
+2329.42,4,3,8,Zepto,other
+807.6,20,5,9,1mg,other
+499.59,5,2,2,Indian Railways,transport
+157.99,14,3,0,KFC,food
+712.62,20,2,8,SBI ATM,other
+444.14,14,5,2,Indian Railways,transport
+980.68,10,2,6,Ajio,entertainment
+491.24,6,5,6,Decathlon,entertainment
+396.38,11,3,2,Ola Electric,transport
+2100.22,20,2,8,Big Bazaar,other
+72.15,20,3,3,RedBus,transport
+4376.4,13,0,4,Hotstar,bills
+447.16,21,3,2,IndiGo,transport
+216.79,6,3,9,Paytm,other
+4919.8,21,4,8,Practo,other
+395.29,6,1,3,Air India,transport
+1749.26,4,6,7,Steam,entertainment
+1108.12,20,0,7,Crossword,entertainment
+66.1,1,2,1,Zomato,food
+317.52,23,1,0,Haldirams,food
+194.21,10,4,3,Uber,transport
+650.51,3,6,6,INOX,entertainment
+844.88,13,0,8,More Supermarket,other
+875.57,17,5,8,SBI ATM,other
+1410.93,7,0,6,PlayStation Store,entertainment
+382.72,4,3,3,Uber,transport
+1557.56,18,5,6,INOX,entertainment
+2944.74,14,0,5,Society Maintenance,bills
+753.27,10,0,7,Crossword,entertainment
+1639.8,12,1,5,Society Maintenance,transport
+770.31,6,5,0,Subway,food
+4754.01,2,2,4,Hotstar,bills
+178.18,18,3,9,Paytm,other
+112.17,8,4,2,BMTC,transport
+175.16,20,1,0,Haldirams,food
+1819.42,8,5,4,ICICI EMI,bills
+1147.42,4,6,7,Myntra,entertainment
+1583.28,6,3,8,Amazon,other
+1424.03,10,2,6,PlayStation Store,entertainment
+2180.12,22,2,8,Big Bazaar,other
+285.14,15,2,2,BMTC,transport
+3424.35,21,2,4,YouTube Premium,entertainment
+4072.7,3,1,8,Amazon,other
+165.5,7,6,1,Zomato,food
+592.33,23,6,0,Swiggy,food
+536.91,18,5,5,Society Maintenance,bills
+1593.65,3,4,7,Myntra,entertainment
+738.5,2,1,1,Dominos,transport
+52.88,21,1,1,Zomato,food
+173.79,16,1,2,Indian Railways,food
+1250.37,5,3,7,Nykaa,entertainment
+4351.9,1,3,5,Society Maintenance,bills
+104.41,6,2,3,Uber,transport
+486.91,22,0,3,Air India,transport
+291.05,7,1,1,Pizza Hut,food
+663.77,13,4,7,Crossword,entertainment
+4157.27,23,1,4,Water Bill,bills
+3796.06,2,0,8,Practo,bills
+599.69,19,6,0,Haldirams,food
+1956.62,21,0,6,BookMyShow,entertainment
+4589.4,22,5,4,YouTube Premium,bills
+2889.09,23,6,9,Flipkart,other
+4092.44,11,3,5,Amazon Prime,bills
+2819.95,23,1,5,HDFC EMI,bills
+351.62,13,3,2,Ola,transport
+980.89,14,3,6,Ajio,entertainment
+221.41,0,6,2,Indian Railways,transport
+495.09,20,1,2,Indian Railways,transport
+1603.61,21,1,6,Ajio,entertainment
+124.16,0,3,2,Rapido,transport
+475.74,15,3,7,Myntra,entertainment
+153.28,6,3,2,IndiGo,transport
+2232.03,5,3,8,SBI ATM,other
+100.18,10,5,1,Zomato,food
+546.79,15,6,6,INOX,entertainment
+479.29,20,1,2,Ola,transport
+3168.32,19,0,4,Netflix,bills
+1771.38,11,6,8,Practo,other
+50.3,14,2,3,RedBus,transport
+1407.74,10,5,7,Myntra,entertainment
+747.44,10,5,6,Decathlon,entertainment
+395.17,18,1,3,Namma Metro,transport
+4116.32,15,4,9,Reliance Fresh,other
+1070.82,3,3,7,Myntra,entertainment
+274.03,14,4,3,Uber,transport
+1126.47,8,5,4,Hotstar,entertainment
+247.4,7,5,2,Ola,transport
+515.49,17,1,1,Pizza Hut,food
+4929.35,19,4,5,LIC Premium,bills
+110.33,19,4,2,Ola Electric,transport
+601.62,6,4,0,Swiggy,food
+1942.44,22,6,8,Big Bazaar,other
+158.04,0,0,1,Dominos,food
+948.7,12,4,6,INOX,entertainment
+71.72,8,3,3,Namma Metro,transport
+2375.45,5,4,5,Society Maintenance,bills
+79.48,10,4,2,Ola,transport
+1680.43,12,4,7,Myntra,entertainment
+292.91,5,2,0,Tea Stall,food
+3253.74,10,4,8,Amazon,other
+3641.61,22,1,8,Amazon,other
+387.98,16,1,6,INOX,food
+182.32,13,2,3,Namma Metro,bills
+96.61,13,5,0,Swiggy Instamart,food
+1663.41,6,3,6,Decathlon,entertainment
+129.15,1,5,2,BMTC,transport
+307.73,7,6,9,Paytm,transport
+260.28,10,3,2,Rapido,transport
+144.67,22,5,7,Nykaa,bills
+480.24,1,1,6,BookMyShow,entertainment
+187.7,2,4,2,Ola,transport
+987.22,6,1,5,Spotify,bills
+1401.67,11,4,8,Practo,other
+1532.93,8,2,7,Steam,entertainment
+208.46,20,2,2,BMTC,transport
+1563.03,6,1,6,Decathlon,other
+749.81,6,1,1,Chai Point,food
+4181.36,21,1,8,Practo,other
+2372.52,20,5,9,HDFC Bank ATM,other
+124.07,0,2,2,BMTC,transport
+695.27,6,3,0,McDonald's,food
+1970.04,19,6,7,Nykaa,entertainment
+289.2,9,6,3,RedBus,transport
+429.29,19,0,2,Ola,food
+50.01,14,3,0,Haldirams,food
+362.34,6,5,9,Flipkart,other
+56.53,13,5,3,Namma Metro,transport
+723.89,9,1,0,Swiggy,food
+4459.22,6,0,4,YouTube Premium,bills
+407.38,0,0,0,Haldirams,food
+702.34,18,5,1,Dunzo,food
+3544.1,15,0,8,Amazon,other
+345.45,0,0,2,Indian Railways,transport
+883.61,0,4,7,Nykaa,entertainment
+707.28,22,2,0,Subway,food
+146.38,8,6,6,PlayStation Store,entertainment
+408.97,20,0,3,RedBus,transport
+2838.83,22,3,8,SBI ATM,other
+157.53,2,4,2,Ola,transport
+2813.58,11,5,5,LIC Premium,bills
+898.49,23,5,4,Gas Bill,bills
+2127.94,14,2,5,Society Maintenance,bills
+3807.72,15,5,4,Netflix,bills
+523.58,8,1,8,SBI ATM,other
+2438.93,17,6,4,Netflix,bills
+263.05,20,1,3,Namma Metro,transport
+4176.86,5,6,8,Zepto,other
+3982.16,22,3,9,Reliance Fresh,other
+133.91,16,4,0,Haldirams,food
+53.03,17,5,1,BigBasket,food
+360.68,10,3,2,Ola Electric,transport
+647.68,17,3,1,Pizza Hut,food
+1173.45,11,5,8,SBI ATM,other
+529.05,20,3,7,PVR Cinemas,entertainment
+363.78,16,6,3,Auto Rickshaw,transport
+104.16,9,1,0,Haldirams,food
+1129.74,3,6,7,Steam,entertainment
+78.12,5,6,2,BMTC,food
+366.44,11,5,1,Zomato,entertainment
+752.02,11,1,6,PlayStation Store,other
+4613.79,20,4,5,Society Maintenance,bills
+2549.97,11,0,8,Amazon,entertainment
+4029.39,17,6,5,Spotify,bills
+515.17,11,5,1,BigBasket,food
+173.48,15,6,6,Ajio,entertainment
+119.04,7,5,0,Swiggy Instamart,food
+303.04,19,3,1,Chai Point,food
+632.87,14,1,0,Swiggy Instamart,food
+3450.74,18,6,8,Amazon,other
+101.82,5,3,1,Dunzo,food
+4046.08,17,5,4,ICICI EMI,bills
+573.66,15,1,1,Zomato,food
+175.65,19,2,6,INOX,entertainment
+1940.27,2,1,6,INOX,entertainment
+835.88,23,6,6,BookMyShow,entertainment
+165.09,7,2,2,Ola,transport
+3597.76,22,0,9,1mg,other
+605.27,19,4,0,McDonald's,food
+645.75,13,0,1,Burger King,food
+3210.68,3,3,9,HDFC Bank ATM,other
+1433.89,2,0,6,Decathlon,entertainment
+318.23,12,4,0,Tea Stall,food
+78.09,5,0,2,Rapido,transport
+2285.9,17,2,9,1mg,other
+4857.24,21,1,9,Flipkart,other
+294.8,6,1,8,PhonePe,other
+2074.8,11,0,5,Amazon Prime,bills
+2670.36,8,4,9,Flipkart,other
+4611.59,15,6,9,HDFC Bank ATM,transport
+249.57,6,0,3,RedBus,transport
+320.97,2,1,2,Ola Electric,transport
+433.37,2,3,2,Rapido,transport
+2874.17,7,5,9,Flipkart,other
+1881.46,8,3,7,Myntra,entertainment
+703.0,12,0,0,Swiggy,food
+207.57,19,6,3,Namma Metro,transport
+250.1,16,3,2,Rapido,transport
+158.06,2,3,2,IndiGo,transport
+515.73,4,6,8,PhonePe,food
+260.63,20,6,0,Blinkit,food
+3105.03,9,6,4,Gas Bill,bills
+1539.09,22,4,6,Ajio,entertainment
+3036.78,18,1,9,Google Pay,other
+1952.93,17,4,7,Nykaa,entertainment
+3182.69,8,6,8,Practo,other
+1701.96,10,1,5,Electricity Bill,bills
+1040.05,10,4,8,Practo,other
+905.31,21,1,7,Crossword,entertainment
+4031.0,22,2,8,Apollo Pharmacy,other
+362.06,17,2,3,Namma Metro,transport
+269.65,3,5,3,Air India,transport
+3070.63,20,6,5,Electricity Bill,bills
+4085.78,11,1,4,Netflix,bills
+1871.72,14,4,6,PlayStation Store,entertainment
+544.91,3,3,5,Society Maintenance,bills
+426.08,8,3,8,Amazon,other
+1208.81,8,4,6,Decathlon,entertainment
+349.87,13,5,8,Practo,other
+930.63,10,0,7,Nykaa,entertainment
+384.86,1,0,3,Namma Metro,transport
+451.42,4,6,0,Swiggy Instamart,food
+367.45,1,5,0,Tea Stall,food
+4886.5,23,2,9,HDFC Bank ATM,food
+1257.32,19,4,5,Electricity Bill,bills
+4235.53,4,0,5,HDFC EMI,bills
+1177.37,12,1,8,Big Bazaar,other
+546.77,23,4,8,Apollo Pharmacy,other
+658.38,13,1,5,Airtel,bills
+448.1,7,2,2,Rapido,transport
+484.73,19,6,0,Blinkit,bills
+290.7,2,3,7,Steam,entertainment
+1716.11,12,0,6,Ajio,entertainment
+4420.85,15,3,9,1mg,other
+2545.26,19,3,8,Amazon,other
+374.58,2,4,7,Myntra,entertainment
+493.55,10,2,6,Ajio,entertainment
+1807.06,12,4,6,PlayStation Store,entertainment
+563.74,22,0,7,Crossword,entertainment
+838.85,11,2,6,BookMyShow,entertainment
+1827.46,2,3,7,Nykaa,entertainment
+1959.02,8,3,4,Water Bill,bills
+329.6,19,4,3,Air India,transport
+194.99,7,0,2,Indian Railways,transport
+140.19,16,2,2,Ola,other
+1731.15,8,6,6,INOX,entertainment
+99.98,2,1,2,BMTC,transport
+540.97,23,1,1,BigBasket,food
+4495.52,7,0,4,ICICI EMI,bills
+52.34,3,2,3,Uber,transport
+285.65,11,5,3,RedBus,transport
+137.91,0,2,2,Rapido,transport
+410.39,16,4,2,IndiGo,transport
+86.26,4,6,0,McDonald's,food
+420.45,18,6,3,Air India,transport
+1039.87,3,5,5,LIC Premium,bills
+382.17,2,3,3,Air India,transport
+403.44,21,6,2,IndiGo,entertainment
+1788.71,14,5,6,Ajio,entertainment
+2929.61,23,3,9,Google Pay,other
+1000.27,15,1,4,ICICI EMI,bills
+796.04,9,0,1,BigBasket,food
+1942.13,11,0,8,SBI ATM,other
+276.02,13,6,4,Hotstar,bills
+399.45,23,1,3,Air India,transport
+277.63,7,3,4,BSNL,bills
+3621.59,11,1,5,LIC Premium,bills
+566.2,4,5,6,BookMyShow,entertainment
+312.92,12,5,0,Swiggy,food
+1660.08,17,3,7,Myntra,bills
+685.38,2,2,1,Pizza Hut,food
+2631.75,0,0,4,YouTube Premium,bills
+149.41,0,4,2,IndiGo,transport
+31.59,12,2,3,Namma Metro,transport
+1700.07,11,0,9,Google Pay,other
+2248.15,15,3,8,More Supermarket,other
+3769.79,16,0,9,D-Mart,other
+178.47,22,3,2,Indian Railways,transport
+4591.89,2,4,4,Hotstar,bills
+179.59,9,0,7,Steam,entertainment
+112.96,4,3,3,Air India,transport
+1132.02,2,1,8,More Supermarket,other
+640.26,7,3,1,Dunzo,food
+74.83,21,3,3,RedBus,transport
+4282.7,8,4,5,HDFC EMI,bills
+4090.46,10,5,8,More Supermarket,other
+3473.08,22,4,4,Netflix,bills
+3009.87,7,1,8,Big Bazaar,other
+296.12,16,2,0,KFC,food
+197.44,18,2,6,Ajio,entertainment
+2863.62,7,1,4,BSNL,bills
+1425.03,16,2,7,PVR Cinemas,entertainment
+1176.49,9,0,6,Ajio,entertainment
+475.28,21,0,3,RedBus,transport
+2290.43,13,1,4,Jio,bills
+734.19,11,0,6,BookMyShow,entertainment
+4989.43,12,4,4,YouTube Premium,bills
+157.5,19,6,3,Auto Rickshaw,transport
+177.03,12,6,3,Air India,transport
+647.15,0,1,1,Zomato,food
+552.34,22,5,8,More Supermarket,other
+246.18,1,1,2,Ola,transport
+3457.63,22,2,5,HDFC EMI,bills
+1617.86,3,0,8,More Supermarket,transport
+101.04,6,6,9,Google Pay,food
+71.62,18,2,3,RedBus,transport
+4175.83,9,1,9,Flipkart,other
+244.99,20,6,1,Pizza Hut,food
+3476.26,1,3,9,1mg,other
+2468.24,14,2,5,Amazon Prime,bills
+3557.72,12,3,8,Zepto,other
+339.8,6,1,2,BMTC,transport
+169.92,1,4,6,INOX,entertainment
+144.58,23,0,1,Dunzo,food
+1735.08,7,5,5,Amazon Prime,bills
+1866.76,21,5,7,PVR Cinemas,entertainment
+4693.44,6,3,8,Practo,other
+193.62,2,0,0,Blinkit,food
+239.14,5,6,0,Subway,food
+1589.08,10,3,6,Ajio,entertainment
+336.03,18,6,2,Indian Railways,transport
+219.58,15,2,2,BMTC,transport
+266.14,15,2,3,Auto Rickshaw,transport
+38.46,0,5,2,Indian Railways,transport
+3151.02,10,0,4,Hotstar,bills
+776.96,6,1,1,Pizza Hut,food
+431.73,23,4,2,Ola Electric,transport
+2737.46,18,4,4,YouTube Premium,bills
+4754.1,1,3,8,Big Bazaar,other
+4984.27,14,0,8,PhonePe,other
+3028.33,2,3,4,ICICI EMI,bills
+1186.61,10,6,7,Crossword,entertainment
+1571.38,20,6,8,Practo,other
+728.29,8,3,0,Tea Stall,food
+1263.87,14,1,4,Jio,transport
+1624.54,8,4,7,PVR Cinemas,food
+2558.58,23,6,8,Amazon,other
+444.79,18,1,4,Netflix,bills
+3920.41,7,3,8,Practo,other
+2770.81,6,0,8,Apollo Pharmacy,other
+139.31,4,5,7,Nykaa,transport
+3424.36,13,1,4,Water Bill,bills
+786.72,9,2,6,INOX,entertainment
+436.09,4,6,8,Zepto,other
+765.19,2,6,0,Swiggy,food
+3871.29,10,0,5,Airtel,bills
+2719.5,16,0,8,Big Bazaar,other
+1592.44,11,6,6,PlayStation Store,entertainment
+654.95,17,2,0,Blinkit,food
+653.28,2,0,1,BigBasket,food
+270.6,22,4,2,Rapido,transport
+188.66,10,6,2,Ola Electric,transport
+296.78,16,6,6,Ajio,entertainment
+1280.04,15,6,7,Steam,entertainment
+4883.07,23,1,9,Flipkart,other
+835.82,20,2,7,Nykaa,entertainment
+237.4,0,4,2,Ola,transport
+1825.22,23,6,4,Netflix,bills
+397.61,4,6,1,Pizza Hut,food
+624.59,18,1,0,Swiggy Instamart,food
+1479.22,10,0,6,Decathlon,entertainment
+4192.61,10,1,8,Big Bazaar,other
+1607.86,3,0,4,ICICI EMI,bills
+3540.05,12,1,4,BSNL,bills
+4910.27,16,2,4,ICICI EMI,bills
+274.87,0,0,1,Chai Point,food
+645.86,4,4,5,Amazon Prime,bills
+1876.41,3,2,9,Flipkart,other
+1075.75,6,4,5,Airtel,bills
+283.62,17,6,0,KFC,food
+4076.73,17,4,9,Flipkart,other
+3323.71,3,3,8,PhonePe,other
+365.13,21,2,0,Haldirams,food
+529.06,18,0,4,BSNL,bills
+401.92,11,3,0,Swiggy,food
+2995.18,17,6,8,Apollo Pharmacy,other
+331.27,18,5,2,Rapido,transport
+402.74,23,5,0,Swiggy,food
+264.65,13,0,2,Ola Electric,transport
+3993.84,6,3,9,Google Pay,other
+1133.94,21,3,8,SBI ATM,other
+185.25,12,4,2,BMTC,transport
+611.78,19,6,6,PlayStation Store,entertainment
+536.25,15,0,0,KFC,food
+610.09,22,1,1,Dominos,food
+2943.0,21,1,8,Zepto,other
+499.11,23,0,3,Auto Rickshaw,transport
+773.91,8,0,0,McDonald's,food
+642.79,22,0,9,D-Mart,transport
+949.44,4,5,7,Steam,entertainment
+782.94,12,5,1,Burger King,food
+3349.29,20,1,9,Paytm,other
+437.58,21,1,3,Auto Rickshaw,transport
+931.16,8,0,6,PlayStation Store,entertainment
+1584.65,1,5,6,BookMyShow,entertainment
+885.47,9,1,7,Steam,entertainment
+3891.23,15,6,4,ICICI EMI,bills
+1585.66,7,3,9,HDFC Bank ATM,entertainment
+422.94,12,2,2,BMTC,transport
+454.31,0,6,3,RedBus,transport
+125.06,17,4,2,Indian Railways,transport
+270.57,22,0,3,Namma Metro,transport
+4037.21,23,3,4,Gas Bill,bills
+724.08,8,6,1,Dominos,food
+467.06,19,4,2,Ola Electric,transport
+2535.48,16,0,8,Zepto,other
+388.88,17,3,3,Namma Metro,transport
+1047.75,3,5,9,Paytm,other
+1404.86,8,4,4,ICICI EMI,bills
+424.12,19,4,2,Ola Electric,transport
+2412.09,6,1,8,SBI ATM,other
+2462.11,7,4,5,HDFC EMI,bills
+4795.97,0,5,4,ICICI EMI,bills
+152.75,13,6,0,Haldirams,food
+451.24,23,0,0,Blinkit,food
+380.96,4,1,0,Swiggy Instamart,food
+37.58,0,4,3,Uber,transport
+1321.74,14,1,6,PlayStation Store,entertainment
+508.83,2,6,1,Dominos,food
+3782.55,7,0,4,Gas Bill,bills
+417.37,22,5,6,Decathlon,entertainment
+662.8,6,6,1,Dunzo,food
+268.55,18,1,7,PVR Cinemas,entertainment
+3512.26,11,6,8,SBI ATM,other
+151.11,3,5,6,INOX,entertainment
+943.13,5,1,9,1mg,bills
+670.46,6,1,1,Dominos,food
+2356.89,19,1,4,Netflix,bills
+593.05,11,5,0,Haldirams,food
+938.02,2,6,4,ICICI EMI,bills
+102.26,1,4,2,Ola,transport
+72.09,5,1,2,Indian Railways,transport
+375.96,22,6,1,Zomato,food
+362.59,21,4,2,IndiGo,transport
+2969.54,10,3,8,More Supermarket,other
+275.77,18,1,3,Air India,transport
+1689.71,14,2,7,Crossword,entertainment
+4645.75,0,1,5,Electricity Bill,bills
+983.25,2,6,6,Decathlon,entertainment
+721.22,1,1,9,D-Mart,other
+2844.32,12,5,9,Flipkart,other
+762.57,16,1,9,Reliance Fresh,other
+719.49,1,4,8,Big Bazaar,other
+1283.32,17,0,9,Flipkart,other
+1445.62,10,4,5,Airtel,bills
+225.31,6,1,2,Ola,transport
+268.62,19,3,3,Uber,transport
+460.04,23,6,0,Tea Stall,food
+1525.57,10,0,4,Netflix,bills
+70.49,21,5,0,Subway,food
+72.76,10,1,1,Chai Point,food
+4770.13,3,3,9,Paytm,transport
+3958.58,23,4,8,Amazon,other
+284.63,21,0,1,Burger King,food
+1531.48,5,0,8,Big Bazaar,other
+3373.9,17,3,9,Google Pay,other
+3886.11,4,1,4,YouTube Premium,bills
+402.85,12,3,4,Hotstar,bills
+69.69,19,0,1,Dunzo,food
+234.21,11,5,0,Haldirams,food
+2743.7,12,3,4,Water Bill,other
+831.44,8,4,8,SBI ATM,other
+337.44,11,2,3,Namma Metro,transport
+370.21,17,5,2,Indian Railways,transport
+355.05,7,3,0,Swiggy,food
+2354.12,11,6,8,PhonePe,other
+527.18,16,1,0,Subway,food
+465.51,12,2,2,Ola,bills
+4584.65,23,0,8,PhonePe,other
+4818.29,20,1,4,Water Bill,bills
+4414.22,7,4,9,Paytm,other
+273.59,2,3,3,Auto Rickshaw,transport
+513.61,22,3,4,Netflix,bills
+937.27,18,5,9,D-Mart,other
+298.43,13,6,4,BSNL,bills
+226.83,3,2,2,IndiGo,transport
+2072.27,20,3,5,Spotify,food
+383.68,1,1,3,Namma Metro,transport
+745.87,21,1,7,Myntra,entertainment
+4574.79,0,5,5,Spotify,bills
+358.39,8,6,0,KFC,food
+2745.23,0,6,5,Spotify,bills
+135.89,22,4,3,Namma Metro,transport
+1724.6,4,3,8,Practo,other
+3401.02,10,0,8,Amazon,other
+4967.0,9,1,4,Jio,bills
+485.47,11,1,3,Auto Rickshaw,transport
+4429.05,3,3,9,HDFC Bank ATM,other
+63.23,22,4,3,Uber,transport
+1134.32,19,1,7,PVR Cinemas,entertainment
+345.82,15,1,2,Ola Electric,transport
+499.73,1,3,3,Namma Metro,transport
+738.6,19,6,1,Zomato,food
+4957.97,3,3,9,HDFC Bank ATM,other
+2807.49,16,0,8,Big Bazaar,other
+665.26,0,4,1,Dominos,food
+134.01,4,6,0,Blinkit,food
+1297.49,12,2,8,Amazon,other
+601.39,9,6,7,Nykaa,entertainment
+4548.89,0,4,9,D-Mart,other
+400.2,4,0,3,Air India,transport
+656.39,16,5,1,Zomato,food
+1531.99,7,3,8,PhonePe,other
+229.24,4,6,9,Reliance Fresh,other
+1889.04,19,4,6,INOX,entertainment
+2311.33,10,2,9,1mg,other
+1421.29,23,2,6,BookMyShow,bills
+471.52,1,6,2,Indian Railways,transport
+4001.55,7,3,4,Hotstar,bills
+1086.74,3,0,6,BookMyShow,entertainment
+470.65,6,6,2,Ola,transport
+320.99,12,4,1,Dominos,food
+70.45,4,5,0,Subway,food
+1910.29,6,2,7,PVR Cinemas,transport
+2262.44,17,1,5,Spotify,bills
+1290.12,15,3,7,Nykaa,entertainment
+3143.78,16,6,8,Apollo Pharmacy,other
+755.09,9,4,4,Jio,bills
+635.18,10,2,1,Dunzo,food
+458.11,23,4,2,Ola Electric,transport
+132.2,11,4,3,Auto Rickshaw,transport
+568.33,0,4,1,Dunzo,bills
+485.63,2,6,1,BigBasket,food
+4687.75,22,3,4,BSNL,bills
+2133.11,19,5,4,BSNL,bills
+2161.62,19,4,8,Zepto,other
+1677.54,20,4,6,PlayStation Store,entertainment
+3423.57,14,0,8,Zepto,other
+3939.3,18,3,8,PhonePe,other
+2870.17,9,0,9,HDFC Bank ATM,other
+3132.04,6,1,9,Google Pay,other
+161.33,4,6,3,Auto Rickshaw,transport
+1925.19,1,3,6,Decathlon,entertainment
+2417.59,12,5,8,PhonePe,other
+779.26,0,5,0,Blinkit,food
+688.05,23,1,7,Steam,entertainment
+3383.72,19,2,9,HDFC Bank ATM,other
+86.49,17,6,2,IndiGo,transport
+671.01,11,3,0,KFC,food
+571.36,19,3,0,Haldirams,food
+3034.05,11,4,4,ICICI EMI,transport
+64.88,17,3,2,BMTC,transport
+3188.73,6,0,8,SBI ATM,other
+581.44,21,1,8,SBI ATM,other
+294.32,3,2,3,Namma Metro,transport
+279.9,7,4,2,Indian Railways,transport
+3204.62,1,6,4,Water Bill,bills
+408.81,7,0,0,McDonald's,food
+375.69,12,3,0,Swiggy Instamart,food
+675.28,12,4,1,Zomato,food
+180.72,0,0,3,Air India,transport
+509.05,8,0,0,Swiggy,food
+4317.47,10,0,5,Airtel,bills
+1739.51,16,1,6,INOX,entertainment
+2114.56,4,0,8,Zepto,other
+1495.85,15,3,4,Water Bill,bills
+408.39,22,3,6,Ajio,entertainment
+342.27,19,1,2,Indian Railways,transport
+4387.62,23,5,5,Amazon Prime,food
+1965.77,18,5,6,BookMyShow,entertainment
+2046.67,16,5,8,Amazon,bills
+1072.35,14,1,9,1mg,other
+285.65,22,1,0,Haldirams,food
+72.18,17,0,2,Indian Railways,transport
+249.33,5,0,7,PVR Cinemas,transport
+552.15,16,5,6,Ajio,entertainment
+2820.89,11,3,5,LIC Premium,bills
+105.75,21,4,1,Dunzo,food
+435.13,5,6,5,Society Maintenance,bills
+4334.2,9,4,8,Apollo Pharmacy,other
+373.37,9,0,1,Zomato,food
+140.06,3,3,2,Ola Electric,transport
+1819.58,23,6,6,INOX,entertainment
+1838.82,2,0,6,INOX,entertainment
+449.25,18,4,3,RedBus,transport
+145.33,13,1,3,Auto Rickshaw,transport
+4165.76,23,5,9,D-Mart,other
+2187.5,7,6,8,Big Bazaar,other
+4255.57,5,4,9,Flipkart,other
+1297.99,14,5,5,HDFC EMI,bills
+491.46,23,5,1,Chai Point,food
+961.79,22,0,7,PVR Cinemas,entertainment
+548.3,12,4,7,Nykaa,entertainment
+195.24,0,3,2,Ola,transport
+4219.34,5,1,8,Zepto,other
+612.79,12,5,4,BSNL,bills
+4946.58,3,5,4,Gas Bill,bills
+3715.68,16,5,4,BSNL,bills
+177.15,12,3,2,Rapido,other
+2994.1,21,2,8,PhonePe,other
+280.09,17,6,3,Air India,transport
+719.13,1,6,0,McDonald's,food
+3520.3,7,5,5,Society Maintenance,bills
+3031.29,22,2,9,D-Mart,other
+736.94,19,2,8,Zepto,other
+423.48,2,2,8,Zepto,other
+2635.68,1,5,4,Gas Bill,bills
+1800.87,12,3,7,Steam,transport
+1561.3,21,1,6,Decathlon,entertainment
+256.18,2,4,1,Dunzo,food
+780.02,15,4,0,Tea Stall,food
+834.59,19,4,8,PhonePe,other
+1690.39,4,2,6,INOX,entertainment
+4971.54,1,6,9,Paytm,other
+103.21,20,1,8,PhonePe,other
+443.85,21,6,2,BMTC,transport
+2027.89,19,2,4,ICICI EMI,bills
+1378.72,5,2,6,BookMyShow,entertainment
+1778.89,11,2,9,D-Mart,other
+2086.63,18,3,4,Gas Bill,bills
+161.2,20,1,3,Air India,transport
+426.44,12,6,3,Air India,transport
+282.17,18,0,3,Auto Rickshaw,transport
+581.19,21,2,4,Water Bill,bills
+366.76,15,1,3,Namma Metro,transport
+1024.09,18,1,5,Society Maintenance,bills
+395.21,11,0,3,Air India,transport
+70.98,22,3,2,IndiGo,transport
+2549.72,8,3,4,Netflix,bills
+1670.16,15,6,9,Google Pay,other
+235.5,9,5,5,Electricity Bill,bills
+4479.95,18,0,8,Zepto,other
+413.19,1,1,1,BigBasket,food
+2951.69,8,6,9,HDFC Bank ATM,other
+345.9,2,2,1,Dominos,bills
+4172.3,6,0,5,HDFC EMI,bills
+317.3,6,6,3,Namma Metro,transport
+285.02,13,3,6,Decathlon,entertainment
+4773.06,4,5,4,Water Bill,other
+644.34,1,6,0,Subway,food
+3155.07,3,5,4,ICICI EMI,bills
+394.7,23,6,8,PhonePe,other
+150.41,4,1,2,Ola,transport
+3858.23,12,1,9,Reliance Fresh,other
+408.37,13,3,2,IndiGo,transport
+629.69,16,3,1,Pizza Hut,food
+667.44,5,1,6,PlayStation Store,entertainment
+740.84,23,5,6,Decathlon,entertainment
+3717.59,13,2,5,HDFC EMI,bills
+3145.12,5,4,5,Spotify,bills
+457.03,2,6,3,Air India,transport
+358.64,0,0,6,BookMyShow,entertainment
+329.38,7,4,0,KFC,food
+328.47,3,6,2,Rapido,transport
+1199.26,10,2,5,Airtel,bills
+1155.54,5,5,6,Ajio,transport
+688.34,16,4,0,KFC,food
+1990.69,15,1,7,Crossword,entertainment
+903.84,20,6,7,Steam,entertainment
+1321.98,4,5,6,PlayStation Store,entertainment
+436.49,23,5,1,Pizza Hut,food
+120.39,2,4,2,BMTC,transport
+359.63,3,5,2,Rapido,transport
+80.62,19,1,3,Uber,transport
+119.45,12,5,1,BigBasket,food
+233.56,8,3,0,Swiggy Instamart,food
+242.33,0,4,2,IndiGo,transport
+268.97,2,5,2,Indian Railways,transport
+1809.72,15,3,6,INOX,entertainment
+2897.36,8,3,5,HDFC EMI,bills
+472.23,10,1,3,Air India,transport
+4508.29,17,1,8,SBI ATM,entertainment
+701.77,22,3,0,Swiggy Instamart,food
+97.49,21,1,0,McDonald's,food
+464.38,20,4,3,Auto Rickshaw,transport
+176.39,5,1,2,Ola,transport
+3112.57,23,3,8,More Supermarket,other
+403.71,21,6,2,Indian Railways,transport
+2810.37,4,1,9,1mg,bills
+357.19,7,6,3,Namma Metro,transport
+1095.61,17,2,8,PhonePe,other
+3678.7,14,5,5,LIC Premium,bills
+650.7,0,4,6,Ajio,entertainment
+2972.1,15,4,4,Water Bill,bills
+502.71,18,3,1,Dunzo,food
+380.11,5,0,0,McDonald's,food
+3059.9,16,3,4,YouTube Premium,bills
+721.54,10,1,1,Chai Point,food
+2642.83,4,1,8,More Supermarket,other
+779.06,4,6,0,Subway,food
+3685.05,1,4,4,Hotstar,bills
+147.35,17,3,2,Ola,transport
+4435.64,16,4,8,Zepto,other
+1811.63,6,5,9,Paytm,other
+1085.53,20,4,5,HDFC EMI,bills
+483.79,8,2,6,BookMyShow,entertainment
+59.36,18,6,2,Ola Electric,transport
+425.4,5,1,9,Paytm,other
+558.49,4,5,9,Reliance Fresh,other
+3675.86,18,5,8,More Supermarket,other
+1652.7,15,2,5,Airtel,bills
+4133.92,0,4,9,Google Pay,other
+499.79,18,3,7,PVR Cinemas,entertainment
+158.89,1,5,1,Zomato,food
+119.48,3,6,3,Uber,transport
+201.66,19,6,6,INOX,entertainment
+352.02,4,1,0,Blinkit,food
+73.94,4,5,1,Chai Point,food
+2739.47,14,1,4,YouTube Premium,bills
+37.77,18,1,3,Auto Rickshaw,transport
+1118.68,21,1,7,Steam,entertainment
+1575.63,3,1,6,PlayStation Store,entertainment
+1564.65,17,5,5,Airtel,bills
+1851.67,0,4,6,INOX,entertainment
+3061.95,12,1,4,BSNL,bills
+195.24,11,2,1,BigBasket,food
+1639.88,23,5,7,PVR Cinemas,entertainment
+586.75,18,4,1,Dominos,food
+3000.19,0,6,5,Amazon Prime,bills
+138.99,8,1,1,Dunzo,food
+720.61,11,3,6,Decathlon,entertainment
+1216.87,0,2,4,BSNL,bills
+167.13,4,3,0,Subway,food
+510.69,15,1,1,Burger King,food
+915.12,19,0,8,Amazon,other
+919.32,18,0,7,PVR Cinemas,entertainment
+1734.02,16,5,6,INOX,entertainment
+764.69,5,6,0,KFC,food
+699.84,1,1,1,Chai Point,food
+322.39,12,3,1,BigBasket,food
+2312.22,13,6,8,Zepto,other
+2324.94,21,6,5,HDFC EMI,bills
+4248.67,7,2,4,ICICI EMI,bills
+1689.86,8,3,6,INOX,entertainment
+212.86,3,6,6,Decathlon,food
+230.56,23,6,9,1mg,other
+953.72,8,6,7,PVR Cinemas,entertainment
+437.21,17,0,0,Blinkit,food
+626.27,18,0,9,Paytm,bills
+95.6,2,1,1,Chai Point,food
+1307.86,14,5,9,Flipkart,entertainment
+410.24,9,2,2,Ola,transport
+1571.16,12,1,9,Paytm,other
+63.07,13,1,0,Swiggy,food
+3446.23,14,3,4,Gas Bill,bills
+156.4,3,4,7,Nykaa,entertainment
+652.74,6,4,0,Tea Stall,food
+1851.74,13,3,7,Nykaa,entertainment
+771.14,2,4,7,PVR Cinemas,entertainment
+29.11,1,2,3,RedBus,transport
+690.14,10,5,7,PVR Cinemas,entertainment
+670.75,14,4,8,Big Bazaar,food
+1836.47,1,0,7,PVR Cinemas,entertainment
+3887.48,17,0,4,Gas Bill,bills
+3566.79,22,2,9,Reliance Fresh,other
+4987.68,2,2,8,Zepto,transport
+260.88,18,2,3,Air India,other
+4571.62,19,4,8,More Supermarket,other
+477.46,18,3,7,PVR Cinemas,entertainment
+502.24,23,2,0,Blinkit,food
+766.59,4,1,0,Blinkit,food
+1021.54,18,2,6,BookMyShow,entertainment
+385.85,13,1,2,Rapido,transport
+341.47,19,2,2,IndiGo,transport
+4978.79,14,6,9,Flipkart,other
+712.57,21,1,0,McDonald's,bills
+436.68,17,6,0,Swiggy,food
+46.36,5,5,2,Indian Railways,transport
+520.83,3,6,0,Tea Stall,food
+510.07,11,5,8,Big Bazaar,other
+2571.84,18,3,9,Google Pay,other
+488.49,0,5,3,Uber,transport
+4826.45,21,4,9,Google Pay,other
+102.96,17,3,1,Pizza Hut,food
+970.6,3,3,4,BSNL,bills
+4650.02,18,3,5,Amazon Prime,bills
+156.52,5,0,8,More Supermarket,other
+364.09,10,3,0,Swiggy,food
+681.59,12,4,0,McDonald's,food
+118.63,20,5,0,Blinkit,food
+718.24,21,6,0,Swiggy Instamart,food
+3039.52,13,4,8,Apollo Pharmacy,other
+3785.57,18,5,9,D-Mart,other
+607.56,18,2,6,BookMyShow,entertainment
+454.27,2,6,2,BMTC,transport
+2193.03,15,4,9,HDFC Bank ATM,other
+343.61,22,4,2,BMTC,transport
+1949.2,3,6,9,D-Mart,other
+445.28,20,0,6,Ajio,entertainment
+3234.3,19,3,9,D-Mart,other
+1877.56,13,0,6,PlayStation Store,entertainment
+927.26,14,0,4,Water Bill,bills
+205.25,5,2,3,Uber,transport
+3188.55,8,4,9,Reliance Fresh,other
+4841.54,7,2,8,PhonePe,other
+2558.86,19,0,9,D-Mart,other
+850.86,4,6,6,PlayStation Store,entertainment
+433.93,0,4,9,Google Pay,other
+799.03,3,4,1,Dominos,food
+327.25,5,6,3,Air India,transport
+131.67,15,5,3,Uber,transport
+454.5,7,0,7,Myntra,entertainment
+652.19,10,6,4,Gas Bill,bills
+729.82,8,6,1,Burger King,food
+797.06,3,3,4,Water Bill,bills
+1126.79,9,2,5,Spotify,bills
+351.55,2,3,0,Blinkit,food
+1567.56,4,5,7,PVR Cinemas,entertainment
+3814.19,20,0,5,Society Maintenance,bills
+3674.48,12,3,8,More Supermarket,other
+490.14,8,3,8,Practo,other
+3957.66,10,4,9,Flipkart,other
+200.74,8,4,2,Ola Electric,transport
+1273.07,7,5,6,Decathlon,entertainment
+2792.81,9,4,9,Google Pay,other
+721.92,18,2,7,PVR Cinemas,entertainment
+730.21,19,1,4,Jio,bills
+4239.61,15,2,8,Amazon,other
+446.79,1,2,2,Indian Railways,transport
+562.07,1,1,0,Blinkit,food
+2820.67,12,1,8,Big Bazaar,other
+1954.14,20,1,6,Ajio,entertainment
+295.74,19,0,0,KFC,food
+147.07,20,5,6,BookMyShow,entertainment
+1563.7,18,2,8,Apollo Pharmacy,other
+347.56,8,6,2,Indian Railways,entertainment
+2537.77,1,2,8,SBI ATM,other
+1658.36,9,2,6,BookMyShow,entertainment
+1536.91,10,4,7,Nykaa,entertainment
+764.74,10,1,0,Subway,food
+33.87,4,1,3,Air India,transport
+4404.13,4,6,4,ICICI EMI,bills
+356.29,1,0,3,Namma Metro,transport
+1255.66,7,0,7,Crossword,entertainment
+369.12,5,0,0,Tea Stall,food
+482.37,14,3,2,Rapido,transport
+690.17,4,6,7,Nykaa,entertainment
+332.22,2,1,4,ICICI EMI,bills
+642.13,16,6,5,Airtel,bills
+3268.85,1,0,4,Gas Bill,bills
+2629.72,12,3,9,Google Pay,entertainment
+472.18,2,1,6,INOX,entertainment
+2276.03,0,6,9,HDFC Bank ATM,other
+2160.44,8,6,5,Amazon Prime,bills
+56.55,23,0,2,Indian Railways,transport
+129.83,15,2,2,BMTC,other
+370.16,17,0,3,Air India,transport
+800.14,8,4,6,INOX,entertainment
+342.44,22,6,3,Uber,transport
+193.77,8,0,2,BMTC,transport
+240.85,20,2,0,Blinkit,food
+3750.62,6,6,5,HDFC EMI,bills
+165.62,22,3,1,Dominos,food
+3873.45,23,3,5,Society Maintenance,bills
+2308.68,12,6,9,Flipkart,other
+329.63,21,5,2,BMTC,transport
+111.98,17,4,2,Ola,transport
+1805.7,11,5,7,PVR Cinemas,entertainment
+650.9,2,4,0,Swiggy,food
+584.37,22,5,6,BookMyShow,entertainment
+176.0,17,4,3,Auto Rickshaw,other
+178.89,7,2,3,Auto Rickshaw,transport
+101.84,12,3,0,Swiggy Instamart,food
+1819.51,13,2,6,Decathlon,entertainment
+460.06,11,2,2,BMTC,transport
+2751.87,17,2,5,Spotify,bills
+213.08,22,6,1,BigBasket,food
+3462.58,23,5,8,Zepto,other
+791.12,17,3,5,Society Maintenance,bills
+4383.25,23,3,8,Practo,other
+4942.04,16,4,8,SBI ATM,other
+49.24,10,3,3,Air India,transport
+2448.77,8,6,9,Reliance Fresh,other
+816.0,1,6,6,PlayStation Store,entertainment
+455.34,12,5,1,BigBasket,food
+4541.79,17,5,4,BSNL,bills
+270.3,7,4,2,Rapido,transport
+789.0,21,4,1,Zomato,food
+499.17,5,4,7,Crossword,transport
+2932.56,6,1,9,D-Mart,other
+27.15,7,1,3,Uber,transport
+395.98,12,0,0,Blinkit,other
+680.96,19,5,0,Swiggy Instamart,food
+2456.15,12,0,8,Zepto,other
+271.6,11,3,1,Pizza Hut,food
+593.38,17,2,0,Haldirams,food
+4728.29,18,4,4,Netflix,bills
+365.86,17,5,0,KFC,food
+216.16,18,2,2,BMTC,transport
+629.82,0,3,1,Chai Point,transport
+803.11,8,2,6,BookMyShow,entertainment
+465.21,0,5,9,Reliance Fresh,other
+551.33,13,2,0,Haldirams,food
+328.23,2,5,0,Haldirams,entertainment
+794.84,7,2,0,Haldirams,food
+292.95,12,4,0,Swiggy Instamart,food
+2400.23,16,4,9,Google Pay,other
+620.16,13,3,0,Swiggy Instamart,food
+790.05,17,5,8,PhonePe,other
+880.6,19,3,8,SBI ATM,other
+375.09,17,4,0,Swiggy Instamart,food
+4975.53,21,5,8,PhonePe,other
+791.76,11,6,7,PVR Cinemas,entertainment
+2322.32,2,4,9,HDFC Bank ATM,other
+1417.11,7,1,6,BookMyShow,entertainment
+373.71,22,6,0,McDonald's,food
+2705.01,17,6,4,Netflix,bills
+489.33,17,6,2,BMTC,transport
+478.73,4,0,0,Haldirams,food
+697.27,3,3,6,Decathlon,entertainment
+1374.83,4,3,7,PVR Cinemas,entertainment
+3963.26,3,4,4,BSNL,bills
+3081.9,18,3,9,Flipkart,other
+98.11,19,3,2,Rapido,transport
+2355.99,22,2,5,Airtel,bills
+704.24,17,2,4,BSNL,bills
+4207.87,10,3,5,Spotify,bills
+2932.09,4,6,9,Reliance Fresh,other
+3609.18,0,5,4,Jio,bills
+744.01,10,3,1,Dominos,entertainment
+1023.22,4,2,5,LIC Premium,bills
+409.61,17,4,6,Decathlon,entertainment
+3980.02,0,0,4,YouTube Premium,bills
+758.99,16,1,0,Tea Stall,food
+135.38,4,3,3,RedBus,transport
+456.68,11,0,0,Haldirams,food
+1318.81,1,0,6,Decathlon,bills
+507.81,14,6,0,Swiggy,food
+114.63,5,3,0,Tea Stall,food
+607.9,7,6,0,Swiggy,food
+479.26,1,3,6,INOX,other
+285.43,0,0,1,BigBasket,food
+1766.79,18,6,7,PVR Cinemas,entertainment
+3555.51,7,6,5,HDFC EMI,bills
+244.8,18,4,2,IndiGo,transport
+2119.41,4,4,9,Reliance Fresh,other
+3876.52,13,6,5,LIC Premium,bills
+590.71,4,3,0,Subway,food
+59.67,23,6,2,IndiGo,transport
+165.3,17,5,0,Swiggy,bills
+997.56,14,2,8,Zepto,other
+230.17,16,6,3,Namma Metro,transport
+221.92,1,3,2,Rapido,transport
+385.84,13,3,4,ICICI EMI,bills
+495.07,8,2,3,Auto Rickshaw,transport
+1587.83,5,2,8,PhonePe,other
+485.14,9,3,2,Ola Electric,transport
+180.32,14,6,3,Namma Metro,transport
+847.6,14,4,6,BookMyShow,entertainment
+4812.38,5,1,5,HDFC EMI,bills
+147.69,1,4,9,Reliance Fresh,other
+713.38,15,5,5,HDFC EMI,bills
+4952.53,3,1,4,Netflix,bills
+397.02,16,3,1,Zomato,food
+64.32,10,6,0,Tea Stall,food
+3473.17,1,5,5,LIC Premium,bills
+214.94,19,2,2,Ola,transport
+355.34,2,5,2,BMTC,transport
+340.09,5,3,3,Uber,transport
+2915.84,1,0,4,YouTube Premium,bills
+57.89,3,2,2,Ola,transport
+455.12,11,6,2,Rapido,transport
+4463.92,10,0,8,Zepto,other
+289.8,14,5,7,Nykaa,entertainment
+305.58,1,2,3,RedBus,transport
+237.45,7,5,8,Zepto,other
+768.04,19,1,0,KFC,entertainment
+1174.87,18,0,4,Jio,bills
+753.27,6,3,0,McDonald's,food
+779.23,9,0,1,Chai Point,food
+510.07,3,1,0,Tea Stall,food
+4481.04,17,2,5,Society Maintenance,bills
+4564.56,21,4,5,Electricity Bill,bills
+2061.42,1,0,5,HDFC EMI,bills
+1887.08,0,5,7,Crossword,entertainment
+757.18,17,0,0,Blinkit,food
+379.42,8,0,1,Chai Point,food
+148.19,21,1,2,IndiGo,transport
+427.17,9,4,3,Air India,transport
+212.34,15,3,4,Jio,bills
+734.93,0,1,6,INOX,entertainment
+54.98,6,3,2,Ola,transport
+2076.97,9,0,4,YouTube Premium,bills
+1206.01,20,1,6,INOX,entertainment
+1172.29,7,2,8,Apollo Pharmacy,other
+272.14,1,4,5,Airtel,bills
+366.32,21,0,0,Haldirams,food
+3868.43,17,4,4,Netflix,bills
+126.49,3,0,7,Steam,entertainment
+1609.7,19,0,7,Steam,entertainment
+4796.86,14,2,5,HDFC EMI,bills
+2310.62,18,6,8,PhonePe,other
+390.11,9,1,3,Air India,other
+1374.97,5,6,6,Ajio,transport
+393.18,11,4,0,McDonald's,food
+447.17,22,4,3,RedBus,entertainment
+63.6,11,6,3,Uber,entertainment
+22.94,6,3,2,IndiGo,transport
+102.04,11,4,2,Ola Electric,other
+416.62,0,5,0,Haldirams,food
+709.9,3,4,4,ICICI EMI,bills
+731.4,17,0,7,Myntra,entertainment
+3773.16,22,3,9,Google Pay,other
+203.23,16,0,3,Uber,transport
+304.75,7,3,0,Subway,food
+3058.98,6,0,9,D-Mart,other
+4718.76,16,4,9,Google Pay,other
+624.61,9,6,6,Decathlon,entertainment
+153.58,23,6,0,Swiggy Instamart,food
+437.5,6,4,6,BookMyShow,entertainment
+4647.71,7,1,4,Netflix,bills
+153.8,8,5,2,BMTC,food
+378.93,2,3,2,IndiGo,transport
+1141.36,0,5,5,Amazon Prime,bills
+81.24,20,1,2,Ola,transport
+571.91,7,6,1,Chai Point,food
+259.05,4,5,3,RedBus,transport
+195.47,4,4,1,Chai Point,food
+85.28,8,3,0,Haldirams,food
+363.32,19,1,3,Namma Metro,food
+855.98,18,0,7,Myntra,entertainment
+3862.74,21,0,8,Apollo Pharmacy,other
+219.54,21,5,3,Uber,transport
+698.89,1,6,0,Blinkit,food
+124.72,0,2,2,IndiGo,transport
+414.17,2,4,2,IndiGo,transport
+1178.23,6,0,6,INOX,entertainment
+206.17,12,4,6,Decathlon,entertainment
+4238.73,12,3,4,ICICI EMI,bills
+345.5,4,0,1,Chai Point,food
+1874.05,1,2,8,SBI ATM,other
+3937.79,9,5,8,Big Bazaar,other
+343.64,6,5,0,Blinkit,food
+3642.66,18,3,5,Electricity Bill,bills
+1002.09,6,1,4,ICICI EMI,other
+443.39,3,0,2,Indian Railways,transport
+1238.14,13,5,4,Water Bill,bills
+471.6,17,5,3,Namma Metro,transport
+685.88,16,6,4,BSNL,bills
+2715.62,15,4,8,Amazon,other
+2097.06,20,1,8,More Supermarket,other
+605.33,19,4,5,Amazon Prime,bills
+1163.44,7,1,7,Steam,entertainment
+4466.91,21,0,4,BSNL,bills
+1377.75,6,6,5,Electricity Bill,bills
+108.16,22,6,1,Dominos,food
+2597.14,0,2,4,Gas Bill,bills
+3935.92,12,5,5,LIC Premium,bills
+1721.04,14,3,9,Paytm,other
+4007.69,8,5,9,D-Mart,other
+4841.83,13,2,5,HDFC EMI,bills
+1427.19,12,5,9,Reliance Fresh,other
+4815.15,2,3,8,SBI ATM,other
+57.96,10,2,2,Rapido,transport
+1793.13,19,2,5,Society Maintenance,food
+3826.05,19,1,8,Apollo Pharmacy,bills
+2963.02,12,2,5,HDFC EMI,bills
+125.74,8,1,7,Steam,entertainment
+493.9,8,1,3,Air India,transport
+200.01,21,2,6,PlayStation Store,entertainment
+3983.93,5,3,9,1mg,other
+714.6,6,5,1,Burger King,food
+215.01,14,1,0,Blinkit,food
+727.75,0,4,0,Tea Stall,food
+666.46,5,1,0,Swiggy Instamart,food
+119.28,17,2,1,Dunzo,other
+4114.91,21,2,5,HDFC EMI,bills
+402.81,8,2,2,IndiGo,transport
+1321.35,5,6,7,Steam,entertainment
+647.47,23,6,0,Blinkit,food
+242.14,4,4,3,RedBus,transport
+872.8,6,3,7,Myntra,entertainment
+96.46,1,6,0,Haldirams,food
+2308.22,17,0,5,Spotify,bills
+294.11,16,5,1,Burger King,food
+692.25,5,5,1,Dunzo,transport
+242.3,6,0,3,Namma Metro,transport
+1938.55,22,6,7,Steam,bills
+622.3,16,6,1,Dominos,food
+731.32,6,0,0,McDonald's,food
+188.51,4,4,3,Namma Metro,transport
+1241.77,5,4,6,BookMyShow,entertainment
+342.86,11,4,7,Myntra,entertainment
+3364.17,6,1,5,Spotify,bills
+352.75,14,1,2,Ola Electric,transport
+3056.61,5,0,8,PhonePe,other
+3517.4,7,6,5,LIC Premium,bills
+2230.91,2,4,5,Electricity Bill,bills
+2105.46,1,4,5,LIC Premium,bills
+1253.56,3,6,6,Ajio,transport
+4282.35,12,0,9,Reliance Fresh,other
+347.32,11,5,0,McDonald's,food
+3421.08,20,1,8,PhonePe,other
+549.67,20,3,1,Dunzo,food
+3940.66,15,1,4,Water Bill,bills
+828.05,6,1,4,Water Bill,bills
+461.43,16,0,2,Rapido,transport
+240.32,4,2,0,KFC,food
+3728.78,4,5,9,Reliance Fresh,other
+214.41,12,1,3,Namma Metro,transport
+1134.21,20,0,9,HDFC Bank ATM,other
+1742.54,7,0,7,Nykaa,entertainment
+347.61,15,2,0,KFC,food
+414.18,10,1,0,Swiggy,food
+697.92,17,2,8,Big Bazaar,other
+391.89,5,3,3,Auto Rickshaw,food
+547.98,7,4,0,KFC,food
+220.19,23,2,6,Ajio,entertainment
+1180.49,5,5,6,PlayStation Store,bills
+783.02,8,0,0,Blinkit,food
+554.92,10,3,0,Haldirams,food
+3660.02,18,1,5,Society Maintenance,food
+2533.59,5,0,8,PhonePe,other
+134.5,5,3,6,INOX,entertainment
+318.92,20,3,3,Uber,transport
+117.35,9,0,0,Tea Stall,food
+454.85,19,3,2,Indian Railways,transport
+871.37,18,4,7,Nykaa,entertainment
+910.09,15,1,6,INOX,entertainment
+189.03,14,5,0,Subway,food
+974.73,10,5,6,BookMyShow,entertainment
+3146.02,20,4,8,PhonePe,other
+1887.34,21,4,7,Steam,entertainment
+639.23,12,2,5,Society Maintenance,bills
+3425.82,18,5,4,Gas Bill,bills
+893.86,5,0,5,Airtel,bills
+1810.62,12,2,8,Big Bazaar,food
+4037.6,9,3,5,LIC Premium,bills
+155.21,17,3,0,Swiggy,food
+1364.22,13,3,6,Decathlon,entertainment
+1226.86,9,0,7,Nykaa,entertainment
+1792.0,13,5,6,Ajio,entertainment
+74.77,13,1,1,Burger King,food
+2456.72,1,4,5,Electricity Bill,bills
+910.59,5,3,7,Crossword,entertainment
+360.97,22,3,7,Myntra,other
+353.47,18,3,2,Ola,transport
+132.59,16,1,1,Burger King,food
+910.48,7,0,7,Steam,entertainment
+2717.22,17,6,4,YouTube Premium,bills
+2028.01,9,3,9,Google Pay,other
+1532.07,9,5,7,Myntra,entertainment
+397.07,9,4,2,BMTC,transport
+502.61,7,6,0,Haldirams,food
+4729.27,8,2,9,D-Mart,other
+2917.11,8,3,9,1mg,other
+900.45,1,4,4,BSNL,other
+3105.71,15,5,4,BSNL,bills
+412.43,20,6,2,Ola Electric,transport
+1421.08,7,1,8,More Supermarket,other
+620.19,14,1,0,Haldirams,food
+695.32,1,3,1,Zomato,food
+2688.66,6,2,5,Spotify,bills
+1620.67,4,6,7,Nykaa,entertainment
+164.85,18,3,2,Ola,food
+911.38,19,1,5,Airtel,bills
+4496.47,11,0,8,Apollo Pharmacy,food
+372.24,14,2,3,Auto Rickshaw,transport
+1443.26,12,1,6,Decathlon,entertainment
+3451.87,15,0,4,Netflix,bills
+486.52,18,4,8,Big Bazaar,other
+358.79,17,2,2,BMTC,transport
+210.34,7,0,3,Namma Metro,transport
+463.05,1,1,0,Swiggy Instamart,food
+4178.13,5,5,5,Electricity Bill,bills
+168.81,9,1,3,Auto Rickshaw,transport
+716.46,9,1,4,Netflix,bills
+1058.43,22,5,6,Ajio,entertainment
+1679.27,1,4,6,Decathlon,entertainment
+875.31,8,3,4,YouTube Premium,bills
+4441.99,20,0,8,Apollo Pharmacy,other
+222.38,8,1,6,PlayStation Store,entertainment
+288.9,4,1,1,Pizza Hut,food
+1896.4,1,1,9,Reliance Fresh,other
+473.27,13,3,3,Air India,transport
+1815.85,5,1,4,Hotstar,bills
+319.33,7,0,2,Rapido,transport
+295.34,3,1,2,Indian Railways,bills
+30.54,6,2,3,Auto Rickshaw,transport
+1494.72,3,5,7,PVR Cinemas,entertainment
+1872.35,0,3,7,Myntra,entertainment
+1258.38,11,6,7,Nykaa,entertainment
+471.05,8,5,5,Amazon Prime,bills
+4719.44,5,1,5,Airtel,bills
+4098.72,5,1,8,Practo,other
+738.42,4,0,1,Chai Point,food
+52.69,18,6,3,RedBus,transport
+546.44,4,2,0,McDonald's,transport
+379.51,23,3,0,Swiggy,food
+2419.8,3,6,4,Gas Bill,bills
+710.12,8,3,7,Nykaa,entertainment
+500.54,5,2,1,Pizza Hut,food
+456.22,17,6,0,Tea Stall,food
+1294.95,10,4,7,Nykaa,entertainment
+499.1,18,6,1,Burger King,food
+2761.66,22,2,4,Hotstar,bills
+4741.06,15,1,8,Apollo Pharmacy,other
+401.33,3,1,3,Uber,transport
+448.19,16,0,1,Zomato,food
+219.65,23,4,2,IndiGo,transport
+782.0,2,3,0,Haldirams,food
+268.51,1,6,1,Dunzo,food
+69.71,19,4,3,Namma Metro,transport
+3070.85,23,6,4,BSNL,bills
+181.63,15,3,0,McDonald's,food
+2380.59,5,0,4,Gas Bill,bills
+891.99,12,1,4,BSNL,bills
+1223.09,20,3,6,PlayStation Store,entertainment
+352.33,6,1,2,Ola,transport
+4410.48,0,2,5,LIC Premium,bills
+2592.02,18,2,9,Paytm,other
+653.33,0,6,0,Swiggy,food
+3876.35,21,2,4,ICICI EMI,bills
+284.92,21,3,1,Pizza Hut,food
+854.8,20,5,6,INOX,entertainment
+375.72,13,1,3,Air India,transport
+2589.94,10,6,4,YouTube Premium,bills
+292.27,0,3,3,Namma Metro,transport
+457.05,4,6,1,Burger King,food
+1907.54,23,1,8,Zepto,other
+54.24,13,1,3,Uber,transport
+286.85,21,5,1,Burger King,food
+1297.38,21,5,8,SBI ATM,other
+416.8,23,2,2,Rapido,transport
+180.91,8,4,3,Uber,entertainment
+575.77,6,5,9,HDFC Bank ATM,other
+620.21,1,0,0,Swiggy Instamart,food
+4284.61,22,6,5,Spotify,bills
+428.24,3,6,2,Rapido,food
+379.61,16,5,3,Namma Metro,transport
+165.24,13,4,0,Swiggy Instamart,food
+666.11,0,0,6,Ajio,entertainment
+1384.5,17,0,9,HDFC Bank ATM,other
+1525.15,21,0,6,PlayStation Store,entertainment
+477.51,16,3,0,McDonald's,food
+564.65,10,4,7,Nykaa,entertainment
+3261.11,9,6,4,ICICI EMI,bills
+1232.01,23,1,7,PVR Cinemas,entertainment
+73.66,4,5,2,Rapido,transport
+242.7,5,0,6,INOX,entertainment
+1564.03,19,2,4,Jio,bills
+1478.88,15,4,9,Flipkart,other
+4342.62,2,3,9,D-Mart,other
+3825.72,18,4,9,Reliance Fresh,other
+2919.3,16,0,8,Practo,other
+73.23,17,0,3,Auto Rickshaw,transport
+366.69,0,5,0,Blinkit,food
+22.58,6,5,2,Ola,transport
+281.11,6,6,3,Auto Rickshaw,transport
+657.21,8,1,1,Burger King,food
+3577.94,11,4,8,PhonePe,other
+102.04,18,6,3,Air India,transport
+2716.51,13,1,8,SBI ATM,entertainment
+1729.81,5,6,7,Steam,entertainment
+4421.87,16,4,9,1mg,other
+507.53,15,3,7,Steam,entertainment
+135.53,20,4,0,Tea Stall,food
+299.03,13,4,7,Nykaa,entertainment
+202.94,2,1,5,Airtel,bills
+116.54,7,5,2,Rapido,transport
+2748.76,16,5,8,Zepto,other
+241.32,19,5,2,Rapido,transport
+581.19,23,5,1,Burger King,food
+411.71,12,0,0,Haldirams,food
+592.51,18,1,0,Tea Stall,food
+453.67,3,6,0,Haldirams,food
+3181.24,14,4,5,Airtel,bills
+975.22,16,5,7,PVR Cinemas,entertainment
+364.25,17,5,1,BigBasket,food
+187.97,15,1,2,BMTC,transport
+598.91,22,3,1,Pizza Hut,food
+1114.35,5,4,6,Ajio,entertainment
+863.29,14,1,5,Airtel,bills
+2913.99,5,2,5,Society Maintenance,bills
+3421.25,20,5,4,Water Bill,bills
+273.4,4,4,1,Chai Point,food
+2428.38,19,3,8,Zepto,bills
+219.57,14,4,6,PlayStation Store,entertainment
+2855.94,17,6,8,Amazon,other
+3430.61,8,4,8,Zepto,other
+2940.27,12,2,5,Spotify,bills
+652.05,16,6,1,Dominos,food
+1363.4,14,4,5,LIC Premium,bills
+2990.9,17,0,5,Amazon Prime,bills
+1114.04,8,2,7,Crossword,entertainment
+3381.49,16,6,4,BSNL,other
+1933.22,3,6,7,Myntra,entertainment
+770.88,1,3,0,McDonald's,food
+1813.29,0,6,7,Crossword,entertainment
+4184.46,11,4,8,PhonePe,other
+467.21,17,4,0,Swiggy,food
+4042.04,10,3,8,Zepto,other
+2844.66,19,4,4,Gas Bill,bills
+1151.33,13,6,7,PVR Cinemas,entertainment
+459.3,1,0,3,Namma Metro,entertainment
+384.69,12,0,2,Indian Railways,bills
+3022.56,20,1,8,Big Bazaar,other
+340.55,3,4,1,Burger King,food
+4162.07,17,5,5,Electricity Bill,bills
+447.63,15,5,5,Society Maintenance,bills
+404.08,13,5,0,Swiggy Instamart,food
+329.27,22,0,0,Blinkit,transport
+271.72,8,1,0,Haldirams,food
+2027.63,8,5,8,Amazon,other
+4531.36,12,6,4,Gas Bill,bills
+2012.96,4,0,4,Jio,bills
+3066.91,15,1,5,Society Maintenance,bills
+1054.83,5,0,4,Hotstar,bills
+4666.16,20,5,9,1mg,transport
+1440.63,9,3,4,Jio,bills
+1401.0,10,2,6,PlayStation Store,entertainment
+1698.66,3,6,8,SBI ATM,other
+22.93,2,1,3,Namma Metro,transport
+1246.39,5,5,5,HDFC EMI,bills
+725.86,5,0,8,SBI ATM,transport
+404.23,20,1,0,Subway,food
+1567.56,17,5,6,Ajio,entertainment
+1797.87,10,5,9,Google Pay,other
+1067.72,21,2,4,BSNL,bills
+87.17,10,0,3,Namma Metro,transport
+722.61,11,4,6,Decathlon,entertainment
+301.99,1,4,0,Swiggy,food
+119.56,14,3,1,BigBasket,food
+3870.26,20,1,5,Electricity Bill,bills
+2303.57,16,5,4,Water Bill,bills
+4251.55,3,2,4,Hotstar,bills
+4901.91,14,1,8,Big Bazaar,other
+3094.17,1,2,4,YouTube Premium,bills
+34.54,6,0,2,IndiGo,transport
+4381.85,2,5,9,Flipkart,other
+270.16,19,1,2,Ola Electric,transport
+1001.43,17,1,6,Decathlon,entertainment
+2762.19,6,0,9,Paytm,transport
+1082.17,21,0,4,ICICI EMI,bills
+3518.94,13,2,5,LIC Premium,bills
+251.66,16,0,3,Auto Rickshaw,transport
+130.53,13,5,1,Pizza Hut,food
+1751.78,15,0,6,PlayStation Store,entertainment
+1873.68,18,6,6,Ajio,entertainment
+1975.18,7,1,7,PVR Cinemas,entertainment
+1193.62,12,5,7,Crossword,entertainment
+200.05,18,4,7,Myntra,entertainment
+280.96,1,4,9,D-Mart,other
+1216.59,0,4,9,Paytm,other
+360.26,5,0,2,Ola Electric,transport
+547.68,9,2,0,Blinkit,food
+152.93,16,6,2,Indian Railways,transport
+4701.9,21,4,8,Big Bazaar,other
+424.32,11,6,7,Nykaa,entertainment
+762.21,16,1,7,Crossword,entertainment
+3002.45,5,1,9,Reliance Fresh,other
+397.07,17,4,1,BigBasket,food
+446.61,6,5,0,KFC,food
+4503.7,14,0,9,Paytm,other
+1635.69,8,2,4,Gas Bill,bills
+744.47,13,3,0,Subway,food
+491.38,3,0,2,Indian Railways,transport
+34.25,16,4,2,Ola Electric,transport
+2774.14,2,4,5,Spotify,bills
+420.46,2,2,3,RedBus,transport
+4140.94,23,6,4,YouTube Premium,bills
+4833.75,23,4,9,Reliance Fresh,other
+244.64,1,2,3,RedBus,transport
+2240.51,13,4,5,Spotify,bills
+62.93,21,2,3,Namma Metro,transport
+3797.27,14,5,8,Amazon,other
+288.81,4,5,0,Tea Stall,food
+1193.78,18,0,7,PVR Cinemas,food
+449.48,18,3,1,Pizza Hut,food
+1712.03,3,1,5,Spotify,bills
+723.37,17,6,6,Decathlon,food
+142.26,9,2,1,Chai Point,food
+209.13,14,1,0,KFC,food
+1042.76,12,6,6,Decathlon,bills
+249.85,22,2,7,Nykaa,entertainment
+2884.91,6,2,8,SBI ATM,other
+358.07,20,2,2,Ola,transport
+4885.2,13,0,9,Reliance Fresh,other
+2361.19,7,0,4,Water Bill,bills
+2002.13,18,3,5,Spotify,bills
+3970.28,3,0,9,HDFC Bank ATM,other
+1917.39,19,0,6,Ajio,entertainment
+246.34,5,3,3,Auto Rickshaw,transport
+495.88,20,3,0,Swiggy Instamart,food
+436.47,2,3,6,PlayStation Store,transport
+3582.72,13,0,5,Spotify,bills
+799.38,14,2,1,BigBasket,food
+461.14,13,6,2,Ola Electric,transport
+378.91,21,4,5,Airtel,bills
+140.54,4,3,9,1mg,entertainment
+1873.89,16,6,6,INOX,entertainment
+557.32,14,0,0,KFC,food
+3000.69,6,0,9,1mg,other
+320.03,15,3,8,Big Bazaar,other
+4603.64,19,5,5,Spotify,bills
+429.24,8,4,0,McDonald's,food
+4368.73,11,0,8,Practo,other
+278.07,14,1,3,Namma Metro,transport
+1787.71,0,5,6,PlayStation Store,entertainment
+1971.73,3,6,6,Decathlon,entertainment
+1573.75,1,1,6,PlayStation Store,entertainment
+2618.11,16,0,5,Society Maintenance,bills
+2402.48,20,5,8,PhonePe,other
+3714.76,6,3,5,Electricity Bill,bills
+265.85,8,0,5,LIC Premium,bills
+25.98,3,2,3,Air India,transport
+439.21,0,1,2,Ola Electric,transport
+1808.54,5,0,8,Apollo Pharmacy,other
+4375.35,2,4,5,Spotify,transport
+387.66,4,0,1,Burger King,food
+293.48,22,5,5,Airtel,bills
+289.44,6,1,6,PlayStation Store,entertainment
+1352.19,17,5,4,Hotstar,bills
+512.09,3,5,1,Chai Point,entertainment
+281.11,14,0,2,BMTC,transport
+2425.88,23,3,8,PhonePe,other
+2152.4,5,1,5,Society Maintenance,bills
+1632.33,4,1,5,Spotify,entertainment
+2211.66,3,4,4,BSNL,transport
+1974.6,13,0,8,Practo,transport
+122.8,17,3,7,Nykaa,entertainment
+206.57,4,6,6,INOX,entertainment
+644.32,12,6,0,Subway,bills
+1185.36,6,3,7,PVR Cinemas,entertainment
+1760.92,15,4,8,Amazon,other
+1367.54,10,6,5,LIC Premium,food
+4012.8,6,4,8,Amazon,other
+426.16,2,0,7,Nykaa,food
+291.86,23,4,2,Indian Railways,transport
+1041.67,5,0,6,Ajio,entertainment
+287.16,22,6,0,KFC,food
+736.11,15,0,4,Hotstar,bills
+4964.77,2,3,8,Big Bazaar,other
+233.66,1,1,0,KFC,food
+431.28,4,1,2,BMTC,transport
+2106.49,4,2,4,Netflix,bills
+149.54,2,1,3,Air India,transport
+606.43,14,6,0,KFC,food
+1272.35,6,5,6,Ajio,entertainment
+189.5,3,1,2,Ola Electric,transport
+332.74,19,6,3,Uber,transport
+4858.42,21,1,4,Jio,bills
+3521.49,18,4,5,Spotify,bills
+829.91,3,4,4,Jio,bills
+452.77,2,1,0,Haldirams,food
+1987.4,22,2,6,Ajio,entertainment
+2126.76,15,4,8,More Supermarket,other
+1381.48,4,1,6,Decathlon,entertainment
+1824.92,16,4,6,BookMyShow,entertainment
+312.47,23,1,4,Water Bill,bills
+1955.2,18,0,6,Decathlon,entertainment
+4247.22,4,0,9,Google Pay,bills
+866.96,23,5,6,BookMyShow,entertainment
+4479.3,6,3,8,Big Bazaar,other
+726.5,6,6,8,Zepto,other
+2793.14,16,3,4,Water Bill,bills
+2619.52,3,1,4,Jio,bills
+1660.95,13,1,8,SBI ATM,other
+100.72,5,1,2,Ola,transport
+1745.82,11,2,6,INOX,entertainment
+213.35,1,0,0,Subway,food
+236.5,9,5,0,Blinkit,food
+311.34,0,0,7,Crossword,entertainment
+3912.91,2,0,8,Big Bazaar,other
+211.72,18,6,4,Hotstar,bills
+606.04,4,6,0,Subway,food
+116.74,14,5,3,RedBus,transport
+2928.13,14,5,8,Big Bazaar,other
+3996.27,10,2,8,PhonePe,food
+4719.73,17,3,9,Flipkart,other
+565.39,1,0,6,Ajio,entertainment
+2623.74,21,1,9,Google Pay,other
+367.05,7,3,3,Uber,transport
+711.79,10,0,0,Swiggy Instamart,food
+3502.08,10,4,9,HDFC Bank ATM,other
+92.04,0,1,2,BMTC,transport
+256.8,11,1,4,Netflix,bills
+2181.2,0,3,4,Water Bill,bills
+3114.21,8,2,5,Society Maintenance,bills
+4329.83,13,3,8,Practo,other
+48.11,4,2,3,Uber,transport
+627.49,2,5,1,Chai Point,food
+3297.83,16,3,8,Apollo Pharmacy,other
+4843.92,4,3,8,Practo,other
+445.88,15,2,2,IndiGo,bills
+1290.75,11,5,5,LIC Premium,bills
+476.5,7,2,2,Rapido,transport
+402.99,3,6,7,PVR Cinemas,bills
+3535.98,3,4,8,PhonePe,other
+521.26,20,2,1,Zomato,food
+3394.35,12,0,4,Water Bill,bills
+214.3,8,3,0,McDonald's,other
+1166.96,16,1,6,INOX,food
+480.96,4,4,6,INOX,food
+155.79,8,4,6,INOX,food
+3806.62,7,6,4,ICICI EMI,entertainment
+419.86,9,5,5,Amazon Prime,bills
+221.1,7,6,3,RedBus,transport
+713.05,2,2,4,Jio,bills
+491.86,23,2,2,Ola Electric,entertainment
+546.27,17,3,6,PlayStation Store,entertainment
+451.07,5,2,0,Blinkit,food
+669.54,21,1,0,McDonald's,food
+1067.84,13,5,6,BookMyShow,entertainment
+1910.14,4,2,6,Ajio,entertainment
+709.49,13,6,1,BigBasket,food
+4237.11,19,2,9,Reliance Fresh,other
+1358.54,18,0,7,PVR Cinemas,entertainment
+218.13,3,6,2,Ola,transport
+2468.53,9,1,9,Google Pay,other
+409.61,9,0,2,BMTC,transport
+3746.56,12,4,4,YouTube Premium,bills
+61.7,20,3,2,Rapido,transport
+1909.5,11,2,4,Hotstar,bills
+4852.49,21,5,8,Amazon,other
+4127.95,3,0,4,Netflix,bills
+2778.84,2,4,9,1mg,other
+431.44,13,1,2,Ola,transport
+3016.03,9,4,4,Netflix,bills
+417.39,16,2,9,D-Mart,other
+213.68,12,3,8,PhonePe,other
+1866.47,3,6,4,Jio,bills
+118.33,11,2,0,McDonald's,food
+59.49,23,1,2,BMTC,transport
+359.95,1,2,3,Uber,transport
+2177.03,7,3,8,PhonePe,other
+438.7,12,0,2,Ola Electric,transport
+799.63,6,0,0,Swiggy,food
+3001.91,19,0,9,Reliance Fresh,other
+753.77,6,2,0,Swiggy,bills
+303.18,22,3,7,Steam,entertainment
+621.45,17,3,1,Dunzo,food
+713.47,12,1,1,Zomato,food
+4893.27,1,5,5,Society Maintenance,bills
+3275.27,20,3,9,Google Pay,other
+4614.2,20,0,9,HDFC Bank ATM,other
+305.54,10,4,1,Dunzo,food
+246.82,5,4,2,Ola,transport
+2273.84,23,0,9,Reliance Fresh,other
+1237.61,1,5,7,Nykaa,entertainment
+70.78,0,4,2,Indian Railways,transport
+2402.91,4,1,9,Google Pay,other
+324.2,12,2,3,Air India,transport
+1117.4,15,2,7,PVR Cinemas,entertainment
+434.38,0,1,2,IndiGo,entertainment
+3669.14,17,2,4,Netflix,bills
+350.13,5,5,4,Gas Bill,bills
+1131.14,4,1,4,Water Bill,bills
+1943.53,3,3,6,INOX,entertainment
+3377.56,12,4,9,Google Pay,entertainment
+2111.77,15,0,4,Water Bill,bills
+225.96,19,5,7,Myntra,entertainment
+786.91,11,5,1,Pizza Hut,food
+422.59,9,6,3,Uber,food
+250.56,0,1,2,Ola,transport
+270.89,8,6,2,Ola Electric,transport
+357.35,22,0,3,Auto Rickshaw,transport
+2931.65,9,4,9,1mg,other
+312.23,9,0,5,Electricity Bill,bills
+1646.69,10,6,7,PVR Cinemas,entertainment
+457.56,12,3,3,Namma Metro,food
+2839.79,12,5,5,Amazon Prime,bills
+1375.57,21,6,4,Hotstar,bills
+1618.31,2,0,9,1mg,other
+138.87,8,3,1,Pizza Hut,food
+1032.11,18,6,6,INOX,entertainment
+708.11,7,4,7,PVR Cinemas,entertainment
+4589.01,3,1,4,Hotstar,bills
+2300.3,15,2,8,More Supermarket,other
+329.09,18,3,1,BigBasket,food
+858.35,20,0,8,Practo,bills
+3698.32,0,1,9,1mg,other
+3839.97,11,6,4,ICICI EMI,bills
+2448.57,1,2,5,LIC Premium,bills
+395.52,1,6,0,Swiggy,food
+1982.94,8,6,9,HDFC Bank ATM,other
+1014.19,23,0,7,Steam,entertainment
+489.78,16,0,2,BMTC,bills
+414.24,9,4,2,BMTC,transport
+1068.31,1,1,4,Netflix,bills
+3875.83,12,5,8,Practo,other
+4478.16,5,4,8,Apollo Pharmacy,other
+2298.6,13,2,8,Amazon,other
+119.3,15,0,2,Ola Electric,entertainment
+368.78,12,3,3,Auto Rickshaw,transport
+1247.11,6,4,7,Myntra,entertainment
+1254.02,13,5,7,Nykaa,entertainment
+738.89,16,3,0,Swiggy Instamart,food
+381.92,10,6,8,Apollo Pharmacy,other
+227.93,0,5,4,Water Bill,bills
+3882.81,15,1,9,Google Pay,other
+4789.27,10,4,9,Flipkart,other
+1575.37,10,1,6,PlayStation Store,entertainment
+3736.11,16,4,4,Jio,bills
+754.1,5,3,7,Myntra,entertainment
+70.72,16,2,1,Pizza Hut,food
+120.83,12,5,3,RedBus,transport
+106.53,22,1,3,Auto Rickshaw,transport
+251.43,3,6,2,Rapido,transport
+328.24,15,3,1,Pizza Hut,food
+622.38,5,0,9,Paytm,other
+2806.88,3,2,4,YouTube Premium,bills
+2969.77,7,0,4,ICICI EMI,bills
+4210.45,18,0,5,Airtel,bills
+109.85,5,5,2,Rapido,transport
+1609.96,0,0,7,Crossword,entertainment
+1488.73,2,0,4,ICICI EMI,bills
+956.1,0,1,7,PVR Cinemas,entertainment
+384.24,1,2,1,Dominos,food
+487.48,6,1,0,KFC,food
+582.23,8,3,6,INOX,entertainment
+4328.82,14,1,9,Flipkart,other
+2222.83,7,4,9,Paytm,other
+74.38,12,6,1,BigBasket,food
+4428.57,19,5,4,BSNL,bills
+1692.74,22,4,8,PhonePe,other
+81.07,22,1,3,Auto Rickshaw,transport
+404.12,18,0,7,PVR Cinemas,entertainment
+667.08,18,6,6,BookMyShow,entertainment
+959.87,20,2,6,Ajio,entertainment
+285.42,9,2,2,Rapido,transport
+319.25,20,4,2,BMTC,transport
+4323.84,13,2,4,Gas Bill,food
+795.29,13,6,1,Dunzo,food
+57.67,22,0,0,Swiggy Instamart,food
+941.61,1,1,9,Reliance Fresh,other
+392.78,9,6,3,Namma Metro,transport
+144.34,18,0,2,BMTC,transport
+868.7,6,1,8,More Supermarket,other
+137.45,2,0,2,Rapido,transport
+406.57,11,6,2,Ola Electric,transport
+597.04,10,2,0,Haldirams,food
+4507.72,7,6,4,Netflix,bills
+1636.22,9,5,6,Decathlon,entertainment
+112.52,5,2,3,Auto Rickshaw,transport
+304.21,4,0,2,Rapido,transport
+3728.05,20,1,9,D-Mart,other
+252.1,8,0,0,Subway,food
+233.28,10,6,2,Ola,transport
+4385.37,19,4,8,More Supermarket,other
+88.47,15,3,3,Uber,transport
+302.24,8,1,2,BMTC,entertainment
+186.69,8,5,0,Blinkit,food
+386.1,19,6,0,Haldirams,food
+346.64,2,5,0,McDonald's,food
+366.82,4,3,3,Auto Rickshaw,bills
+3405.01,16,5,4,BSNL,bills
+1804.87,4,5,7,PVR Cinemas,entertainment
+140.35,7,0,0,Blinkit,food
+544.88,17,2,0,McDonald's,food
+492.27,5,5,4,Water Bill,bills
+298.9,0,2,1,Pizza Hut,transport
+628.92,3,4,1,Chai Point,food
+680.99,16,6,0,Tea Stall,food
+975.89,4,2,7,Crossword,entertainment
+811.29,23,2,6,INOX,entertainment
+260.82,7,5,3,Uber,transport
+1741.73,17,6,4,Netflix,bills
+745.75,0,2,1,Chai Point,food
+2213.97,20,3,8,Amazon,other
+4415.08,5,4,9,1mg,other
+1836.02,11,6,8,SBI ATM,other
+1767.44,22,4,8,Apollo Pharmacy,other
+474.24,16,2,4,Water Bill,bills
+3702.68,16,1,9,HDFC Bank ATM,other
+1671.13,13,5,8,Big Bazaar,other
+134.18,16,2,6,INOX,entertainment
+1579.95,11,2,7,Crossword,entertainment
+439.95,23,2,2,Ola Electric,transport
+176.58,5,1,0,Blinkit,food
+382.39,17,1,2,Ola,transport
+4682.3,12,1,4,Netflix,bills
+2173.12,18,6,4,Gas Bill,bills
+260.03,5,6,4,Netflix,bills
+61.85,18,4,2,BMTC,transport
+310.63,20,3,2,Ola,transport
+175.54,13,3,7,Nykaa,entertainment
+718.89,1,4,1,Pizza Hut,food
+519.48,9,5,4,BSNL,bills
+106.15,23,6,1,BigBasket,transport
+328.05,6,4,1,Dominos,food
+1559.61,14,0,8,Apollo Pharmacy,other
+336.74,0,5,1,Dominos,food
+748.82,4,3,0,Swiggy,food
+859.95,12,0,7,Myntra,entertainment
+1000.6,13,6,6,BookMyShow,entertainment
+360.18,22,2,3,Auto Rickshaw,transport
+397.27,6,2,1,Dominos,bills
+1729.04,21,0,6,INOX,entertainment
+397.52,3,0,3,Auto Rickshaw,transport
+556.45,13,2,9,D-Mart,other
+206.76,8,6,3,Uber,transport
+1143.01,5,3,5,Amazon Prime,bills
+1094.38,15,3,6,Ajio,entertainment
+206.32,8,4,1,Chai Point,food
+4130.01,13,6,4,Jio,bills
+305.14,16,4,1,Pizza Hut,food
+1277.47,18,1,7,Nykaa,food
+39.76,5,2,2,Rapido,transport
+1406.38,8,0,8,Practo,other
+756.17,10,6,6,PlayStation Store,entertainment
+294.85,14,4,2,Indian Railways,transport
+270.07,17,2,1,Pizza Hut,food
+220.65,18,0,2,Rapido,transport
+1148.93,13,5,4,BSNL,bills
+3058.57,7,4,4,Jio,food
+2511.68,8,1,5,HDFC EMI,bills
+225.84,18,4,0,KFC,food
+486.16,7,3,0,Swiggy,food
+1593.15,20,5,8,Amazon,entertainment
+522.05,16,4,6,PlayStation Store,entertainment
+444.95,23,3,5,LIC Premium,bills
+682.43,11,3,1,Dunzo,food
+2442.77,21,3,5,Spotify,bills
+196.52,9,5,3,Uber,transport
+438.15,19,4,1,Pizza Hut,food
+389.61,22,1,0,McDonald's,food
+3907.65,9,2,8,Amazon,other
+680.94,17,3,0,Tea Stall,food
+322.51,13,0,1,Dominos,food
+3587.97,14,2,5,Electricity Bill,bills
+501.42,12,3,7,Steam,entertainment
+1653.1,15,5,6,BookMyShow,entertainment
+187.28,5,3,0,McDonald's,food
+1831.33,20,2,7,Nykaa,entertainment
+433.93,16,5,0,Subway,food
+2561.67,10,5,9,1mg,other
+1997.33,6,4,8,Amazon,other
+1423.11,22,4,6,INOX,entertainment
+217.94,10,6,8,SBI ATM,other
+3419.25,9,4,5,Spotify,bills
+353.35,1,2,3,Uber,transport
+3847.73,17,6,9,D-Mart,other
+156.51,12,1,7,Nykaa,entertainment
+213.07,5,4,3,Uber,transport
+485.16,5,6,0,Subway,food
+3397.23,18,6,9,Flipkart,other
+687.99,4,3,9,Paytm,other
+1178.76,7,3,4,Hotstar,bills
+741.54,17,3,0,Haldirams,food
+2144.49,9,1,4,BSNL,bills
+493.52,21,5,1,Chai Point,food
+343.79,7,2,3,Uber,transport
+3086.82,0,0,4,Netflix,bills
+3129.99,13,3,5,Society Maintenance,bills
+184.72,19,2,1,BigBasket,food
+1902.54,19,4,8,Amazon,other
+131.36,16,5,2,BMTC,transport
+4096.08,22,1,5,Electricity Bill,bills
+133.73,15,4,0,Swiggy Instamart,food
+765.39,8,5,0,Blinkit,food
+443.85,16,4,3,Namma Metro,transport
+688.19,18,5,0,Tea Stall,food
+265.28,10,0,2,Ola Electric,transport
+74.93,1,4,2,Ola,transport
+40.42,1,1,2,BMTC,transport
+73.58,20,6,0,Swiggy Instamart,food
+162.67,5,4,0,Blinkit,food
+1682.55,16,2,6,PlayStation Store,entertainment
+393.23,16,4,0,Swiggy,food
+1000.87,20,3,9,Google Pay,other
+209.48,18,5,4,Gas Bill,entertainment
+720.76,3,1,0,Haldirams,food
+129.56,1,4,6,INOX,entertainment
+319.95,14,0,3,Auto Rickshaw,transport
+113.42,8,2,2,Indian Railways,transport
+3054.93,20,5,4,Hotstar,bills
+499.19,21,6,3,Namma Metro,transport
+439.42,23,5,7,PVR Cinemas,entertainment
+3356.86,9,1,4,YouTube Premium,bills
+288.14,2,1,5,Society Maintenance,bills
+24.3,17,2,3,Auto Rickshaw,transport
+4100.18,22,0,9,Reliance Fresh,other
+385.3,0,1,2,Ola Electric,transport
+837.33,22,2,5,HDFC EMI,bills
+573.8,13,2,1,Dominos,food
+2710.66,14,6,9,D-Mart,other
+3462.09,7,6,4,Water Bill,bills
+1696.76,16,4,6,PlayStation Store,entertainment
+236.85,15,1,3,Air India,transport
+2060.32,4,1,9,D-Mart,other
+202.96,14,4,2,Ola,transport
+1490.15,2,1,8,SBI ATM,other
+4119.48,21,1,5,Society Maintenance,bills
+109.28,16,3,2,BMTC,transport
+290.56,4,0,2,Indian Railways,transport
+1936.35,18,4,7,PVR Cinemas,entertainment
+816.22,18,4,7,Myntra,entertainment
+399.74,23,4,3,Air India,transport
+372.71,12,4,2,IndiGo,transport
+2309.61,5,2,9,Paytm,other
+584.13,5,0,7,Steam,food
+1332.2,19,6,8,Big Bazaar,other
+273.38,6,6,3,Air India,transport
+148.23,0,0,8,SBI ATM,transport
+4898.64,22,3,4,Netflix,bills
+1476.32,2,6,7,Crossword,entertainment
+1288.01,1,6,4,Netflix,bills
+538.51,9,0,5,Society Maintenance,bills
+481.18,10,1,0,Subway,food
+2998.04,17,3,8,Amazon,other
+1625.49,23,6,4,ICICI EMI,bills
+178.16,22,5,2,Ola,transport
+181.68,7,0,3,Auto Rickshaw,transport
+2197.73,3,4,8,SBI ATM,other
+2122.66,18,6,5,Society Maintenance,bills
+266.38,11,3,9,Reliance Fresh,other
+517.36,21,2,8,Amazon,other
+235.31,13,3,2,Ola,transport
+478.9,15,1,0,Blinkit,food
+1685.49,9,3,4,Jio,bills
+1725.66,2,5,4,BSNL,bills
+171.56,12,0,3,Air India,transport
+197.34,5,0,1,Dunzo,entertainment
+218.01,13,0,7,Myntra,entertainment
+4833.39,4,5,8,Apollo Pharmacy,other
+4211.8,19,5,5,Amazon Prime,bills
+413.21,6,3,0,Swiggy Instamart,food
+187.89,9,6,1,Chai Point,food
+1575.02,19,0,5,LIC Premium,bills
+2330.31,17,3,4,Jio,bills
+493.49,0,5,3,Namma Metro,transport
+1577.05,19,0,7,PVR Cinemas,entertainment
+1721.33,11,0,6,Decathlon,entertainment
+1741.37,18,2,6,INOX,entertainment
+194.44,8,0,0,Blinkit,food
+3994.45,16,0,8,PhonePe,other
+578.54,23,6,5,Amazon Prime,bills
+388.92,8,5,1,Pizza Hut,food
+1319.49,21,0,9,HDFC Bank ATM,other
+105.12,9,0,7,Nykaa,entertainment
+4025.68,22,2,9,Reliance Fresh,other
+2789.51,0,6,5,Airtel,bills
+91.81,2,6,2,IndiGo,transport
+1974.83,5,6,9,Google Pay,transport
+736.5,17,4,1,Burger King,food
+1293.85,22,5,6,PlayStation Store,entertainment
+455.36,4,3,0,Swiggy Instamart,food
+1821.48,12,2,5,Amazon Prime,bills
+1747.21,23,1,7,Steam,entertainment
+1159.62,6,4,4,BSNL,bills
+1055.96,16,0,6,BookMyShow,entertainment
+1467.69,19,4,6,Decathlon,entertainment
+1233.5,1,5,6,BookMyShow,entertainment
+119.49,23,6,1,BigBasket,food
+640.09,21,6,5,Airtel,bills
+68.12,10,4,2,Indian Railways,transport
+424.87,5,6,4,Gas Bill,bills
+311.73,20,3,7,PVR Cinemas,entertainment
+649.04,21,1,1,Dunzo,food
+454.39,21,0,3,Air India,transport
+790.38,8,2,6,PlayStation Store,entertainment
+1740.73,21,5,6,BookMyShow,entertainment
+58.37,2,2,3,Auto Rickshaw,transport
+1187.36,23,1,7,Crossword,entertainment
+3984.09,12,3,8,More Supermarket,other
+139.13,22,6,2,Rapido,transport
+1880.18,0,1,8,Amazon,other
+131.24,11,3,6,PlayStation Store,other
+1158.8,12,4,8,Amazon,other
+549.36,12,3,6,Ajio,food
+198.06,4,5,2,Ola,transport
+3270.2,13,2,9,Flipkart,other
+140.51,6,4,1,BigBasket,food
+94.03,23,1,0,McDonald's,food
+67.48,8,2,0,McDonald's,food
+383.35,18,3,3,RedBus,transport
+649.36,20,6,9,Reliance Fresh,other
+43.78,22,4,2,Ola,transport
+1842.74,15,2,7,Myntra,entertainment
+4911.1,18,1,4,Water Bill,bills
+467.63,19,2,1,Chai Point,food
+2665.73,3,4,5,Electricity Bill,bills
+588.77,19,3,1,Zomato,food
+1213.75,9,6,4,Gas Bill,bills
+952.28,5,4,4,ICICI EMI,bills
+3158.97,1,2,5,LIC Premium,bills
+1942.06,13,0,7,Steam,entertainment
+1129.35,0,3,6,PlayStation Store,entertainment
+530.26,13,3,1,Pizza Hut,food
+649.83,2,2,1,Burger King,food
+1934.85,6,5,9,Flipkart,other
+594.38,2,3,0,Tea Stall,transport
+904.17,11,4,7,Myntra,entertainment
+345.0,8,2,7,Myntra,entertainment
+294.8,14,4,1,BigBasket,food
+3712.96,11,1,4,Water Bill,entertainment
+570.8,14,4,1,Burger King,food
+142.33,23,0,1,Dunzo,food
+2049.51,23,2,8,PhonePe,other
+727.19,3,4,6,Ajio,entertainment
+362.47,15,2,3,Namma Metro,transport
+4778.74,11,5,8,PhonePe,other
+1988.26,22,3,7,Steam,transport
+1129.92,7,6,7,PVR Cinemas,entertainment
+472.75,5,0,1,Zomato,food
+1285.29,6,6,9,Paytm,other
+355.33,6,6,3,Air India,transport
+158.77,1,1,2,Indian Railways,transport
+1276.36,5,6,9,HDFC Bank ATM,other
+814.52,18,5,7,Nykaa,entertainment
+247.23,7,4,3,RedBus,transport
+436.38,20,1,2,IndiGo,transport
+186.77,18,0,0,Tea Stall,food
+512.31,19,1,4,Jio,bills
+267.81,9,1,2,Rapido,transport
+336.72,19,4,3,RedBus,transport
+144.55,21,3,9,Google Pay,other
+602.78,8,5,5,Spotify,bills
+475.44,14,2,4,ICICI EMI,bills
+1282.44,6,4,7,Crossword,entertainment
+363.98,12,6,2,Ola,transport
+3432.16,5,6,5,Electricity Bill,bills
+1835.86,15,3,6,INOX,entertainment
+1884.54,13,5,7,Steam,entertainment
+4779.21,12,2,8,Amazon,other
+493.94,11,0,6,BookMyShow,entertainment
+180.83,10,1,2,Ola,transport
+762.83,9,0,8,Practo,other
+581.04,23,0,0,Subway,food
+28.88,20,6,2,BMTC,transport
+1062.05,13,3,7,Myntra,entertainment
+1859.41,13,6,7,Crossword,entertainment
+359.16,6,6,3,Auto Rickshaw,food
+3208.03,12,6,9,HDFC Bank ATM,other
+539.75,18,3,5,Amazon Prime,bills
+3298.95,6,0,5,LIC Premium,bills
+3525.02,18,5,9,Google Pay,other
+1445.33,19,6,6,Decathlon,entertainment
+579.55,13,0,0,Haldirams,food
+1643.47,10,0,8,More Supermarket,other
+3376.49,4,6,4,Hotstar,bills
+663.54,4,1,6,Ajio,entertainment
+448.73,3,1,2,BMTC,transport
+489.29,17,6,0,Swiggy Instamart,food
+128.25,19,2,0,Haldirams,food
+1332.24,0,5,9,1mg,other
+377.7,22,1,1,Dunzo,food
+486.64,22,2,3,Air India,transport
+747.92,22,3,6,INOX,entertainment
+4251.5,16,4,9,Flipkart,other
+118.41,16,5,2,Rapido,transport
+1716.16,17,6,8,Amazon,other
+2044.6,2,5,4,Jio,other
+296.26,11,3,2,BMTC,transport
+3077.0,8,3,5,Society Maintenance,bills
+436.49,21,3,1,Burger King,food
+4004.22,6,5,8,Big Bazaar,other
+4295.95,14,1,8,Amazon,other
+44.33,17,0,3,Uber,transport
+510.0,12,1,8,SBI ATM,other
+725.65,23,3,1,Burger King,bills
+1719.67,21,4,8,Practo,other
+1788.09,11,0,7,Myntra,entertainment
+151.81,0,0,2,Indian Railways,transport
+1089.94,13,6,7,Myntra,entertainment
+3448.14,11,0,8,Practo,other
+717.68,4,1,6,PlayStation Store,entertainment
+528.88,16,4,4,Water Bill,bills
+124.2,6,1,8,Practo,other
+4990.75,0,4,8,PhonePe,other
+436.29,23,0,3,RedBus,transport
+468.57,19,2,6,Ajio,transport
+2660.45,13,0,5,Electricity Bill,bills
+279.47,23,4,2,Ola,bills
+378.42,6,2,2,BMTC,other
+424.45,19,3,8,Zepto,entertainment
+4604.55,18,3,9,Reliance Fresh,other
+495.22,17,2,3,Namma Metro,transport
+507.04,16,0,0,Blinkit,food
+2426.85,11,6,4,Jio,bills
+668.39,16,0,7,Nykaa,entertainment
+3231.88,7,4,8,Zepto,other
+1815.89,20,6,4,YouTube Premium,bills
+926.07,19,2,8,Amazon,entertainment
+4081.77,1,6,5,Spotify,bills
+457.45,19,6,3,Namma Metro,transport
+313.05,0,3,2,BMTC,transport
+39.62,3,4,2,Rapido,transport
+642.84,13,3,7,Nykaa,entertainment
+3349.93,2,4,5,Airtel,bills
+1471.11,6,0,6,Decathlon,entertainment
+732.77,19,2,9,D-Mart,other
+2620.08,8,0,9,D-Mart,other
+3268.84,7,1,9,1mg,other
+815.81,19,6,6,Decathlon,bills
+4225.33,9,4,4,ICICI EMI,bills
+355.9,12,3,3,Auto Rickshaw,entertainment
+335.46,20,5,3,Auto Rickshaw,transport
+447.22,2,3,0,Subway,food
+3916.8,12,6,8,Practo,other
+1698.88,19,4,5,Society Maintenance,bills
+2160.0,4,1,8,More Supermarket,other
+125.63,15,0,2,Rapido,transport
+151.25,4,1,7,Crossword,entertainment
+47.17,22,6,3,Air India,transport
+1758.55,22,4,6,PlayStation Store,entertainment
+1638.85,14,4,6,PlayStation Store,other
+3209.8,14,3,5,Airtel,bills
+1227.36,2,6,7,Steam,entertainment
+294.98,14,5,8,Zepto,other
+189.32,2,2,3,Uber,transport
+1203.96,11,4,6,Decathlon,entertainment
+2013.97,12,6,8,Zepto,other
+2797.42,14,3,8,Practo,other
+480.55,21,3,2,Rapido,transport
+858.38,3,1,7,Crossword,transport
+550.93,0,5,0,Subway,food
+4416.65,17,0,4,Gas Bill,bills
+398.77,16,5,2,Ola Electric,transport
+1070.41,4,6,7,PVR Cinemas,entertainment
+55.28,12,3,1,Dunzo,food
+2327.94,4,1,8,Amazon,food
+1154.19,12,4,7,Crossword,entertainment
+1447.01,22,4,9,1mg,other
+1814.03,1,1,7,Crossword,entertainment
+2408.62,19,3,5,HDFC EMI,entertainment
+1203.9,6,2,9,Reliance Fresh,other
+4041.56,14,1,4,Jio,bills
+654.04,6,0,1,Pizza Hut,food
+404.04,10,3,4,Netflix,bills
+120.21,15,4,0,Tea Stall,food
+1190.95,8,5,9,D-Mart,other
+1964.06,16,4,4,Water Bill,bills
+169.45,9,3,3,Uber,transport
+126.8,4,1,1,Chai Point,food
+2122.26,14,0,5,Electricity Bill,bills
+4131.67,17,4,4,ICICI EMI,bills
+529.15,14,4,1,BigBasket,food
+541.03,9,6,6,INOX,entertainment
+1600.52,13,3,4,Gas Bill,bills
+4583.4,7,6,8,Amazon,other
+1912.18,0,0,6,Ajio,entertainment
+1265.0,15,1,6,INOX,entertainment
+1750.35,11,4,7,Steam,entertainment
+1242.7,22,5,6,INOX,entertainment
+70.14,12,4,3,Auto Rickshaw,transport
+291.17,2,2,2,Rapido,transport
+3343.26,20,1,9,D-Mart,other
+63.43,23,2,2,BMTC,transport
+604.15,17,1,0,Tea Stall,food
+217.43,14,1,8,SBI ATM,other
+4263.33,22,2,4,ICICI EMI,bills
+756.22,20,4,7,PVR Cinemas,entertainment
+594.27,20,3,4,Netflix,bills
+4659.55,3,3,4,YouTube Premium,bills
+59.85,5,1,1,Burger King,food
+353.37,17,0,1,Zomato,food
+1293.28,9,6,5,Airtel,bills
+3555.14,1,5,4,ICICI EMI,bills
+1096.64,15,6,8,PhonePe,other
+1223.83,23,6,6,INOX,entertainment
+338.93,7,1,2,BMTC,transport
+771.31,20,2,0,Blinkit,food
+488.86,22,6,0,Tea Stall,food
+219.5,14,3,3,Auto Rickshaw,transport
+792.46,13,3,0,Blinkit,food
+345.62,7,2,1,Chai Point,bills
+84.53,4,1,2,Ola,transport
+281.22,2,1,3,Air India,transport
+519.34,13,3,6,Decathlon,entertainment
+649.27,14,4,4,Jio,bills
+278.32,12,0,0,Tea Stall,food
+987.35,7,6,5,Society Maintenance,bills
+2097.57,11,3,5,Spotify,bills
+2008.47,1,0,4,Hotstar,bills
+3782.88,12,1,9,Paytm,other
+612.83,23,5,0,Subway,food
+776.43,5,5,7,Myntra,entertainment
+200.3,8,6,3,RedBus,transport
+69.74,17,2,0,Swiggy,food
+651.19,10,0,1,Chai Point,food
+394.15,21,2,2,BMTC,transport
+984.78,17,1,8,Apollo Pharmacy,other
+1281.88,7,0,8,Big Bazaar,entertainment
+2013.64,23,5,4,Water Bill,bills
+269.31,6,1,1,Dunzo,food
+3951.79,14,4,5,Amazon Prime,bills
+1652.39,2,1,9,Reliance Fresh,other
+291.67,7,3,1,BigBasket,food
+280.04,6,0,6,Ajio,entertainment
+352.83,3,5,8,PhonePe,other
+520.29,6,4,9,1mg,other
+237.63,13,3,1,Zomato,food
+609.04,0,3,8,Zepto,other
+322.15,21,3,9,Flipkart,entertainment
+731.48,14,6,8,Practo,other
+538.77,0,1,0,Swiggy Instamart,food
+564.34,23,0,7,Steam,entertainment
+3592.0,6,0,4,BSNL,bills
+203.04,16,3,7,Steam,transport
+4723.37,22,0,5,Amazon Prime,bills
+1006.53,23,0,4,BSNL,bills
+70.48,13,3,0,McDonald's,food
+242.07,23,4,1,Zomato,food
+4917.21,12,3,9,Flipkart,other
+87.51,4,6,2,IndiGo,transport
+495.78,7,6,2,Ola,transport
+962.89,11,3,8,Zepto,other
+481.22,23,4,3,Uber,transport
+618.62,8,4,1,Zomato,food
+684.04,7,5,5,Society Maintenance,bills
+201.84,3,6,2,IndiGo,transport
+142.0,13,5,3,Air India,transport
+1659.84,16,3,5,Electricity Bill,bills
+3124.79,13,6,4,Water Bill,bills
+434.0,13,1,1,BigBasket,food
+3702.21,18,2,4,Jio,bills
+325.6,15,5,3,RedBus,transport
+284.07,20,2,3,Air India,transport
+190.98,2,2,3,Auto Rickshaw,transport
+198.04,10,4,2,Indian Railways,transport
+722.92,5,2,0,Subway,food
+49.08,13,3,2,IndiGo,transport
+3957.01,11,1,5,LIC Premium,bills
+355.03,5,2,3,Air India,transport
+1855.23,12,3,6,PlayStation Store,entertainment
+1199.42,18,5,5,HDFC EMI,bills
+1147.74,10,5,7,Crossword,entertainment
+441.17,22,6,3,Auto Rickshaw,transport
+386.4,3,2,7,Crossword,entertainment
+1906.71,23,5,6,Ajio,entertainment
+1430.12,21,2,9,HDFC Bank ATM,other
+1523.26,7,5,6,Decathlon,entertainment
+3680.57,4,2,8,SBI ATM,food
+1258.18,19,6,8,Zepto,other
+2134.87,11,6,9,Flipkart,other
+59.99,12,6,2,IndiGo,transport
+2363.33,0,1,9,D-Mart,other
+405.49,12,0,1,Dominos,food
+1891.67,8,4,6,BookMyShow,entertainment
+4798.74,22,0,9,Paytm,other
+3686.39,18,1,8,SBI ATM,other
+784.28,12,6,1,Zomato,food
+395.84,14,3,2,BMTC,transport
+422.4,23,4,2,BMTC,transport
+185.35,12,1,2,BMTC,transport
+86.57,18,6,3,RedBus,transport
+155.61,12,6,8,Practo,other
+3358.22,21,0,9,Reliance Fresh,other
+364.93,18,3,2,Indian Railways,transport
+792.18,0,3,1,Dunzo,food
+1181.3,3,0,9,HDFC Bank ATM,other
+177.36,18,0,1,Zomato,food
+235.17,19,2,1,Chai Point,food
+1209.46,8,2,9,1mg,food
+221.25,15,5,2,Ola Electric,transport
+276.07,3,2,2,BMTC,transport
+647.86,8,0,0,Swiggy Instamart,food
+375.62,19,1,1,Pizza Hut,food
+458.3,3,3,0,Haldirams,bills
+540.84,18,5,1,BigBasket,food
+686.32,20,1,0,Swiggy,food
+673.1,13,6,0,Swiggy Instamart,food
+1840.36,1,5,6,Ajio,entertainment
+79.67,9,1,1,BigBasket,food
+200.43,16,5,0,Subway,food
+4463.03,1,1,4,Water Bill,bills
+493.7,15,4,4,ICICI EMI,bills
+493.76,6,4,0,Haldirams,food
+287.88,22,0,7,Nykaa,bills
+1587.11,3,4,6,INOX,entertainment
+276.89,4,2,5,Spotify,bills
+406.99,16,4,6,BookMyShow,entertainment
+149.39,17,3,1,Zomato,food
+2525.46,22,0,4,YouTube Premium,bills
+2434.54,16,2,8,SBI ATM,other
+456.29,2,1,6,Ajio,entertainment
+283.8,20,3,9,Flipkart,other
+3356.24,12,0,5,Airtel,bills
+1322.57,4,0,8,Apollo Pharmacy,other
+564.52,7,0,4,Jio,bills
+2172.04,21,3,4,Jio,bills
+282.98,11,2,2,Indian Railways,transport
+383.68,15,5,2,Rapido,transport
+866.01,11,2,4,Jio,bills
+1875.05,14,4,7,PVR Cinemas,entertainment
+1451.99,16,2,9,Google Pay,other
+1062.7,19,1,6,PlayStation Store,entertainment
+792.81,22,5,1,BigBasket,food
+4707.52,12,1,5,HDFC EMI,bills
+1621.27,4,6,4,Gas Bill,bills
+238.73,12,3,3,Uber,transport
+214.44,0,2,3,Namma Metro,transport
+142.86,1,0,7,Nykaa,entertainment
+4620.63,3,6,4,Netflix,bills
+331.18,13,6,2,IndiGo,entertainment
+233.64,3,0,2,IndiGo,transport
+358.89,17,4,1,Pizza Hut,food
+619.77,15,1,0,Subway,food
+2097.45,6,4,9,Paytm,other
+644.56,5,1,1,Pizza Hut,food
+106.87,17,1,2,Rapido,transport
+1767.69,4,4,5,LIC Premium,bills
+303.71,9,0,3,Air India,transport
+594.72,17,2,0,Swiggy,food
+533.53,3,5,7,PVR Cinemas,entertainment
+550.26,10,1,1,Burger King,food
+4652.63,5,6,5,LIC Premium,bills
+4145.65,13,2,8,More Supermarket,other
+548.68,15,4,0,Haldirams,food
+443.14,0,1,1,Dunzo,food
+4485.28,3,4,8,Amazon,food
+4727.41,7,2,5,Amazon Prime,bills
+619.29,16,6,1,Pizza Hut,food
+265.93,17,3,0,KFC,food
+1146.15,5,0,6,INOX,entertainment
+3090.19,0,3,8,More Supermarket,other
+491.04,17,5,3,RedBus,transport
+398.49,18,6,1,Dominos,food
+216.44,21,4,1,Zomato,food
+1661.84,12,4,7,Steam,entertainment
+1683.5,11,3,8,PhonePe,bills
+3549.49,0,4,4,Water Bill,bills
+3735.28,13,4,4,YouTube Premium,bills
+1409.99,11,1,6,BookMyShow,entertainment
+2202.84,12,0,8,PhonePe,other
+394.77,7,3,0,Blinkit,food
+406.55,12,2,4,YouTube Premium,bills
+464.69,13,5,3,Uber,transport
+2804.0,4,2,8,More Supermarket,other
+154.57,15,5,2,IndiGo,transport
+1316.28,12,2,6,INOX,entertainment
+4219.18,5,2,4,Hotstar,bills
+188.14,23,1,0,Tea Stall,food
+2658.47,1,2,4,Water Bill,bills
+280.86,23,2,0,McDonald's,food
+2111.34,3,2,5,Spotify,bills
+1480.76,18,0,9,Paytm,other
+1169.89,12,0,7,Nykaa,entertainment
+237.05,7,6,3,Namma Metro,transport
+317.88,10,5,2,Rapido,transport
+4661.5,2,2,8,Apollo Pharmacy,other
+2674.27,7,0,8,Apollo Pharmacy,other
+2287.84,5,5,5,Society Maintenance,transport
+873.87,15,2,9,Paytm,other
+32.69,2,3,2,Rapido,transport
+1819.83,11,5,6,INOX,entertainment
+203.58,6,3,2,Indian Railways,transport
+664.56,1,1,0,McDonald's,food
+167.67,1,2,1,BigBasket,food
+1855.63,5,1,9,Reliance Fresh,other
+488.78,3,4,0,Tea Stall,food
+199.36,7,3,3,Auto Rickshaw,transport
+402.79,1,5,9,Google Pay,other
+536.02,13,0,1,BigBasket,food
+815.49,22,5,7,Myntra,entertainment
+2667.3,11,2,5,Airtel,bills
+2302.54,19,6,9,D-Mart,other
+401.08,11,5,2,BMTC,transport
+59.77,12,5,3,Auto Rickshaw,transport
+1559.92,9,2,6,Decathlon,entertainment
+1691.95,14,0,6,PlayStation Store,entertainment
+314.56,21,4,0,Subway,food
+388.52,15,3,0,Tea Stall,food
+210.99,5,5,7,Myntra,entertainment
+227.1,0,6,6,Ajio,entertainment
+4124.7,20,2,9,Flipkart,other
+1358.14,23,4,6,Ajio,entertainment
+101.94,3,3,1,Dominos,food
+145.68,20,6,7,Nykaa,entertainment
+737.07,4,1,7,Steam,entertainment
+278.79,18,1,3,Uber,transport
+664.05,16,5,0,Blinkit,food
+2187.02,15,0,5,HDFC EMI,bills
+504.71,6,0,0,McDonald's,food
+672.63,7,4,1,Dunzo,transport
+827.66,7,5,9,D-Mart,other
+378.02,19,5,0,KFC,food
+3101.77,4,3,8,SBI ATM,other
+2505.35,17,1,9,Flipkart,other
+236.0,10,1,7,Crossword,entertainment
+581.97,8,5,9,Flipkart,other
+314.82,22,3,0,Subway,food
+945.72,7,6,6,Ajio,entertainment
+1077.96,8,2,5,LIC Premium,transport
+4565.93,15,6,4,Hotstar,bills
+4665.62,12,4,5,HDFC EMI,bills
+1104.98,16,2,6,PlayStation Store,entertainment
+1465.54,18,2,8,Apollo Pharmacy,other
+1672.08,20,1,4,Jio,bills
+821.28,18,3,5,Society Maintenance,entertainment
+1801.59,3,1,4,YouTube Premium,bills
+144.78,14,3,0,Subway,food
+1505.42,22,0,7,Steam,entertainment
+1156.0,21,2,8,Big Bazaar,other
+164.56,21,2,3,Uber,other
+196.91,15,3,0,Subway,food
+4681.1,22,5,9,D-Mart,other
+779.35,23,4,1,Burger King,food
+809.8,16,2,6,INOX,entertainment
+222.63,19,4,1,Dominos,food
+346.7,4,6,2,IndiGo,entertainment
+370.95,4,5,2,Ola Electric,transport
+577.37,10,0,1,Chai Point,food
+122.33,6,3,7,Nykaa,entertainment
+224.64,0,0,2,IndiGo,transport
+645.33,4,0,0,Haldirams,food
+556.92,9,4,1,Chai Point,food
+1414.26,17,1,5,Spotify,bills
+222.97,14,5,3,Auto Rickshaw,transport
+2596.59,22,4,8,Big Bazaar,other
+3726.32,2,5,9,D-Mart,other
+327.26,8,4,3,Namma Metro,transport
+4596.63,4,0,4,YouTube Premium,bills
+2154.6,18,5,8,More Supermarket,other
+159.18,19,2,1,Dominos,food
+211.36,1,6,0,Haldirams,food
+343.63,15,2,0,KFC,bills
+3571.56,1,4,8,More Supermarket,other
+600.31,18,5,0,Swiggy Instamart,food
+101.1,9,0,0,Tea Stall,food
+2146.61,16,2,5,HDFC EMI,bills
+297.63,16,5,1,Pizza Hut,food
+212.93,9,3,0,Tea Stall,food
+1145.21,19,5,4,Jio,bills
+437.24,10,3,0,Blinkit,food
+4235.66,14,4,5,LIC Premium,bills
+942.04,14,6,4,Jio,other
+445.34,17,5,1,BigBasket,food
+229.25,3,2,3,Uber,transport
+4906.67,16,3,8,SBI ATM,other
+669.95,12,3,1,Dunzo,other
+2701.84,21,1,5,Amazon Prime,bills
+437.5,23,2,3,RedBus,transport
+205.53,6,2,0,Swiggy Instamart,food
+3022.29,13,2,5,Airtel,bills
+802.27,11,1,6,Decathlon,entertainment
+389.82,16,1,3,Air India,transport
+3365.06,3,3,4,ICICI EMI,bills
+226.42,10,4,6,BookMyShow,entertainment
+2830.2,19,6,4,ICICI EMI,bills
+92.78,16,2,2,Ola,transport
+105.81,12,3,3,RedBus,transport
+1187.69,10,0,8,Zepto,other
+492.97,10,1,5,Amazon Prime,bills
+2189.7,7,0,8,Practo,other
+4712.75,0,4,9,1mg,other
+4441.41,0,5,8,Apollo Pharmacy,other
+1155.58,22,6,7,Steam,entertainment
+245.19,23,6,3,RedBus,transport
+425.95,4,2,0,Subway,food
+333.19,12,1,3,RedBus,transport
+56.47,2,1,0,Swiggy,food
+693.16,4,1,1,Chai Point,transport
+1238.93,21,0,5,LIC Premium,bills
+4273.93,22,5,5,LIC Premium,bills
+1539.04,22,3,7,PVR Cinemas,entertainment
+523.17,3,3,1,BigBasket,food
+1878.71,12,3,4,ICICI EMI,bills
+1253.79,23,5,6,BookMyShow,entertainment
+470.07,8,0,7,Steam,entertainment
+164.25,9,1,1,Burger King,food
+472.93,14,4,7,Myntra,entertainment
+81.05,2,4,2,Rapido,transport
+788.06,22,0,1,Dominos,food
+1376.35,13,0,7,Nykaa,bills
+530.4,3,0,0,Subway,food
+531.43,22,6,4,Jio,food
+261.88,4,3,2,Ola,transport
+1202.1,8,6,5,Amazon Prime,bills
+965.86,17,6,7,Crossword,entertainment
+263.65,22,1,2,BMTC,transport
+3080.19,3,2,5,Airtel,bills
+547.32,8,3,9,Google Pay,other
+463.58,20,3,2,IndiGo,transport
+4098.91,0,1,5,Electricity Bill,bills
+569.5,21,3,1,Dunzo,food
+369.78,12,4,6,Decathlon,entertainment
+3042.37,5,5,4,YouTube Premium,bills
+104.97,1,5,6,PlayStation Store,entertainment
+43.82,9,5,2,Ola Electric,entertainment
+263.43,0,4,7,Myntra,entertainment
+886.7,3,3,5,Spotify,bills
+354.12,6,1,2,Ola Electric,transport
+3345.84,6,3,5,Spotify,bills
+4494.13,0,0,9,Reliance Fresh,other
+89.31,19,4,1,BigBasket,food
+74.7,0,6,2,IndiGo,entertainment
+4842.41,5,4,4,Gas Bill,bills
+50.95,17,4,2,BMTC,transport
+318.39,7,0,2,Ola,transport
+2328.15,13,0,4,Netflix,bills
+101.79,20,0,2,Indian Railways,transport
+787.62,4,5,9,Flipkart,other
+1720.79,18,2,7,Myntra,entertainment
+1561.3,0,6,6,PlayStation Store,entertainment
+552.59,2,0,5,Electricity Bill,bills
+3436.52,23,1,5,Electricity Bill,bills
+422.9,6,4,0,Blinkit,food

@@ -1,0 +1,11 @@
+{
+  "threshold": 1.8128199137136536e-17,
+  "features": [
+    "amount",
+    "hour_of_day",
+    "day_of_week",
+    "merchant_bucket",
+    "category_encoded"
+  ],
+  "version": "1.0.0"
+}

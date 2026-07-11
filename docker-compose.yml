@@ -1,0 +1,32 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: pulsedb
+      POSTGRES_USER: pulse
+      POSTGRES_PASSWORD: pulse
+    ports:
+      - "5432:5432"
+    volumes:
+      - pulse_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U pulse -d pulsedb"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build: ./backend
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/pulsedb
+      SPRING_DATASOURCE_USERNAME: pulse
+      SPRING_DATASOURCE_PASSWORD: pulse
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY}
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  pulse_postgres_data:
