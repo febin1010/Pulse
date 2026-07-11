@@ -1,9 +1,4 @@
-[build]
-builder = "nixpacks"
-buildCommand = "cd backend && ./gradlew bootJar --no-daemon"
-
 [deploy]
-startCommand = "java -jar backend/build/libs/pulse-backend-1.0.0.jar"
 healthcheckPath = "/actuator/health"
-healthcheckTimeout = 60
+healthcheckTimeout = 120
 restartPolicyType = "ON_FAILURE"
