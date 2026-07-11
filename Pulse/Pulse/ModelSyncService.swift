@@ -22,11 +22,7 @@ class ModelSyncService {
     private(set) var updateAvailable = false
     private(set) var isDownloading = false
     private(set) var justUpdated = false   // triggers toast in ModelStatusView
-
-    private var activeVersion: String {
-        get { UserDefaults.standard.string(forKey: "activeModelVersion") ?? "1.0.0" }
-        set { UserDefaults.standard.set(newValue, forKey: "activeModelVersion") }
-    }
+    private(set) var activeVersion: String = UserDefaults.standard.string(forKey: "activeModelVersion") ?? "1.0.0"
 
     func checkForUpdates() async {
         do {
@@ -66,6 +62,7 @@ class ModelSyncService {
             await MainActor.run {
                 ClassifierEngine.shared.loadModel(from: permanentURL)
                 activeVersion = version
+                UserDefaults.standard.set(version, forKey: "activeModelVersion")
                 latestVersion = version
                 updateAvailable = false
                 isDownloading = false

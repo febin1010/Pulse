@@ -26,7 +26,7 @@ struct PulseApp: App {
         WindowGroup {
             ContentView()
                 .onAppear {
-                    seedSampleDataIfNeeded(container: sharedModelContainer)
+                    clearSeedDataIfNeeded(container: sharedModelContainer)
                 }
                 .onChange(of: scenePhase) { _, newPhase in
                     if newPhase == .active {
@@ -38,39 +38,29 @@ struct PulseApp: App {
     }
 }
 
-private func seedSampleDataIfNeeded(container: ModelContainer) {
+private func clearSeedDataIfNeeded(container: ModelContainer) {
+    let key = "didClearSeedData_v4"
+    guard !UserDefaults.standard.bool(forKey: key) else { return }
+
     let context = container.mainContext
     let descriptor = FetchDescriptor<Transaction>()
-    let count = (try? context.fetchCount(descriptor)) ?? 0
-    guard count == 0 else { return }
+    let existing = (try? context.fetch(descriptor)) ?? []
 
-    let samples: [(Double, String, Int)] = [
-        (320, "Swiggy", -1),
-        (85, "Ola", -3),
-        (1200, "Amazon", -2),
-        (450, "Zomato", -5),
-        (199, "Jio", -10),
-        (650, "Big Bazaar", -7),
-        (120, "Rapido", -1),
-        (2500, "HDFC EMI", -15),
-        (380, "Swiggy", -4),
-        (95, "Auto Rickshaw", -2),
-        (799, "Netflix", -20),
-        (270, "Zomato", -6),
-        (1500, "Electricity Bill", -8),
-        (60, "Tea Stall", -1),
-        (340, "Blinkit", -3),
-        (180, "Uber", -9),
-        (4200, "Flipkart", -12),
-        (550, "Dunzo", -2),
-        (300, "Swiggy Instamart", -5),
-        (890, "Apollo Pharmacy", -11)
+    let seedMerchants: Set<String> = [
+        "Swiggy", "Ola", "Amazon", "Zomato", "Jio", "Big Bazaar",
+        "Rapido", "HDFC EMI", "Auto Rickshaw", "Netflix", "Electricity Bill",
+        "Tea Stall", "Blinkit", "Uber", "Flipkart", "Dunzo",
+        "Swiggy Instamart", "Apollo Pharmacy"
     ]
 
-    for (amount, merchant, daysAgo) in samples {
-        let date = Calendar.current.date(byAdding: .day, value: daysAgo, to: Date()) ?? Date()
-        let tx = Transaction(amount: amount, merchantName: merchant, date: date)
-        context.insert(tx)
+    // Delete every transaction whose merchant is in the seed list
+    let toDelete = existing.filter { seedMerchants.contains($0.merchantName) }
+    toDelete.forEach { context.delete($0) }
+    if !toDelete.isEmpty {
+        try? context.save()
+        UserDefaults.standard.removeObject(forKey: "cachedInsights")
+        UserDefaults.standard.removeObject(forKey: "cachedInsightsDate")
     }
-    try? context.save()
+
+    UserDefaults.standard.set(true, forKey: key)
 }

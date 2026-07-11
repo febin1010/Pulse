@@ -52,9 +52,12 @@ struct TransactionListView: View {
                     }
                 }
                 ToolbarItem(placement: .topBarLeading) {
-                    Text("\(transactions.count) total")
+                    Text("\(transactions.count)")
                         .font(.caption)
                         .foregroundStyle(.secondary)
+                        .padding(.horizontal, 8)
+                        .padding(.vertical, 3)
+                        .background(.quaternary, in: Capsule())
                 }
             }
             .sheet(isPresented: $showingAdd) {

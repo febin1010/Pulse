@@ -70,17 +70,31 @@ struct InsightsView: View {
                         .transition(.opacity.combined(with: .move(edge: .bottom)))
                     }
 
-                    Button {
-                        Task { await loadInsights() }
-                    } label: {
-                        Label("Get Insights", systemImage: "sparkles")
-                            .frame(maxWidth: .infinity)
-                            .padding()
-                            .background(.blue)
-                            .foregroundStyle(.white)
-                            .clipShape(RoundedRectangle(cornerRadius: 14))
+                    if insights.isEmpty {
+                        Button {
+                            Task { await loadInsights(forceRefresh: false) }
+                        } label: {
+                            Label("Get Insights", systemImage: "sparkles")
+                                .frame(maxWidth: .infinity)
+                                .padding()
+                                .background(.blue)
+                                .foregroundStyle(.white)
+                                .clipShape(RoundedRectangle(cornerRadius: 14))
+                        }
+                        .disabled(isLoading)
+                    } else {
+                        Button {
+                            Task { await loadInsights(forceRefresh: true) }
+                        } label: {
+                            Label("Refresh Insights", systemImage: "arrow.clockwise")
+                                .frame(maxWidth: .infinity)
+                                .padding()
+                                .background(.blue.opacity(0.12))
+                                .foregroundStyle(.blue)
+                                .clipShape(RoundedRectangle(cornerRadius: 14))
+                        }
+                        .disabled(isLoading)
                     }
-                    .disabled(isLoading)
                 }
                 .padding()
                 .animation(.easeInOut, value: insights)
@@ -89,14 +103,19 @@ struct InsightsView: View {
         }
     }
 
-    private func loadInsights() async {
+    private func loadInsights(forceRefresh: Bool) async {
         isLoading = true
         errorMessage = nil
         do {
-            let text = try await InsightsNetworkService.shared.fetchInsights(transactions: Array(transactions))
-            insights = text.components(separatedBy: "\n").map { $0.trimmingCharacters(in: .whitespaces) }.filter { !$0.isEmpty }
+            let text = try await InsightsNetworkService.shared.fetchInsights(
+                transactions: Array(transactions),
+                forceRefresh: forceRefresh
+            )
+            insights = text.components(separatedBy: "\n")
+                .map { $0.trimmingCharacters(in: .whitespaces) }
+                .filter { !$0.isEmpty }
         } catch {
-            errorMessage = "Could not load insights. Make sure the backend is running."
+            errorMessage = "Could not load insights. Please try again."
         }
         isLoading = false
     }

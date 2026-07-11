@@ -26,9 +26,8 @@ class InsightsNetworkService {
     private let cacheKey = "cachedInsights"
     private let cacheDateKey = "cachedInsightsDate"
 
-    func fetchInsights(transactions: [Transaction]) async throws -> String {
-        // Return cached result if fetched today
-        if let cached = cachedInsightsForToday() {
+    func fetchInsights(transactions: [Transaction], forceRefresh: Bool = false) async throws -> String {
+        if !forceRefresh, let cached = cachedInsightsForToday() {
             return cached
         }
 

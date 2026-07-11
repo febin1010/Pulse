@@ -25,7 +25,7 @@ struct ModelStatusView: View {
         if syncService.updateAvailable, let latest = syncService.latestVersion {
             return "Update available: v\(latest)"
         }
-        return "v1.0.0 (up to date)"
+        return "v\(syncService.activeVersion) (up to date)"
     }
 
     var body: some View {
