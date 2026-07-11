@@ -12,7 +12,10 @@ class ClassifierEngine {
     private var model: MLModel?
 
     private init() {
-        if let url = Bundle.main.url(forResource: "TransactionClassifier", withExtension: "mlmodelc") {
+        // Load from disk (downloaded model) if available, else fall back to bundle
+        if let diskModel = loadFromDisk() {
+            model = diskModel
+        } else if let url = Bundle.main.url(forResource: "TransactionClassifier", withExtension: "mlmodelc") {
             model = try? MLModel(contentsOf: url)
         }
     }
@@ -39,7 +42,36 @@ class ClassifierEngine {
         return category
     }
 
+    // Called by ModelSyncService after a successful download + compile
+    func loadModel(from compiledURL: URL) {
+        if let newModel = try? MLModel(contentsOf: compiledURL) {
+            model = newModel
+        }
+    }
+
     func merchantBucketPublic(_ name: String) -> Int { merchantBucket(name) }
+
+    // MARK: - Private
+
+    private func loadFromDisk() -> MLModel? {
+        guard let url = downloadedModelURL() else { return nil }
+        return try? MLModel(contentsOf: url)
+    }
+
+    private func downloadedModelURL() -> URL? {
+        guard let appSupport = FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask).first else { return nil }
+        let modelsDir = appSupport.appendingPathComponent("Models")
+        // Find the most recently downloaded compiled model
+        guard let files = try? FileManager.default.contentsOfDirectory(at: modelsDir, includingPropertiesForKeys: [.creationDateKey], options: []) else { return nil }
+        return files
+            .filter { $0.pathExtension == "mlmodelc" }
+            .sorted { l, r in
+                let lDate = (try? l.resourceValues(forKeys: [.creationDateKey]).creationDate) ?? .distantPast
+                let rDate = (try? r.resourceValues(forKeys: [.creationDateKey]).creationDate) ?? .distantPast
+                return lDate > rDate
+            }
+            .first
+    }
 
     private func merchantBucket(_ name: String) -> Int {
         let lower = name.lowercased()
