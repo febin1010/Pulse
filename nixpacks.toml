@@ -1,8 +1,0 @@
-[phases.setup]
-nixPkgs = ["jdk21"]
-
-[phases.build]
-cmds = ["cd backend && ./gradlew bootJar --no-daemon"]
-
-[start]
-cmd = "java -jar backend/build/libs/pulse-backend-1.0.0.jar"
